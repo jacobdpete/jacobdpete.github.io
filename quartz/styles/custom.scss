@@ -1,3 +1,16 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* --- Custom Sizing Tweaks --- */
+
+/* 1. Make the main paragraph and list text larger */
+article p, article li {
+  font-size: 1.15rem; 
+  line-height: 1.7;   
+}
+
+/* 2. Make the "avaya project" logo smaller */
+.page-title a {
+  font-size: 1.25rem !important; 
+}
