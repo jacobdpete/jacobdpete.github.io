@@ -21,7 +21,13 @@ article p, article li {
 /* 2. Turn the center text column directly into our box */
 .center {
   background-color: var(--light); 
-  padding: 0.2rem 3rem 3rem 3rem !important; /* Top, Right, Bottom, Left */
+  
+  /* Broken out into individual lines so you have absolute control */
+  padding-top: 20px !important; /* Change this exact number until it feels right! */
+  padding-right: 3rem !important;
+  padding-bottom: 3rem !important;
+  padding-left: 3rem !important;
+  
   margin-top: 2rem !important;   
   margin-bottom: 2rem !important; 
   border-radius: 8px; 
@@ -34,19 +40,21 @@ article p, article li {
   border: 1px solid #444444; 
 }
 
-/* 4. Layout the Header (Title left, grouped Toggle + Search on right) */
+/* 4. Layout the Header (Squash the forcefields) */
 header {
   display: flex;
   align-items: center;
-  gap: 1rem; /* Controls the space between the moon and the search bar */
+  gap: 1rem;
   margin-top: 0 !important;
+  padding-top: 0 !important; /* Nukes hidden header spacing */
   margin-bottom: 2rem !important;
   width: 100%;
 }
 
 header .page-title {
-  margin: 0;
-  margin-right: auto; /* This magically pushes the toggle and search to the far right */
+  margin: 0 !important; /* Added !important to crush any hidden H1 margins */
+  padding: 0 !important;
+  margin-right: auto !important; 
 }
 
 @media all and (max-width: 800px) {
