@@ -17,7 +17,8 @@ article p, article li {
 }
 
 /* 1. Strip the grey box off the title */
-#toc-button, #toc {
+html body .page .toc #toc-button, 
+html body .page .toc {
   background-color: transparent !important;
   border: none !important;
   padding: 0 !important;
@@ -27,61 +28,68 @@ article p, article li {
   gap: 0.5rem;
 }
 
-#toc-button h3, #toc h3 {
+html body .page .toc #toc-button h3, 
+html body .page .toc h3 {
   font-size: 1.2rem;
   margin: 0;
   color: var(--dark);
 }
 
 /* 2. Style the clean list */
-#toc-content ul {
+html body .page .toc #toc-content ul {
   list-style: none !important;
   padding-left: 0;
   margin-top: 0.5rem;
 }
 
-#toc-content > ul {
+html body .page .toc #toc-content > ul {
   border-left: 2px solid var(--lightgray); 
 }
 
-#toc-content li {
+html body .page .toc #toc-content li {
   margin-left: 1rem;
   padding-top: 0.2rem;
   padding-bottom: 0.2rem;
 }
 
-#toc-content a {
+html body .page .toc #toc-content a {
   color: var(--gray);
   text-decoration: none;
 }
 
-#toc-content a:hover {
+html body .page .toc #toc-content a:hover {
   color: var(--secondary);
 }
 
-/* 3. THE MAGIC TOGGLE FIX (Inverted Logic) */
+/* 3. THE MAGIC TOGGLE FIX (Nuclear Specificity) */
 
 /* Base state: Forces the ToC to start completely hidden */
-#toc-content {
+html body .page .toc #toc-content {
   max-height: 0 !important;
   overflow: hidden !important;
   opacity: 0 !important;
-  transition: max-height 0.4s ease-in-out, opacity 0.4s ease-in-out;
+  visibility: hidden !important; /* Physically removes it so you can't click invisible links */
+  transition: max-height 0.4s ease-in-out, opacity 0.4s ease-in-out, visibility 0.4s;
 }
 
-/* Clicked state: When Quartz's JS adds the 'collapsed' class, we actually EXPAND it */
-#toc-content.collapsed {
+/* Clicked state: EXPAND (Beats Quartz's media queries) */
+html body .page .toc #toc-content.collapsed,
+html body .page .toc.collapsed #toc-content {
   max-height: 5000px !important;
   opacity: 1 !important;
+  visibility: visible !important;
+  margin-bottom: 2rem !important;
 }
 
-/* 4. Fix the Arrow Rotation so it matches our inverted logic */
-#toc-button .fold, #toc .fold {
+/* 4. Fix the Arrow Rotation */
+html body .page .toc #toc-button .fold, 
+html body .page .toc .fold {
   transform: rotate(-90deg) !important; /* Points right when closed */
   transition: transform 0.3s ease-in-out;
 }
 
-#toc-button.collapsed .fold, #toc.collapsed .fold {
+html body .page .toc #toc-button.collapsed .fold, 
+html body .page .toc.collapsed .fold {
   transform: rotate(0deg) !important; /* Points down when open */
 }
 
