@@ -4,11 +4,11 @@
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
   
-  /* FIXED ID: #toc-button instead of #toc */
-  #toc-button {
-    background-color: transparent;
-    border: none;
-    padding: 0;
+  /* Target the button exactly as Quartz names it */
+  button.toc-header {
+    background-color: transparent !important;
+    border: none !important;
+    padding: 0 !important;
     cursor: pointer;
     display: flex;
     align-items: center;
@@ -22,17 +22,26 @@
 
     .fold {
       transition: transform 0.3s ease;
+      transform: rotate(0deg); /* Points down when open */
+    }
+
+    /* When the TSX adds the 'collapsed' class */
+    &.collapsed .fold {
+      transform: rotate(-90deg); /* Points right when closed */
     }
   }
 
-  /* Base styling for the list */
-  #toc-content {
+  /* Target the content box exactly as Quartz names it */
+  .toc-content {
     overflow: hidden;
-    transition: max-height 0.4s ease-in-out, opacity 0.4s ease-in-out;
+    transition: max-height 0.4s ease-in-out, opacity 0.4s ease-in-out, margin 0.4s;
+    max-height: 2000px;
+    opacity: 1;
+    margin-top: 0.5rem;
     
     ul {
       list-style: none;
-      margin: 0.5rem 0 0 0;
+      margin: 0;
       padding: 0;
       border-left: 2px solid var(--lightgray);
     }
@@ -50,31 +59,12 @@
         color: var(--secondary);
       }
     }
-  }
 
-  /* CLOSED STATE: When 'collapseByDefault: true' applies the .collapsed class */
-  &.collapsed {
-    #toc-button .fold {
-      transform: rotate(-90deg); /* Arrow points right */
-    }
-
-    #toc-content {
+    /* When the TSX adds the 'collapsed' class to the content */
+    &.collapsed {
       max-height: 0;
       opacity: 0;
-      visibility: hidden;
-    }
-  }
-
-  /* OPEN STATE: When you click and remove the .collapsed class */
-  &:not(.collapsed) {
-    #toc-button .fold {
-      transform: rotate(0deg); /* Arrow points down */
-    }
-    
-    #toc-content {
-      max-height: 2000px;
-      opacity: 1;
-      visibility: visible;
+      margin-top: 0;
     }
   }
 }
