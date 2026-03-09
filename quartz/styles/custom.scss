@@ -18,9 +18,10 @@ article p, article li {
   background-color: #dcdcdc; 
 }
 
+/* 2. Turn the center text column directly into our box */
 .center {
   background-color: var(--light); 
-  padding: 3rem !important;      
+  padding: 1.5rem 3rem 3rem 3rem !important; /* Top, Right, Bottom, Left */
   margin-top: 2rem !important;   
   margin-bottom: 2rem !important; 
   border-radius: 8px; 
