@@ -10,86 +10,7 @@ article p, article li {
   font-size: 1.25rem !important; 
 }
 
-/* --- Fix the Table of Contents Layout --- */
-.toc {
-  margin-top: 1.5rem;
-  margin-bottom: 1.5rem;
-  text-align: left; /* Forces it perfectly inline on the left */
-  display: block !important;
-}
-
-/* Clean up the button */
-.toc #toc-button {
-  background-color: transparent !important;
-  border: none !important;
-  padding: 0 !important;
-  cursor: pointer;
-  display: inline-flex !important; /* Keeps just the arrow and text together */
-  align-items: center;
-  gap: 0.5rem;
-}
-
-.toc #toc-button h3 {
-  font-size: 1.2rem;
-  margin: 0;
-  color: var(--dark);
-}
-
-/* Style the list */
-.toc #toc-content ul {
-  list-style: none !important;
-  padding-left: 0;
-  margin-top: 0.5rem;
-}
-
-.toc #toc-content > ul {
-  border-left: 2px solid var(--lightgray); 
-}
-
-.toc #toc-content li {
-  margin-left: 1rem;
-  padding-top: 0.2rem;
-  padding-bottom: 0.2rem;
-}
-
-.toc #toc-content a {
-  color: var(--gray);
-  text-decoration: none;
-}
-
-.toc #toc-content a:hover {
-  color: var(--secondary);
-}
-
-/* --- THE REAL TOGGLE FIX --- */
-/* Base state: Starts closed with arrow pointing right */
-.toc #toc-content {
-  max-height: 0 !important;
-  overflow: hidden !important;
-  opacity: 0 !important;
-  visibility: hidden !important;
-  transition: max-height 0.4s ease-in-out, opacity 0.4s ease-in-out, visibility 0.4s;
-}
-
-.toc #toc-button .fold {
-  transform: rotate(-90deg) !important; 
-  transition: transform 0.3s ease-in-out;
-}
-
-/* Clicked state: .collapsed is added to the .toc wrapper, we use it to OPEN */
-.toc.collapsed #toc-content {
-  max-height: 5000px !important;
-  opacity: 1 !important;
-  visibility: visible !important;
-}
-
-.toc.collapsed #toc-button .fold {
-  transform: rotate(0deg) !important; /* Points down */
-}
-
 /* --- The MillMint Box Layout (The Smart Way) --- */
-
-/* 1. Make the extreme left/right sides pitch black */
 [saved-theme="dark"] body {
   background-color: #000000; 
 }
@@ -97,7 +18,6 @@ article p, article li {
   background-color: #dcdcdc; 
 }
 
-/* 2. Turn the center text column directly into our box */
 .center {
   background-color: var(--light); 
   padding: 3rem !important;      
@@ -108,13 +28,11 @@ article p, article li {
   max-width: 800px !important;   
 }
 
-/* 3. Force the box to stand out in dark mode */
 [saved-theme="dark"] .center {
   background-color: #161618; 
   border: 1px solid #444444; 
 }
 
-/* 4. Layout the Header (Title left, Search right) */
 header {
   display: flex;
   justify-content: space-between;
@@ -128,7 +46,6 @@ header .page-title {
   margin: 0;
 }
 
-/* --- Mobile Layout Rules --- */
 @media all and (max-width: 800px) {
   .center {
     margin: 0 !important;            

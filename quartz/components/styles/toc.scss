@@ -1,66 +1,69 @@
-@use "../../styles/variables.scss" as *;
-
 .toc {
-  display: flex;
-  flex-direction: column;
-  overflow-y: hidden;
-  min-height: 1.4rem;
-  flex: 0 0.5 auto;
-  &:has(button.toc-header.collapsed) {
-    flex: 0 1 1.4rem;
-  }
-}
-
-button.toc-header {
-  background-color: transparent;
-  border: none;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
   text-align: left;
-  cursor: pointer;
-  padding: 0;
-  color: var(--dark);
-  display: flex;
-  align-items: center;
 
-  & h3 {
-    font-size: 1rem;
-    display: inline-block;
-    margin: 0;
-  }
+  button#toc {
+    background-color: transparent;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
 
-  & .fold {
-    margin-left: 0.5rem;
-    transition: transform 0.3s ease;
-    opacity: 0.8;
-  }
+    h3 {
+      font-size: 1.2rem;
+      margin: 0;
+      color: var(--dark);
+    }
 
-  &.collapsed .fold {
-    transform: rotateZ(-90deg);
-  }
-}
-
-ul.toc-content.overflow {
-  list-style: none;
-  position: relative;
-  margin: 0.5rem 0;
-  padding: 0;
-  max-height: calc(100% - 2rem);
-  overscroll-behavior: contain;
-  list-style: none;
-
-  & > li > a {
-    color: var(--dark);
-    opacity: 0.35;
-    transition:
-      0.5s ease opacity,
-      0.3s ease color;
-    &.in-view {
-      opacity: 0.75;
+    .fold {
+      transition: transform 0.3s ease-in-out;
+      transform: rotate(-90deg); /* Arrow points right (closed) */
     }
   }
 
-  @for $i from 0 through 6 {
-    & .depth-#{$i} {
-      padding-left: calc(1rem * #{$i});
+  /* Base State: Starts fully hidden */
+  #toc-content {
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+    visibility: hidden;
+    transition: max-height 0.4s ease-in-out, opacity 0.4s ease-in-out, visibility 0.4s;
+
+    ul {
+      list-style: none;
+      padding-left: 0;
+      margin-top: 0.5rem;
+      border-left: 2px solid var(--lightgray);
+    }
+
+    li {
+      margin-left: 1rem;
+      padding: 0.2rem 0;
+    }
+
+    a {
+      color: var(--gray);
+      text-decoration: none;
+
+      &:hover {
+        color: var(--secondary);
+      }
+    }
+  }
+
+  /* Clicked State: The JS toggle expands the box */
+  &.collapsed {
+    button#toc .fold {
+      transform: rotate(0deg); /* Arrow points down */
+    }
+
+    #toc-content {
+      max-height: 5000px;
+      opacity: 1;
+      visibility: visible;
     }
   }
 }
