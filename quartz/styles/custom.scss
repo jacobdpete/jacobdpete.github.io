@@ -74,34 +74,31 @@ article p, article li {
   background-color: #dcdcdc; /* A nice neutral gray for light mode */
 }
 
-/* 2. Build the central floating box */
+/* 2. Build the central floating box and DESTROY the invisible grid */
 .page {
   background-color: var(--light); 
-  max-width: 800px;    /* Shrunk down to perfectly hug the text column */
-  width: 92vw;         
-  margin: 3rem auto; 
-  padding: 2rem 2rem; /* Reduced padding (top/bottom, left/right) so it breathes but doesn't drown */
-  border-radius: 12px; 
+  max-width: 800px;    
+  margin: 2rem auto; 
+  padding: 2.5rem; 
+  border-radius: 8px; 
   border: 1px solid #a0a0a0; 
+  display: block !important; /* Breaks Quartz's default 3-column grid */
 }
 
-/* --- Mobile Layout Rules --- */
-@media all and (max-width: 800px) {
-  .page {
-    width: 100%;          
-    margin: 0;            
-    border-radius: 0;     
-    border: none;         
-    padding: 1.5rem 1rem; /* Much tighter padding so mobile text actually fits on the screen */
-  }
+/* 3. Ensure the internal content stretches to fill our new box */
+.center, .page article {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0 !important;
 }
-/* Force the box to stand out in dark mode */
+
+/* 4. Force the box to stand out in dark mode */
 [saved-theme="dark"] .page {
   background-color: #161618; /* A sleek, deep dark gray */
   border: 1px solid #444444; /* Sharp, defined outline for dark mode */
 }
 
-/* 3. Layout the Header (Title left, Search right) */
+/* 5. Layout the Header (Title left, Search right) */
 header {
   display: flex;
   justify-content: space-between;
@@ -112,4 +109,15 @@ header {
 
 header .page-title {
   margin: 0;
+}
+
+/* --- Mobile Layout Rules --- */
+@media all and (max-width: 800px) {
+  .page {
+    width: 100%;          
+    margin: 0;            
+    border-radius: 0;     
+    border: none;         
+    padding: 1.5rem 1rem; 
+  }
 }
