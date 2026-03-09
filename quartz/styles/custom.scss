@@ -76,13 +76,20 @@ article p, article li {
 
 /* 2. Build the central floating box */
 .page {
-  background-color: var(--light); /* Uses your theme's dark gray */
-  max-width: 850px;               /* Keeps text at a readable width */
-  margin: 3rem auto;              /* Centers the box with breathing room on top/bottom */
-  padding: 3rem 4rem;             /* Adds internal padding inside the box */
-  border-radius: 12px;            /* Smooth corners */
-  border: 1px solid var(--lightgray); /* Subtle border like MillMint */
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5); /* Makes the box "float" */
+  background-color: var(--light); 
+  max-width: 1000px;   /* Significantly wider box */
+  width: 92vw;         /* Ensures a consistent black border on the sides across all screen sizes */
+  margin: 3rem auto; 
+  padding: 3rem;       /* Even, comfortable padding so the text isn't squished */
+  border-radius: 12px; 
+  border: 1px solid #a0a0a0; /* A crisp, defined outline for light mode */
+  /* Box shadow removed completely! */
+}
+
+/* Force the box to stand out in dark mode */
+[saved-theme="dark"] .page {
+  background-color: #161618; /* A sleek, deep dark gray */
+  border: 1px solid #444444; /* Sharp, defined outline for dark mode */
 }
 
 /* 3. Layout the Header (Title left, Search right) */
@@ -98,12 +105,13 @@ header .page-title {
   margin: 0;
 }
 
-/* 4. Make it snap to full screen on mobile phones */
+/* --- Mobile Layout Rules --- */
 @media all and (max-width: 800px) {
   .page {
-    margin: 0;
-    border-radius: 0;
-    border: none;
-    padding: 1.5rem;
+    width: 100%;          /* Forces the box to touch the edges on mobile */
+    margin: 0;            /* Removes the outside margins */
+    border-radius: 0;     /* Removes the rounded corners */
+    border: none;         /* Removes the border line */
+    padding: 1.5rem;      /* Gives a comfortable, even padding for mobile text */
   }
 }
