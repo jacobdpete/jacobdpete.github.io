@@ -3,14 +3,11 @@
 // put your custom CSS here!
 
 /* --- Custom Sizing Tweaks --- */
-
-/* 1. Make the main paragraph and list text larger */
 article p, article li {
   font-size: 1.15rem; 
   line-height: 1.7;   
 }
 
-/* 2. Make the "avaya project" logo smaller */
 .page-title a {
   font-size: 1.25rem !important; 
 }
@@ -21,7 +18,6 @@ article p, article li {
   margin-bottom: 1.5rem;
 }
 
-/* 1. Strip the grey box off the title */
 #toc-button {
   background-color: transparent !important;
   border: none !important;
@@ -38,7 +34,6 @@ article p, article li {
   color: var(--dark);
 }
 
-/* 2. Remove the big bullets and make the list clean */
 #toc-content ul {
   list-style: none !important;
   padding-left: 0;
@@ -46,7 +41,7 @@ article p, article li {
 }
 
 #toc-content > ul {
-  border-left: 2px solid var(--lightgray); /* Adds the subtle line on the left */
+  border-left: 2px solid var(--lightgray); 
 }
 
 #toc-content li {
@@ -71,34 +66,41 @@ article p, article li {
   background-color: #000000; 
 }
 [saved-theme="light"] body {
-  background-color: #dcdcdc; /* A nice neutral gray for light mode */
+  background-color: #dcdcdc; 
 }
 
-/* 2. Build the central floating box and DESTROY the invisible grid */
+/* 2. Build the central floating box and DESTROY the grid */
 .page {
   background-color: var(--light); 
-  max-width: 800px;    
-  margin: 2rem auto; 
-  padding: 2.5rem; 
+  max-width: 800px !important;    
+  margin: 2rem auto !important; 
+  padding: 2.5rem !important; 
   border-radius: 8px; 
   border: 1px solid #a0a0a0; 
-  display: block !important; /* Breaks Quartz's default 3-column grid */
+  /* This completely overrides Quartz's 3-column desktop grid */
+  display: flex !important; 
+  flex-direction: column !important; 
 }
 
-/* 3. Ensure the internal content stretches to fill our new box */
-.center, .page article {
+/* 3. Completely hide the empty sidebars that are squishing the text */
+.sidebar {
+  display: none !important;
+}
+
+/* 4. Ensure the internal content stretches to fill our new box */
+.center {
   width: 100% !important;
   max-width: 100% !important;
   margin: 0 !important;
 }
 
-/* 4. Force the box to stand out in dark mode */
+/* 5. Force the box to stand out in dark mode */
 [saved-theme="dark"] .page {
-  background-color: #161618; /* A sleek, deep dark gray */
-  border: 1px solid #444444; /* Sharp, defined outline for dark mode */
+  background-color: #161618; 
+  border: 1px solid #444444; 
 }
 
-/* 5. Layout the Header (Title left, Search right) */
+/* 6. Layout the Header (Title left, Search right) */
 header {
   display: flex;
   justify-content: space-between;
@@ -114,10 +116,11 @@ header .page-title {
 /* --- Mobile Layout Rules --- */
 @media all and (max-width: 800px) {
   .page {
-    width: 100%;          
-    margin: 0;            
+    width: 100% !important;          
+    max-width: 100% !important;
+    margin: 0 !important;            
     border-radius: 0;     
     border: none;         
-    padding: 1.5rem 1rem; 
+    padding: 1.5rem 1rem !important; 
   }
 }
