@@ -159,9 +159,11 @@ a {
   }
 }
 
+/* --- THE MASTER LAYOUT FIX --- */
 .page {
-  max-width: calc(#{map.get($breakpoints, desktop)} + 300px);
+  width: 100%;
   margin: 0 auto;
+  
   & article {
     & > h1 {
       font-size: 2rem;
@@ -188,28 +190,12 @@ a {
     }
   }
 
+  /* We completely nuke the grid here and turn it into a clean flex column */
   & > #quartz-body {
-    display: grid;
-    grid-template-columns: #{map.get($desktopGrid, templateColumns)};
-    grid-template-rows: #{map.get($desktopGrid, templateRows)};
-    column-gap: #{map.get($desktopGrid, columnGap)};
-    row-gap: #{map.get($desktopGrid, rowGap)};
-    grid-template-areas: #{map.get($desktopGrid, templateAreas)};
-
-    @media all and ($tablet) {
-      grid-template-columns: #{map.get($tabletGrid, templateColumns)};
-      grid-template-rows: #{map.get($tabletGrid, templateRows)};
-      column-gap: #{map.get($tabletGrid, columnGap)};
-      row-gap: #{map.get($tabletGrid, rowGap)};
-      grid-template-areas: #{map.get($tabletGrid, templateAreas)};
-    }
-    @media all and ($mobile) {
-      grid-template-columns: #{map.get($mobileGrid, templateColumns)};
-      grid-template-rows: #{map.get($mobileGrid, templateRows)};
-      column-gap: #{map.get($mobileGrid, columnGap)};
-      row-gap: #{map.get($mobileGrid, rowGap)};
-      grid-template-areas: #{map.get($mobileGrid, templateAreas)};
-    }
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
 
     @media all and not ($desktop) {
       padding: 0 1rem;
@@ -219,61 +205,17 @@ a {
     }
 
     & .sidebar {
-      gap: 1.2rem;
-      top: 0;
-      box-sizing: border-box;
-      padding: $topSpacing 2rem 2rem 2rem;
-      display: flex;
-      height: 100vh;
-      position: sticky;
+      display: none; /* Kills the sidebars globally at the root */
     }
 
-    & .sidebar.left {
-      z-index: 1;
-      grid-area: grid-sidebar-left;
-      flex-direction: column;
-      @media all and ($mobile) {
-        gap: 0;
-        align-items: center;
-        position: initial;
-        display: flex;
-        height: unset;
-        flex-direction: row;
-        padding: 0;
-        padding-top: 2rem;
-      }
-    }
-
-    & .sidebar.right {
-      grid-area: grid-sidebar-right;
-      margin-right: 0;
-      flex-direction: column;
-      @media all and ($mobile) {
-        margin-left: inherit;
-        margin-right: inherit;
-      }
-      @media all and not ($desktop) {
-        position: initial;
-        height: unset;
-        width: 100%;
-        flex-direction: row;
-        padding: 0;
-        & > * {
-          flex: 1;
-          max-height: 24rem;
-        }
-        & > .toc {
-          display: none;
-        }
-      }
-    }
     & .page-header,
     & .page-footer {
       margin-top: 1rem;
+      width: 100%;
+      max-width: 800px;
     }
 
     & .page-header {
-      grid-area: grid-header;
       margin: $topSpacing 0 0 0;
       @media all and ($mobile) {
         margin-top: 0;
@@ -281,30 +223,16 @@ a {
       }
     }
 
-    & .center > article {
-      grid-area: grid-center;
-    }
-
-    & footer {
-      grid-area: grid-footer;
-    }
-
     & .center,
     & footer {
-      max-width: 100%;
-      min-width: 100%;
+      width: 100%;
+      max-width: 800px; /* Forces your center box to respect the 800px limit */
       margin-left: auto;
       margin-right: auto;
-      @media all and ($tablet) {
-        margin-right: 0;
-      }
-      @media all and ($mobile) {
-        margin-right: 0;
-        margin-left: 0;
-      }
     }
+    
     & footer {
-      margin-left: 0;
+      margin-left: auto;
     }
   }
 }
