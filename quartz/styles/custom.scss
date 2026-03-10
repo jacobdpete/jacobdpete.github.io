@@ -115,11 +115,11 @@ header .page-title {
 }
 
 .top-tier a {
-  color: var(--gray);
+  color: var(--darkgray); /* Brightened from var(--gray) */
   text-decoration: none;
   padding: 0.5rem 0.8rem;
   border-radius: 6px 6px 0 0; 
-  border-bottom: 3px solid transparent; /* Invisible border to hold layout */
+  border-bottom: 3px solid transparent; 
   transition: all 0.2s ease;
   display: flex;
   align-items: center;
@@ -138,7 +138,7 @@ header .page-title {
 /* Active Tab State */
 .top-tier a.active {
   color: var(--dark);
-  border-bottom: 3px solid var(--tertiary); /* The pink underline */
+  border-bottom: 3px solid var(--tertiary); 
   background-color: rgba(0, 0, 0, 0.03);
 }
 
@@ -149,35 +149,42 @@ header .page-title {
 /* 2. Bottom Row: The Pill Container */
 .sub-tier-container {
   background-color: rgba(0, 0, 0, 0.03);
-  padding: 0.6rem 1rem;
+  padding: 0.5rem 0.8rem;
   border-radius: 8px;
   border: 1px solid var(--lightgray);
 }
 
 [saved-theme="dark"] .sub-tier-container {
-  background-color: #1e1e20; /* Slightly lighter than the background */
+  background-color: #1e1e20; 
   border: 1px solid #333;
 }
 
-/* 3. Bottom Row: The Links */
+/* 3. Bottom Row: The Links (Shrunk to one line) */
 .sub-tier {
   display: flex;
-  flex-wrap: wrap; /* Wraps to next line gracefully if it runs out of space */
-  gap: 1.2rem;
+  flex-wrap: nowrap; /* Forces a single line */
+  gap: 0.7rem;       /* Tighter spacing between items */
   list-style: none !important;
   padding: 0;
   margin: 0;
-  font-size: 0.95rem;
+  font-size: 0.8rem; /* Shrunk font size */
   font-weight: 500;
+  overflow-x: auto;  /* Allows horizontal swipe on tiny mobile screens */
+  scrollbar-width: none; /* Hides the scrollbar if it triggers */
+}
+
+.sub-tier::-webkit-scrollbar {
+  display: none; /* Hides scrollbar on Chrome/Safari */
 }
 
 .sub-tier a {
-  color: var(--gray);
+  color: var(--darkgray); /* Brightened from var(--gray) */
   text-decoration: none;
   display: flex;
   align-items: center;
-  gap: 0.4rem;
+  gap: 0.3rem;
   transition: color 0.2s ease;
+  white-space: nowrap; /* Prevents text from wrapping under icons */
 }
 
 .sub-tier a:hover {
