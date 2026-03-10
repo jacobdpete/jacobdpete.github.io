@@ -21,9 +21,7 @@ article p, article li {
 /* 2. Turn the center text column directly into our box */
 .center {
   background-color: var(--light); 
-  
-  /* Broken out into individual lines so you have absolute control */
-  padding-top: 10px !important; /* Change this exact number until it feels right! */
+  padding-top: 0px !important; /* Let's start from absolute zero */
   padding-right: 3rem !important;
   padding-bottom: 3rem !important;
   padding-left: 3rem !important;
@@ -51,9 +49,18 @@ header {
   width: 100%;
 }
 
+/* 5. Nuke ALL phantom top margins inside the box */
+.page, 
+.page-header, 
+.search {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
 header .page-title {
-  margin: 0 !important; /* Added !important to crush any hidden H1 margins */
+  margin: 0 !important; 
   padding: 0 !important;
+  line-height: 1 !important; /* Stops the text itself from having a tall invisible bounding box */
   margin-right: auto !important; 
 }
 
