@@ -70,27 +70,29 @@ header .page-title {
   padding-left: 12px !important; /* This keeps the icon from touching the wall */
 }
 
-/* --- Nuke the 3-Column Grid and Force True Centering --- */
+/* --- The True Layout Override --- */
 
-/* 1. Stop the page from doing weird grid/flex math */
-.page, .page-body {
+/* 1. Turn the master wrapper into the perfectly centered 800px container */
+.page {
   display: block !important;
+  max-width: 800px !important;
   width: 100% !important;
+  margin: 0 auto !important; 
 }
 
-/* 2. Physically collapse the ghost columns */
+/* 2. Tell the inner content box to just fill that 800px space smoothly */
+.center {
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 !important;
+}
+
+/* 3. Delete the sidebars entirely */
 .left.sidebar,
 .right.sidebar {
   display: none !important; 
 }
 
-/* 3. Force the center box to be 800px and push it to the exact middle */
-.center {
-  width: 100% !important;
-  max-width: 800px !important;
-  margin-left: auto !important; /* The magic centering rule */
-  margin-right: auto !important; /* The magic centering rule */
-}
 @media all and (max-width: 800px) {
   .center {
     margin: 0 !important;            
