@@ -200,6 +200,19 @@ header .page-title {
   color: var(--light); /* Makes the active text pop against the dark background */
 }
 
+/* --- Explicit Dark Mode Colors for the Pillbox --- */
+[saved-theme="dark"] .sub-tier a {
+  color: #b0b0b0 !important; /* A bright, readable light gray for inactive links */
+}
+
+[saved-theme="dark"] .sub-tier a:hover {
+  color: var(--tertiary) !important;
+}
+
+[saved-theme="dark"] .sub-tier a.active {
+  color: #ffffff !important; /* Pure crisp white for the active link */
+}
+
 @media all and (max-width: 800px) {
   .center {
     margin: 0 !important;            
