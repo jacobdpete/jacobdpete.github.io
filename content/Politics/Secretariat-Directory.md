@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Overview
 The Secretariat-Directory, often referred to as the Directory, and chronologically the 20th Directory of the Secretariat of the [[Rosen Commonwealth]], is a council of elected senators that exercises the executive powers of the state. The Directory elects the office of the Secretary-General, who *de jure* functions as the head of state and government of the Rosen Commonwealth.
 While the Secretary-General is constitutionally imbued with a very high degree of power, much of the actual decision-making is left to the Directory, which relies on the Secretary-General to carry out its resolutions.

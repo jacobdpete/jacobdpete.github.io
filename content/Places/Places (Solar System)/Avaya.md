@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 >[!Author's Note]
 >In this project, "Avaya" is simply another name for Earth. In addition, "Luna" replaces "the Moon," and "Sol" replaces "the Sun." The rest of the solar system is more or less identical, but the planets have different names. 
 >Avaya's biosphere and other attributes (i.e. diameter, orbital direction, etc.) are identical to Earth's (excluding continents and other landmasses, which are unique.)

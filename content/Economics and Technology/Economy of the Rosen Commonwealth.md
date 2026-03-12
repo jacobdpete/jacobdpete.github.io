@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 > [!Summary]
 > The economy of the Rosen Commonwealth is complex and relies on hard capitalistic principles and civic values more similar to leftist ideals simultaneously. The Commonwealth hosts a massive economy with a GDP of AC28 trillion, comprising about 36% of the global economy. Through significant automation made possible by unlimited cheap energy and advanced technology, the Commonwealth leverages its massive economic power to furnish a high standard of living for its citizens.
 # Overview

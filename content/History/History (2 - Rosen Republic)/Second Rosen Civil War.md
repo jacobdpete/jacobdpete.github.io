@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 > *O land of password, handgrip, wink and nod,*
 > *Of open minds as open as a trap,*
 > 

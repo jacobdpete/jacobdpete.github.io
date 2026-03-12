@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 >[!Summary]
 >The executive branch of the [[Rosen Commonwealth]] is composed of dozens of different administrative bodies that manage the Commonwealth's needs. They are categorized in three levels: *departments*, in which most administration is devolved to [[republic|republics]] and is more accountable to the cabinet than the [[Secretariat-Directory]], *offices*, in which administrators are directly appointed by secretaries and is more accountable to the Directory than the cabinet, and *agencies*, which are more independent and operate with less political oversight.
 

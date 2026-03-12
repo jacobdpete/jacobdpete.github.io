@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 >[!Summary]
 >The [[Secretariat-Directory#Secretary-Generalship|Secretary-General]] of the [[Rosen Commonwealth]] is the largely ceremonial head of state and government of the Rosen Commonwealth, elected by the Rosen Senate to an eight-year term. Under the [[Constitution of the Second Rosen Commonwealth]], the officeholder leads the executive branch of the national government and holds the highest position in Rosen federal precedence. 
 >The Secretary-General leads the [[Secretariat-Directory]]. Besides the Senate, they are the only body vested with the power to dissolve and call new elections for members of the Directory. 13 Secretary-Generals have presided over 20 Directories. 3 Secretary-Generals have had incomplete terms.

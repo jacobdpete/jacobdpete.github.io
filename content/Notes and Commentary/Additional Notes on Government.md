@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 There is a lot of talk in this project about Rosen History and the way governance in the country has evolved over time. However, the Commonwealth's governmental structure can be confusing - this note serves to rectify this issue.
 
 # The Executive Branch

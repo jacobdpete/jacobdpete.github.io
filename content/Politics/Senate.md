@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 The Senate of the [[Rosen Commonwealth]] is the legislative branch of the federal government of the Rosen Commonwealth. It is a unicameral legislature with 138 members. The Senate meets in the Federal Capitol Complex in [[São Cedillo]].
 Senators are chosen through direct election, with vacancies filled immediately by special elections. The Senate has 138 members, which encompasses six people from each [[Republic]] in the form of two pairs of a man and a woman. The members of the [[Secretariat-Directory]] and the [[Secretariat-Directory#Secretary-Generalship|Secretary-General]] are elected by the Senate but are not senators.
 The Senate convenes from February to November every year. Elections for senators are held every four years. Because each Republic is entitled to the same number of senators, there are large discrepancies between how many constituents one senator represents. In addition, senators are elected in pairs; each Republic has two constituencies of roughly equal population.
