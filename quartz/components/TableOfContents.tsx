@@ -21,6 +21,7 @@ let numTocs = 0
 export default ((opts?: Partial<Options>) => {
   const layout = opts?.layout ?? defaultOptions.layout
   const { OverflowList, overflowListAfterDOMLoaded } = OverflowListFactory()
+  
   const TableOfContents: QuartzComponent = ({
     fileData,
     displayClass,
@@ -35,9 +36,9 @@ export default ((opts?: Partial<Options>) => {
       <div class={classNames(displayClass, "toc")}>
         <button
           type="button"
-          class={fileData.collapseToc ? "collapsed toc-header" : "toc-header"}
+          class="collapsed toc-header" /* Hardcoded to always start collapsed */
           aria-controls={id}
-          aria-expanded={!fileData.collapseToc}
+          aria-expanded={false} /* Hardcoded to false for accessibility */
         >
           <h3>{i18n(cfg.locale).components.tableOfContents.title}</h3>
           <svg
@@ -57,7 +58,7 @@ export default ((opts?: Partial<Options>) => {
         </button>
         <OverflowList
           id={id}
-          class={fileData.collapseToc ? "collapsed toc-content" : "toc-content"}
+          class="collapsed toc-content" /* Hardcoded to hide the content on load */
         >
           {fileData.toc.map((tocEntry) => (
             <li key={tocEntry.slug} class={`depth-${tocEntry.depth}`}>
@@ -79,7 +80,7 @@ export default ((opts?: Partial<Options>) => {
       return null
     }
     return (
-      <details class="toc" open={!fileData.collapseToc}>
+      <details class="toc" open={false}> /* Hardcoded to always start closed */
         <summary>
           <h3>{i18n(cfg.locale).components.tableOfContents.title}</h3>
         </summary>

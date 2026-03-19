@@ -73,29 +73,6 @@ header .page-title {
   padding-left: 12px !important; /* This keeps the icon from touching the wall */
 }
 
-/* --- The True Layout Override --- */
-
-/* 1. Turn the master wrapper into the perfectly centered 800px container */
-.page {
-  display: block !important;
-  max-width: 800px !important;
-  width: 100% !important;
-  margin: 0 auto !important; 
-}
-
-/* 2. Tell the inner content box to just fill that 800px space smoothly */
-.center {
-  max-width: 100% !important;
-  width: 100% !important;
-  margin: 0 !important;
-}
-
-/* 3. Delete the sidebars entirely */
-.left.sidebar,
-.right.sidebar {
-  display: none !important; 
-}
-
 /* --- MillMint Custom Menu Bar --- */
 .menu-bar {
   margin-top: 1rem;
@@ -249,3 +226,41 @@ header .page-title {
 html[data-theme-preference="light"] .light-icon { display: block; }
 html[data-theme-preference="dark"] .dark-icon { display: block; }
 html[data-theme-preference="auto"] .auto-icon { display: block; }
+
+/* --- Table of Contents Styling --- */
+.toc {
+  background-color: rgba(0, 0, 0, 0.03);
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  padding: 0.5rem 1.2rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+[saved-theme="dark"] .toc {
+  background-color: #1e1e20;
+  border: 1px solid #333;
+}
+
+/* Style the clickable header */
+.toc button#toc {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: none;
+  border: none;
+  padding: 0.5rem 0;
+  cursor: pointer;
+  color: var(--dark);
+}
+
+.toc button#toc h3 {
+  margin: 0;
+  font-size: 1.15rem;
+}
+
+/* Ensure the text inside has breathing room */
+#toc-content {
+  margin-top: 0.5rem;
+}

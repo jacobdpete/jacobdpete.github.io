@@ -21,6 +21,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.TableOfContents(), /* <--- Drops the ToC right back into the center! */
   ],
   left: [],
   right: [],
