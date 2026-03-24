@@ -43,21 +43,9 @@
       "slots": [
         {
           "index": 0,
-          "option": "CURRENT_DAY",
-          "unit": "WORD",
-          "calc": "TOTAL"
-        },
-        {
-          "index": 1,
           "option": "CURRENT_WEEK",
           "unit": "WORD",
           "calc": "TOTAL"
-        },
-        {
-          "index": 2,
-          "option": "LAST_MONTH",
-          "unit": "WORD",
-          "calc": "AVG"
         }
       ]
     }
@@ -67,7 +55,9 @@
     "highestStreak": 0,
     "highestStreakStartDate": "",
     "highestStreakEndDate": "",
-    "daysWithCompletedGoal": [],
+    "daysWithCompletedGoal": [
+      "2026-03-23"
+    ],
     "dailyActivity": [
       {
         "date": "2026-03-18",
@@ -199,7 +189,129 @@
         "charCountStart": 14100,
         "changes": [],
         "id": 15
+      },
+      {
+        "date": "2026-03-19",
+        "filePath": "Economics and Technology/ROCARA.md",
+        "wordCountStart": 53,
+        "charCountStart": 391,
+        "changes": [],
+        "id": 16
+      },
+      {
+        "date": "2026-03-19",
+        "filePath": "Economics and Technology/Housing and Urban Development in the Rosen Commonwealth.md",
+        "wordCountStart": 749,
+        "charCountStart": 5114,
+        "changes": [],
+        "id": 17
+      },
+      {
+        "date": "2026-03-19",
+        "filePath": "Economics and Technology/HOSMAX.md",
+        "wordCountStart": 101,
+        "charCountStart": 700,
+        "changes": [],
+        "id": 18
+      },
+      {
+        "date": "2026-03-19",
+        "filePath": "Economics and Technology/Economy of the Rosen Commonwealth.md",
+        "wordCountStart": 791,
+        "charCountStart": 5361,
+        "changes": [],
+        "id": 19
+      },
+      {
+        "date": "2026-03-19",
+        "filePath": "Economics and Technology/Economics and Technology Index.md",
+        "wordCountStart": 285,
+        "charCountStart": 2043,
+        "changes": [],
+        "id": 20
+      },
+      {
+        "date": "2026-03-21",
+        "filePath": "Economics and Technology/Economics and Technology Index.md",
+        "wordCountStart": 285,
+        "charCountStart": 2043,
+        "changes": [],
+        "id": 21
+      },
+      {
+        "date": "2026-03-23",
+        "filePath": "Economics and Technology/Economics and Technology Index.md",
+        "wordCountStart": 285,
+        "charCountStart": 2043,
+        "changes": [],
+        "id": 22
+      },
+      {
+        "date": "2026-03-23",
+        "filePath": "People/Hatsue Yuhara.md",
+        "wordCountStart": 371,
+        "charCountStart": 2471,
+        "changes": [],
+        "id": 23
+      },
+      {
+        "date": "2026-03-23",
+        "filePath": "XDevelopment/notes.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:05",
+            "w": 1620,
+            "c": 11329
+          }
+        ],
+        "id": 24
+      },
+      {
+        "date": "2026-03-23",
+        "filePath": "States/States (Present)/Rosen Commonwealth.md",
+        "wordCountStart": 6204,
+        "charCountStart": 46158,
+        "changes": [
+          {
+            "timeKey": "19:10",
+            "w": 44,
+            "c": 296
+          },
+          {
+            "timeKey": "19:15",
+            "w": 72,
+            "c": 481
+          },
+          {
+            "timeKey": "19:20",
+            "w": 10,
+            "c": 85
+          },
+          {
+            "timeKey": "19:25",
+            "w": 31,
+            "c": 194
+          },
+          {
+            "timeKey": "20:25",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 25
+      },
+      {
+        "date": "2026-03-23",
+        "filePath": "Notes and Commentary/Notes and References.md",
+        "wordCountStart": 3477,
+        "charCountStart": 23573,
+        "changes": [],
+        "id": 26
       }
-    ]
+    ],
+    "wholeVaultWordCount": 35067,
+    "wholeVaultCharCount": 245329
   }
 }
