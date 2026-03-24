@@ -1,2 +1,16 @@
+# Overview
 Almeidaism is a democratic socialist ideology developed by Jorge Almeida and several other colleagues from the 1960s to 80s as a response to the policy of the [[Rosen Republic]], other leftist movements, and the [[Second Rosen Civil War]]'s underlying economic, social, and political causes. Almeidaism emphasizes collective leadership; tolerance, diversity, and community-building; the abolition of currency; and universal housing, healthcare, and sustenance.
 Almeidaist economics envisions an anarchistic, locally-maintained market relying on contributory labor and civic obligation, creating a society where "consumers do not interact with prices and workers do not interact with wages."
+# Influences
+## Contributors
+# Theory
+### Differences with other democratic socialist ideologies
+## Economics
+## Social aspects
+## Political architecture
+# Practice
+## Application in the Rosen Commonwealth
+## Application abroad
+# Criticism
+## "Reformed Almeidaism"
+
