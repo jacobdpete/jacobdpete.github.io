@@ -6,9 +6,9 @@
   
   /* Target the button exactly as Quartz names it */
   button.toc-header {
-    background-color: transparent !important;
-    border: none !important;
-    padding: 0 !important;
+    background-color: transparent;
+    border: none;
+    padding: 0;
     cursor: pointer;
     display: flex;
     align-items: center;
@@ -39,84 +39,70 @@
     opacity: 1;
     margin-top: 0.5rem;
     
-    ul {
-      list-style: none;
-      margin: 0;
-      padding: 0;
-      border-left: 2px solid var(--lightgray);
-    }
-
-    li {
-      margin-left: 1rem;
-      padding: 0.2rem 0;
-    }
-
-    a {
-      color: var(--gray);
-      text-decoration: none;
-
-      &:hover {
-        color: var(--secondary);
-      }
-    }
-
     /* When the TSX adds the 'collapsed' class to the content */
     &.collapsed {
       max-height: 0;
       opacity: 0;
       margin-top: 0;
     }
+
+    /* Clean up the base list */
+    list-style: none;
+    padding: 0;
+    margin: 0.5rem 0 0 0;
+
+    li {
+      list-style-type: none;
+      padding: 0.2rem 0;
+
+      &::before {
+        display: none; /* Kill default Quartz bullets */
+      }
+    }
+
+    a {
+      color: var(--gray);
+      text-decoration: none;
+      font-size: 0.95rem;
+      display: block;
+      transition: color 0.2s ease;
+
+      &:hover {
+        color: var(--tertiary);
+      }
+    }
+
+    /* --- Obsidian-Style Indents and Lines --- */
+    .depth-0,
+    .depth-1 {
+      margin-left: 0;
+      padding-left: 0;
+      border-left: none;
+    }
+
+    .depth-2 {
+      margin-left: 0.5rem;
+      padding-left: 1rem;
+      border-left: 1px solid var(--lightgray);
+    }
+
+    .depth-3 {
+      margin-left: 1.5rem;
+      padding-left: 1rem;
+      border-left: 1px solid var(--lightgray);
+    }
+
+    .depth-4 {
+      margin-left: 2.5rem;
+      padding-left: 1rem;
+      border-left: 1px solid var(--lightgray);
+    }
   }
-}
-
-/* --- Obsidian-Style Nested ToC Overrides --- */
-
-.toc-content {
-  list-style: none !important;
-  padding-left: 0 !important;
-  margin-left: 0 !important;
-}
-
-/* Kill the default bullet points */
-.toc-content li {
-  list-style-type: none !important;
-  padding-bottom: 0.2rem !important;
-}
-
-.toc-content li::before {
-  display: none !important; 
-}
-
-/* Top Level (Usually H1/H2 in Quartz) */
-.toc-content .depth-0,
-.toc-content .depth-1 {
-  margin-left: 0 !important;
-  padding-left: 0 !important;
-  border-left: none !important;
-}
-
-/* Indented Levels (H3, H4, H5) with connecting line */
-.toc-content .depth-2 {
-  margin-left: 0.5rem !important;
-  padding-left: 1rem !important;
-  border-left: 1px solid var(--lightgray) !important;
-}
-
-.toc-content .depth-3 {
-  margin-left: 1.5rem !important;
-  padding-left: 1rem !important;
-  border-left: 1px solid var(--lightgray) !important;
-}
-
-.toc-content .depth-4 {
-  margin-left: 2.5rem !important;
-  padding-left: 1rem !important;
-  border-left: 1px solid var(--lightgray) !important;
 }
 
 /* Dark Mode Line Colors */
 [saved-theme="dark"] .toc-content .depth-2,
 [saved-theme="dark"] .toc-content .depth-3,
 [saved-theme="dark"] .toc-content .depth-4 {
-  border-left-color: #444444 !important;
+  border-left-color: #444444;
 }

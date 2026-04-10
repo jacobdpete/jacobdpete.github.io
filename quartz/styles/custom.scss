@@ -1,16 +1,67 @@
 @use "./base.scss";
 
+/* --- Hide the Main Scrollbar --- */
+html::-webkit-scrollbar {
+  display: none !important;
+}
+html {
+  scrollbar-width: none !important; 
+  -ms-overflow-style: none !important; 
+}
+
+/* --- Custom Local Font (Swansea) with Variants --- */
+@font-face {
+  font-family: 'Swansea';
+  src: url('./static/swansea-regular.ttf') format('truetype'); 
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Swansea';
+  src: url('./static/swansea-bold.ttf') format('truetype'); 
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Swansea';
+  src: url('./static/swansea-italic.ttf') format('truetype'); 
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Swansea';
+  src: url('./static/swansea-bold-italic.ttf') format('truetype'); 
+  font-weight: bold;
+  font-style: italic;
+}
+
+:root {
+  --headerFont: 'Swansea', sans-serif !important;
+  --bodyFont: 'Swansea', sans-serif !important;
+}
+
 /* --- Custom Sizing Tweaks --- */
 article p, article li {
   font-size: 1.15rem; 
   line-height: 1.7;   
 }
-
 .page-title a {
   font-size: 1.25rem !important; 
 }
 
-/* --- The MillMint Box Layout (The Smart Way) --- */
+/* --- Fix Table Text Wrapping --- */
+.table-container table {
+  width: 100% !important;
+  table-layout: fixed !important; 
+}
+.table-container td, 
+.table-container th {
+  white-space: normal !important; 
+  word-wrap: break-word !important;
+  overflow-wrap: break-word !important;
+}
+
+/* --- The MillMint Box Layout --- */
 [saved-theme="dark"] body {
   background-color: #000000; 
 }
@@ -18,14 +69,12 @@ article p, article li {
   background-color: #dcdcdc; 
 }
 
-/* 2. Turn the center text column directly into our box */
 .center {
   background-color: var(--light); 
-  padding-top: 30px !important; /* Let's start from absolute zero */
+  padding-top: 30px !important; 
   padding-right: 3rem !important;
   padding-bottom: 1rem !important;
   padding-left: 3rem !important;
-  
   margin-top: 2rem !important;   
   margin-bottom: 2rem !important; 
   border-radius: 8px; 
@@ -38,20 +87,18 @@ article p, article li {
   border: 1px solid #444444; 
 }
 
-/* 4. Layout the Header (Squash the forcefields) */
 header {
   display: flex;
   align-items: center;
   gap: 1rem;
   margin-top: 0 !important;
-  padding-top: 0 !important; /* Nukes hidden header spacing */
+  padding-top: 0 !important; 
   margin-bottom: 2rem !important;
   width: 100%;
 }
 
-/* 5. Nuke phantom margins inside, but float the master page */
 .page {
-  padding-top: 2rem !important; /* Restores the space above your box */
+  padding-top: 2rem !important; 
 }
 
 .page-header, 
@@ -63,14 +110,25 @@ header {
 header .page-title {
   margin: 0 !important; 
   padding: 0 !important;
-  line-height: 1 !important; /* Stops the text itself from having a tall invisible bounding box */
+  line-height: 1 !important; 
   margin-right: auto !important; 
 }
 
 .search-button {
   width: 200px !important;
   justify-content: flex-start !important;
-  padding-left: 12px !important; /* This keeps the icon from touching the wall */
+  padding-left: 12px !important; 
+}
+
+@media all and (max-width: 800px) {
+  .center {
+    margin: 0 !important;            
+    border-radius: 0;     
+    border: none;         
+    padding: 1.5rem 1rem !important; 
+    width: 100% !important;
+    max-width: 100% !important;
+  }
 }
 
 /* --- MillMint Custom Menu Bar --- */
@@ -80,7 +138,6 @@ header .page-title {
   width: 100%;
 }
 
-/* 1. Top Row: The Tabs */
 .top-tier {
   display: flex;
   gap: 1rem;
@@ -92,7 +149,7 @@ header .page-title {
 }
 
 .top-tier a {
-  color: var(--darkgray); /* Brightened from var(--gray) */
+  color: var(--darkgray); 
   text-decoration: none;
   padding: 0.5rem 0.8rem;
   border-radius: 6px 6px 0 0; 
@@ -112,7 +169,6 @@ header .page-title {
   background-color: rgba(255, 255, 255, 0.05);
 }
 
-/* Active Tab State */
 .top-tier a.active {
   color: var(--dark);
   border-bottom: 3px solid var(--tertiary); 
@@ -123,7 +179,6 @@ header .page-title {
   background-color: rgba(255, 255, 255, 0.05);
 }
 
-/* 2. Bottom Row: The Pill Container */
 .sub-tier-container {
   background-color: rgba(0, 0, 0, 0.03);
   padding: 0.5rem 0.8rem;
@@ -136,12 +191,11 @@ header .page-title {
   border: 1px solid #333;
 }
 
-/* 3. Bottom Row: The Links (Shrunk and evenly spaced) */
 .sub-tier {
   display: flex;
   flex-wrap: nowrap; 
-  justify-content: space-between; /* This forces the items to fill the whole box evenly */
-  gap: 0.5rem;       /* A small gap just in case the screen gets really small */
+  justify-content: space-between; 
+  gap: 0.5rem;       
   list-style: none !important;
   padding: 0;
   margin: 0;
@@ -159,27 +213,25 @@ header .page-title {
   gap: 0.3rem;
   transition: all 0.2s ease;
   white-space: nowrap; 
-  padding-bottom: 2px; /* Adds a tiny bit of space for the underline */
-  border-bottom: 2px solid transparent; /* Prevents text from jumping when active */
+  padding-bottom: 2px; 
+  border-bottom: 2px solid transparent; 
 }
 
 .sub-tier a:hover {
   color: var(--tertiary);
 }
 
-/* The Active State for the Pillbox Links */
 .sub-tier a.active {
   color: var(--dark);
-  border-bottom: 2px solid var(--tertiary); /* The colored underline */
+  border-bottom: 2px solid var(--tertiary); 
 }
 
 [saved-theme="dark"] .sub-tier a.active {
-  color: var(--light); /* Makes the active text pop against the dark background */
+  color: var(--light); 
 }
 
-/* --- Explicit Dark Mode Colors for the Pillbox --- */
 [saved-theme="dark"] .sub-tier a {
-  color: #b0b0b0 !important; /* A bright, readable light gray for inactive links */
+  color: #b0b0b0 !important; 
 }
 
 [saved-theme="dark"] .sub-tier a:hover {
@@ -187,18 +239,7 @@ header .page-title {
 }
 
 [saved-theme="dark"] .sub-tier a.active {
-  color: #ffffff !important; /* Pure crisp white for the active link */
-}
-
-@media all and (max-width: 800px) {
-  .center {
-    margin: 0 !important;            
-    border-radius: 0;     
-    border: none;         
-    padding: 1.5rem 1rem !important; 
-    width: 100% !important;
-    max-width: 100% !important;
-  }
+  color: #ffffff !important; 
 }
 
 /* --- 3-State Darkmode Toggle --- */
@@ -217,17 +258,15 @@ header .page-title {
   color: var(--tertiary);
 }
 
-/* Hide all icons by default */
 .theme-icon {
   display: none; 
 }
 
-/* Only show the icon that matches the current active mode */
 html[data-theme-preference="light"] .light-icon { display: block; }
 html[data-theme-preference="dark"] .dark-icon { display: block; }
 html[data-theme-preference="auto"] .auto-icon { display: block; }
 
-/* --- Table of Contents Styling --- */
+/* --- Table of Contents Container Styling --- */
 .toc {
   background-color: rgba(0, 0, 0, 0.03);
   border: 1px solid var(--lightgray);
@@ -242,7 +281,6 @@ html[data-theme-preference="auto"] .auto-icon { display: block; }
   border: 1px solid #333;
 }
 
-/* Style the clickable header */
 .toc button#toc {
   width: 100%;
   display: flex;
@@ -258,4 +296,8 @@ html[data-theme-preference="auto"] .auto-icon { display: block; }
 .toc button#toc h3 {
   margin: 0;
   font-size: 1.15rem;
+}
+
+#toc-content {
+  margin-top: 0.5rem;
 }
