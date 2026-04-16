@@ -1,1 +1,1 @@
-Saya, officially the State of Saya, is a country in (). Its capital and principal financial center is Avigneux. 
+Saya, officially the State of Saya, is a country in West Aya. Its capital and principal financial center is Avigneux. Saya is ruled as a dictatorship through a council of major national corporations.

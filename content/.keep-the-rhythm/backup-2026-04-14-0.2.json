@@ -387,11 +387,254 @@
         "filePath": "Politics/Almeidaism.md",
         "wordCountStart": 673,
         "charCountStart": 4658,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "19:40",
+            "w": 30,
+            "c": 181
+          },
+          {
+            "timeKey": "19:45",
+            "w": 94,
+            "c": 608
+          },
+          {
+            "timeKey": "19:50",
+            "w": 83,
+            "c": 549
+          },
+          {
+            "timeKey": "19:55",
+            "w": 128,
+            "c": 879
+          },
+          {
+            "timeKey": "20:00",
+            "w": 17,
+            "c": 126
+          }
+        ],
         "id": 29
+      },
+      {
+        "date": "2026-03-25",
+        "filePath": "People/Jorge Almeida.md",
+        "wordCountStart": 403,
+        "charCountStart": 2713,
+        "changes": [],
+        "id": 30
+      },
+      {
+        "date": "2026-03-27",
+        "filePath": "Politics/Almeidaism.md",
+        "wordCountStart": 1025,
+        "charCountStart": 7001,
+        "changes": [],
+        "id": 31
+      },
+      {
+        "date": "2026-04-02",
+        "filePath": "Politics/Almeidaism.md",
+        "wordCountStart": 1025,
+        "charCountStart": 7001,
+        "changes": [],
+        "id": 32
+      },
+      {
+        "date": "2026-04-02",
+        "filePath": "Economics and Technology/BASIC.md",
+        "wordCountStart": 58,
+        "charCountStart": 443,
+        "changes": [],
+        "id": 33
+      },
+      {
+        "date": "2026-04-10",
+        "filePath": "Economics and Technology/BASIC.md",
+        "wordCountStart": 58,
+        "charCountStart": 443,
+        "changes": [],
+        "id": 34
+      },
+      {
+        "date": "2026-04-10",
+        "filePath": "Economics and Technology/Ayan Electric.md",
+        "wordCountStart": 20,
+        "charCountStart": 145,
+        "changes": [],
+        "id": 35
+      },
+      {
+        "date": "2026-04-10",
+        "filePath": "Culture/Demei.md",
+        "wordCountStart": 71,
+        "charCountStart": 444,
+        "changes": [],
+        "id": 36
+      },
+      {
+        "date": "2026-04-10",
+        "filePath": "Culture/List of Federal Holidays in the Rosen Commonwealth.md",
+        "wordCountStart": 303,
+        "charCountStart": 3732,
+        "changes": [],
+        "id": 37
+      },
+      {
+        "date": "2026-04-10",
+        "filePath": "Economics and Technology/Economy of the Rosen Commonwealth.md",
+        "wordCountStart": 791,
+        "charCountStart": 5361,
+        "changes": [],
+        "id": 38
+      },
+      {
+        "date": "2026-04-10",
+        "filePath": "Economics and Technology/HOSMAX.md",
+        "wordCountStart": 101,
+        "charCountStart": 700,
+        "changes": [],
+        "id": 39
+      },
+      {
+        "date": "2026-04-10",
+        "filePath": "Economics and Technology/Housing and Urban Development in the Rosen Commonwealth.md",
+        "wordCountStart": 749,
+        "charCountStart": 5114,
+        "changes": [],
+        "id": 40
+      },
+      {
+        "date": "2026-04-10",
+        "filePath": "Economics and Technology/ROCARA.md",
+        "wordCountStart": 53,
+        "charCountStart": 391,
+        "changes": [],
+        "id": 41
+      },
+      {
+        "date": "2026-04-10",
+        "filePath": "Economics and Technology/Standard Electronics.md",
+        "wordCountStart": 57,
+        "charCountStart": 415,
+        "changes": [],
+        "id": 42
+      },
+      {
+        "date": "2026-04-13",
+        "filePath": "Culture/Demei.md",
+        "wordCountStart": 71,
+        "charCountStart": 444,
+        "changes": [],
+        "id": 43
+      },
+      {
+        "date": "2026-04-13",
+        "filePath": "States/States (Present)/Rosen Commonwealth.md",
+        "wordCountStart": 6361,
+        "charCountStart": 47213,
+        "changes": [],
+        "id": 44
+      },
+      {
+        "date": "2026-04-13",
+        "filePath": "XDevelopment/theme test.md",
+        "wordCountStart": 49,
+        "charCountStart": 277,
+        "changes": [],
+        "id": 45
+      },
+      {
+        "date": "2026-04-13",
+        "filePath": "XDevelopment/Things to expand upon.md",
+        "wordCountStart": 46,
+        "charCountStart": 817,
+        "changes": [],
+        "id": 46
+      },
+      {
+        "date": "2026-04-13",
+        "filePath": "Notes and Commentary/Notes on Labor, Work, and Economics in the Rosen Commonwealth.md",
+        "wordCountStart": 1615,
+        "charCountStart": 10673,
+        "changes": [],
+        "id": 47
+      },
+      {
+        "date": "2026-04-13",
+        "filePath": "Notes and Commentary/Notes on Pacifism and Utopia in the Rosen Commonwealth.md",
+        "wordCountStart": 581,
+        "charCountStart": 3562,
+        "changes": [],
+        "id": 48
+      },
+      {
+        "date": "2026-04-13",
+        "filePath": "Notes and Commentary/Notes and References.md",
+        "wordCountStart": 3477,
+        "charCountStart": 23573,
+        "changes": [],
+        "id": 49
+      },
+      {
+        "date": "2026-04-13",
+        "filePath": "Notes and Commentary/Additional Notes on the Nuclear Crisis.md",
+        "wordCountStart": 634,
+        "charCountStart": 4041,
+        "changes": [],
+        "id": 50
+      },
+      {
+        "date": "2026-04-13",
+        "filePath": "Notes and Commentary/Additional Notes on Government.md",
+        "wordCountStart": 1037,
+        "charCountStart": 6862,
+        "changes": [],
+        "id": 51
+      },
+      {
+        "date": "2026-04-13",
+        "filePath": "History/History (2 - Rosen Republic)/Cold War.md",
+        "wordCountStart": 112,
+        "charCountStart": 711,
+        "changes": [],
+        "id": 52
+      },
+      {
+        "date": "2026-04-13",
+        "filePath": "States/States (Present)/Saya.md",
+        "wordCountStart": 18,
+        "charCountStart": 112,
+        "changes": [
+          {
+            "timeKey": "16:20",
+            "w": 15,
+            "c": 84
+          },
+          {
+            "timeKey": "16:25",
+            "w": 0,
+            "c": 3
+          }
+        ],
+        "id": 53
+      },
+      {
+        "date": "2026-04-13",
+        "filePath": "States/States (Former)/Rosen Republic.md",
+        "wordCountStart": 133,
+        "charCountStart": 874,
+        "changes": [],
+        "id": 54
+      },
+      {
+        "date": "2026-04-13",
+        "filePath": "States/States (Former)/Sayan Union.md",
+        "wordCountStart": 93,
+        "charCountStart": 547,
+        "changes": [],
+        "id": 55
       }
-    ],
-    "wholeVaultWordCount": 35682,
-    "wholeVaultCharCount": 249582
+    ]
   }
 }
