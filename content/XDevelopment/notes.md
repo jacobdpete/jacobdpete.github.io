@@ -1,3 +1,6 @@
+> [!note]
+> These are notes from several conversations about this project I had with Claude.
+
 ## The Rybicki Brothers
 
 - Bartosz Rybicki is Julian's younger brother — a deliberate foil

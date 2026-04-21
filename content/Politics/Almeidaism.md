@@ -24,7 +24,7 @@ Bottom-up economic planning is fostered by workplace democracy. Almeidaism envis
 Almeidaism is most known for its advocacy for the elimination of currency. This practice is often removed from context; Almeida did not advocate for a barter system or a new kind of currency, rather the total elimination of an exchange in the context of labor. Elimination of currency came to rely on an idea of post-scarcity, which Almeida believed could be achieved to a certain extent through a large-scale labor automation program.
 Automation was another core component of Almeidaism. Interestingly, it wasn't part of Almeidaism to begin with; however, after *Nova Sociedade*, it became a key tenet of an Almeidaist future. Almeidaism didn't advocate for the abolition of labor, either. Almeida saw labor as a core part of human interaction and social ability; as such, he believed labor could serve a social or civic function to prevent, in his words, "fatness and satisfaction." In other words, labor in interesting, stimulating jobs, with menial aspects reduced or done away with via automation, created a valuable sense of intrinsic value that would allow the Rosen economy to function without wages.
 ## Sociology
-Diversity is a core concept in Almeidaist ideology. Applying Almeidaism to Rosens required tolerance 
+Diversity is a core concept in Almeidaist ideology. Applying Almeidaism to Rosens required tolerance for a variety of identity groups due to the Commonwealth's diversity.
 ### Ecology
 ## Political architecture
 # Practice
@@ -34,7 +34,7 @@ Diversity is a core concept in Almeidaist ideology. Applying Almeidaism to Rosen
 ## "Reformed Almeidaism"
 > *Poverty is not socialism. To uphold socialism, a socialism that is to be superior to capitalism, it is imperative first and foremost to eliminate poverty. True, we are building socialism, but that doesn’t mean that what we have achieved so far is up to the socialist standard.*
 > 
-> Deng Xiaoping
+> Deng Xiaoping, *To Uphold Socialism We Must Eliminate Poverty*, 1987
 
 *Reformed Almeidaism* is a term, often used in an official capacity, to describe the state of Almeidaist ideology in the contemporary Rosen Commonwealth. It functions as both a euphemism and a genuine descriptor of Almeidaist practice. 
 Reformed Almeidaism is used as a criticism of Almeidaism because its existence, according to critics, proves that Almeidaism is infeasible and requires capitalistic reform to function properly. Proponents argue that Almeidaism was never meant to be implemented in a post-Crisis world, and so the circumstances of the Commonwealth are fundamentally different than what Almeida intended for his ideology to be built upon.
