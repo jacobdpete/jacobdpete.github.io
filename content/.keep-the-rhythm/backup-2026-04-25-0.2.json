@@ -4,9 +4,9 @@
     "enabledLanguages": [
       "LATIN"
     ],
-    "dailyWritingGoal": 500,
+    "dailyWritingGoal": "100",
     "startOfTheWeek": "SUNDAY",
-    "heatmapNavigation": true,
+    "heatmapNavigation": false,
     "heatmapConfig": {
       "roundCells": true,
       "hideMonthLabels": false,
@@ -56,7 +56,8 @@
     "highestStreakStartDate": "",
     "highestStreakEndDate": "",
     "daysWithCompletedGoal": [
-      "2026-03-23"
+      "2026-03-23",
+      "2026-04-21"
     ],
     "dailyActivity": [
       {
@@ -634,6 +635,590 @@
         "charCountStart": 547,
         "changes": [],
         "id": 55
+      },
+      {
+        "date": "2026-04-14",
+        "filePath": "States/States (Former)/Rosen Republic.md",
+        "wordCountStart": 133,
+        "charCountStart": 874,
+        "changes": [],
+        "id": 56
+      },
+      {
+        "date": "2026-04-16",
+        "filePath": "States/States (Former)/Rosen Republic.md",
+        "wordCountStart": 133,
+        "charCountStart": 874,
+        "changes": [],
+        "id": 57
+      },
+      {
+        "date": "2026-04-16",
+        "filePath": "Economics and Technology/BASIC.md",
+        "wordCountStart": 58,
+        "charCountStart": 443,
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": -3,
+            "c": -42
+          },
+          {
+            "timeKey": "18:40",
+            "w": 4,
+            "c": 33
+          }
+        ],
+        "id": 58
+      },
+      {
+        "date": "2026-04-16",
+        "filePath": "States/States (Present)/Rosen Commonwealth.md",
+        "wordCountStart": 6361,
+        "charCountStart": 47213,
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": 18,
+            "c": 138
+          },
+          {
+            "timeKey": "18:45",
+            "w": 18,
+            "c": 116
+          }
+        ],
+        "id": 59
+      },
+      {
+        "date": "2026-04-16",
+        "filePath": "XDevelopment/notes.md",
+        "wordCountStart": 1620,
+        "charCountStart": 11329,
+        "changes": [],
+        "id": 60
+      },
+      {
+        "date": "2026-04-16",
+        "filePath": "People/Hatsue Yuhara.md",
+        "wordCountStart": 371,
+        "charCountStart": 2471,
+        "changes": [
+          {
+            "timeKey": "18:45",
+            "w": 0,
+            "c": 4
+          }
+        ],
+        "id": 61
+      },
+      {
+        "date": "2026-04-16",
+        "filePath": "People/The Five Figures.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:45",
+            "w": 38,
+            "c": 276
+          }
+        ],
+        "id": 62
+      },
+      {
+        "date": "2026-04-18",
+        "filePath": "Culture/Rosen Median Language.md",
+        "wordCountStart": 76,
+        "charCountStart": 511,
+        "changes": [],
+        "id": 63
+      },
+      {
+        "date": "2026-04-18",
+        "filePath": "States/States (Present)/Rosen Commonwealth.md",
+        "wordCountStart": 6397,
+        "charCountStart": 47467,
+        "changes": [
+          {
+            "timeKey": "21:50",
+            "w": 16,
+            "c": 123
+          }
+        ],
+        "id": 64
+      },
+      {
+        "date": "2026-04-18",
+        "filePath": "Politics/Almeidaism.md",
+        "wordCountStart": 1025,
+        "charCountStart": 7001,
+        "changes": [
+          {
+            "timeKey": "21:50",
+            "w": 20,
+            "c": 124
+          }
+        ],
+        "id": 65
+      },
+      {
+        "date": "2026-04-18",
+        "filePath": "Politics/List of Secretary-Generals of the Rosen Commonwealth.md",
+        "wordCountStart": 620,
+        "charCountStart": 4516,
+        "changes": [],
+        "id": 66
+      },
+      {
+        "date": "2026-04-18",
+        "filePath": "Misc/Men Pray Once More.md",
+        "wordCountStart": 1865,
+        "charCountStart": 11139,
+        "changes": [],
+        "id": 67
+      },
+      {
+        "date": "2026-04-18",
+        "filePath": "Politics/International Security Directory.md",
+        "wordCountStart": 83,
+        "charCountStart": 593,
+        "changes": [],
+        "id": 68
+      },
+      {
+        "date": "2026-04-18",
+        "filePath": "Politics/Constitution of the Second Rosen Commonwealth.md",
+        "wordCountStart": 2048,
+        "charCountStart": 14100,
+        "changes": [],
+        "id": 69
+      },
+      {
+        "date": "2026-04-18",
+        "filePath": "Politics/Politics Index.md",
+        "wordCountStart": 82,
+        "charCountStart": 563,
+        "changes": [
+          {
+            "timeKey": "21:55",
+            "w": 11,
+            "c": 77
+          }
+        ],
+        "id": 70
+      },
+      {
+        "date": "2026-04-19",
+        "filePath": "Politics/Politics Index.md",
+        "wordCountStart": 93,
+        "charCountStart": 640,
+        "changes": [],
+        "id": 71
+      },
+      {
+        "date": "2026-04-19",
+        "filePath": "Politics/Almeidaism.md",
+        "wordCountStart": 1045,
+        "charCountStart": 7125,
+        "changes": [],
+        "id": 72
+      },
+      {
+        "date": "2026-04-20",
+        "filePath": "Politics/Almeidaism.md",
+        "wordCountStart": 1045,
+        "charCountStart": 7125,
+        "changes": [],
+        "id": 73
+      },
+      {
+        "date": "2026-04-20",
+        "filePath": "History/History (1 - Rosen Federal Union/Concordance of São Lola.md",
+        "wordCountStart": 47,
+        "charCountStart": 315,
+        "changes": [],
+        "id": 74
+      },
+      {
+        "date": "2026-04-20",
+        "filePath": "States/States (Former)/Rosen Republic.md",
+        "wordCountStart": 133,
+        "charCountStart": 874,
+        "changes": [],
+        "id": 75
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "States/States (Former)/Rosen Republic.md",
+        "wordCountStart": 133,
+        "charCountStart": 874,
+        "changes": [],
+        "id": 76
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "People/Cora Cavaleri.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:50",
+            "w": 67,
+            "c": 481
+          },
+          {
+            "timeKey": "15:55",
+            "w": 34,
+            "c": 227
+          },
+          {
+            "timeKey": "16:00",
+            "w": 39,
+            "c": 259
+          }
+        ],
+        "id": 77
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "Politics/List of Secretary-Generals of the Rosen Commonwealth.md",
+        "wordCountStart": 620,
+        "charCountStart": 4516,
+        "changes": [],
+        "id": 78
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "XDevelopment/notes.md",
+        "wordCountStart": 1620,
+        "charCountStart": 11329,
+        "changes": [
+          {
+            "timeKey": "16:00",
+            "w": 15,
+            "c": 94
+          }
+        ],
+        "id": 79
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "People/Jorge Almeida.md",
+        "wordCountStart": 403,
+        "charCountStart": 2713,
+        "changes": [],
+        "id": 80
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "People/Armando Ribeiro.md",
+        "wordCountStart": 20,
+        "charCountStart": 125,
+        "changes": [],
+        "id": 81
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "People/Caio Morais.md",
+        "wordCountStart": 75,
+        "charCountStart": 497,
+        "changes": [],
+        "id": 82
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "People/Hatsue Yuhara.md",
+        "wordCountStart": 372,
+        "charCountStart": 2479,
+        "changes": [
+          {
+            "timeKey": "16:05",
+            "w": 1,
+            "c": 10
+          }
+        ],
+        "id": 83
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "People/Olgierd Trela.md",
+        "wordCountStart": 77,
+        "charCountStart": 503,
+        "changes": [],
+        "id": 84
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "Politics/Constitution of the Second Rosen Commonwealth.md",
+        "wordCountStart": 2048,
+        "charCountStart": 14100,
+        "changes": [],
+        "id": 85
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "Politics/Secretariat-Directory.md",
+        "wordCountStart": 1585,
+        "charCountStart": 14409,
+        "changes": [
+          {
+            "timeKey": "16:00",
+            "w": -10,
+            "c": 0
+          },
+          {
+            "timeKey": "16:05",
+            "w": -81,
+            "c": -2563
+          }
+        ],
+        "id": 86
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "Kuligite.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 87
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "Notes and Commentary/Additional Notes on the Nuclear Crisis.md",
+        "wordCountStart": 634,
+        "charCountStart": 4041,
+        "changes": [],
+        "id": 88
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "History/History Index.md",
+        "wordCountStart": 506,
+        "charCountStart": 3558,
+        "changes": [
+          {
+            "timeKey": "16:10",
+            "w": 1,
+            "c": 8
+          }
+        ],
+        "id": 89
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "Economics and Technology/Economics and Technology Index.md",
+        "wordCountStart": 285,
+        "charCountStart": 2043,
+        "changes": [
+          {
+            "timeKey": "16:10",
+            "w": 1,
+            "c": 8
+          }
+        ],
+        "id": 90
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "Politics/Politics Index.md",
+        "wordCountStart": 93,
+        "charCountStart": 640,
+        "changes": [
+          {
+            "timeKey": "16:10",
+            "w": 2,
+            "c": 19
+          }
+        ],
+        "id": 91
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "People/The Five Figures.md",
+        "wordCountStart": 38,
+        "charCountStart": 276,
+        "changes": [],
+        "id": 92
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "index.md",
+        "wordCountStart": 291,
+        "charCountStart": 1803,
+        "changes": [],
+        "id": 93
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "Wiki.md",
+        "wordCountStart": 66,
+        "charCountStart": 446,
+        "changes": [],
+        "id": 94
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "XDevelopment/Things to expand upon.md",
+        "wordCountStart": 46,
+        "charCountStart": 817,
+        "changes": [
+          {
+            "timeKey": "20:20",
+            "w": -1,
+            "c": 51
+          }
+        ],
+        "id": 95
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "Politics/List of Departments, Offices, and Agencies In the Rosen Commonwealth.md",
+        "wordCountStart": 954,
+        "charCountStart": 7964,
+        "changes": [],
+        "id": 96
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "Politics/International Security Directory.md",
+        "wordCountStart": 83,
+        "charCountStart": 593,
+        "changes": [],
+        "id": 97
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "History/History (3 - First Commonwealth)/Socialist Party.md",
+        "wordCountStart": 84,
+        "charCountStart": 527,
+        "changes": [],
+        "id": 98
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "Misc/Painting, Politics.md",
+        "wordCountStart": 89,
+        "charCountStart": 574,
+        "changes": [
+          {
+            "timeKey": "20:20",
+            "w": 13,
+            "c": 81
+          },
+          {
+            "timeKey": "20:25",
+            "w": 85,
+            "c": 459
+          },
+          {
+            "timeKey": "20:30",
+            "w": 18,
+            "c": 94
+          },
+          {
+            "timeKey": "20:45",
+            "w": 66,
+            "c": 350
+          },
+          {
+            "timeKey": "20:50",
+            "w": 96,
+            "c": 546
+          },
+          {
+            "timeKey": "20:55",
+            "w": 72,
+            "c": 405
+          },
+          {
+            "timeKey": "21:00",
+            "w": 72,
+            "c": 468
+          },
+          {
+            "timeKey": "21:05",
+            "w": 127,
+            "c": 692
+          },
+          {
+            "timeKey": "21:10",
+            "w": 13,
+            "c": 97
+          },
+          {
+            "timeKey": "21:15",
+            "w": 99,
+            "c": 596
+          },
+          {
+            "timeKey": "21:20",
+            "w": 66,
+            "c": 344
+          },
+          {
+            "timeKey": "21:25",
+            "w": 60,
+            "c": 373
+          },
+          {
+            "timeKey": "21:30",
+            "w": 29,
+            "c": 166
+          },
+          {
+            "timeKey": "21:35",
+            "w": 7,
+            "c": 54
+          }
+        ],
+        "id": 99
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "Notes and Commentary/Notes and References.md",
+        "wordCountStart": 3477,
+        "charCountStart": 23573,
+        "changes": [],
+        "id": 100
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "Notes and Commentary/Additional Notes on Government.md",
+        "wordCountStart": 1037,
+        "charCountStart": 6862,
+        "changes": [],
+        "id": 101
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "Misc/Men Pray Once More.md",
+        "wordCountStart": 1865,
+        "charCountStart": 11139,
+        "changes": [],
+        "id": 102
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "Misc/Characters.md",
+        "wordCountStart": 2134,
+        "charCountStart": 13206,
+        "changes": [],
+        "id": 103
+      },
+      {
+        "date": "2026-04-25",
+        "filePath": "Misc/Painting, Politics.md",
+        "wordCountStart": 912,
+        "charCountStart": 5299,
+        "changes": [],
+        "id": 104
       }
     ]
   }

@@ -35,6 +35,21 @@ html {
   font-style: italic;
 }
 
+/* --- Custom Local Font (Microgramma) --- */
+@font-face {
+  font-family: 'Microgramma';
+  /* Change 'truetype' to 'opentype' if your file is .otf */
+  src: url('/static/microgramma.ttf') format('opentype'); 
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Target ONLY the main article titles */
+h1.article-title {
+  font-family: 'Microgramma', sans-serif !important;
+  /* Optional: Microgramma sometimes looks better with a little extra letter spacing */
+}
+
 :root {
   --headerFont: 'Swansea', sans-serif !important;
   --bodyFont: 'Swansea', sans-serif !important;

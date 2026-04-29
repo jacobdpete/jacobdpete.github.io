@@ -73,27 +73,38 @@
     }
 
     /* --- Obsidian-Style Indents and Lines --- */
-    .depth-0,
-    .depth-1 {
+    
+    /* Absolute Top Level (H1s) */
+    .depth-0 {
       margin-left: 0;
       padding-left: 0;
       border-left: none;
     }
 
-    .depth-2 {
+    /* First Level (H2s) */
+    .depth-1 {
       margin-left: 0.5rem;
       padding-left: 1rem;
       border-left: 1px solid var(--lightgray);
     }
 
-    .depth-3 {
+    /* Second Level (H3s) */
+    .depth-2 {
       margin-left: 1.5rem;
       padding-left: 1rem;
       border-left: 1px solid var(--lightgray);
     }
 
-    .depth-4 {
+    /* Third Level (H4s) */
+    .depth-3 {
       margin-left: 2.5rem;
+      padding-left: 1rem;
+      border-left: 1px solid var(--lightgray);
+    }
+
+    /* Fourth Level (H5s) */
+    .depth-4 {
+      margin-left: 3.5rem;
       padding-left: 1rem;
       border-left: 1px solid var(--lightgray);
     }
@@ -101,6 +112,7 @@
 }
 
 /* Dark Mode Line Colors */
+[saved-theme="dark"] .toc-content .depth-1,
 [saved-theme="dark"] .toc-content .depth-2,
 [saved-theme="dark"] .toc-content .depth-3,
 [saved-theme="dark"] .toc-content .depth-4 {

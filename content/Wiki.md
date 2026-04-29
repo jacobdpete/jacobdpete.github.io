@@ -1,3 +1,6 @@
+---
+toc: false
+---
 # Welcome, once more
 Glad you're curious. Here you can find links to specific sections with information on aspects of the Rosen Commonwealth and its world.
 ## Get Started
