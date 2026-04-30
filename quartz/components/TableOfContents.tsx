@@ -27,7 +27,8 @@ export default ((opts?: Partial<Options>) => {
     displayClass,
     cfg,
   }: QuartzComponentProps) => {
-    if (!fileData.toc) {
+    // KILL SWITCH: If Obsidian frontmatter says 'toc: false', hide the box!
+    if (!fileData.toc || fileData.frontmatter?.toc === false) {
       return null
     }
 
@@ -76,7 +77,8 @@ export default ((opts?: Partial<Options>) => {
   TableOfContents.afterDOMLoaded = concatenateResources(script, overflowListAfterDOMLoaded)
 
   const LegacyTableOfContents: QuartzComponent = ({ fileData, cfg }: QuartzComponentProps) => {
-    if (!fileData.toc) {
+    // KILL SWITCH: Also applies to the legacy layout just to be safe
+    if (!fileData.toc || fileData.frontmatter?.toc === false) {
       return null
     }
     return (

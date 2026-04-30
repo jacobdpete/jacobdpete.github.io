@@ -1,4 +1,4 @@
-*Painting is immensely superficial*, Genziano thinks to himself. *My painting is superficial. Alpine lakes and towering mountains and pointed coniferous trees*. Punctuating this thought, he looks out the glass block window in the kitchen where he feels remarkably superficial, and is reminded that he does not, in fact, live by any alpine lakes, towering mountains, or pointed coniferous trees. *In fact,* the glass block seems to say back to him, *you live in a rainforest and it's about three-hundred degrees outside*.
+*Painting is immensely superficial*, Genziano Noce, seventy-one, retired, thinks to himself. *My painting is superficial. Alpine lakes and towering mountains and pointed coniferous trees*. Punctuating this thought, he looks out the window in the kitchen where he feels remarkably superficial, and is reminded that he does not, in fact, live by any alpine lakes, towering mountains, or pointed coniferous trees. *In fact,* the glass block seems to say back to him, *you live in a rainforest and it's about three-hundred degrees outside*.
 Ignoring the scorching heat, Genziano turns to the screen door on his left and finds his wife has appeared. She looks down at her trousers, lets out a sigh, and looks at Genziano like he's a decrepit greyhound.
 "Mountain lakes? Again?" she accuses.
 "Alma, I look at the rainforest all the time. There's more value in painting what's not there."
@@ -12,7 +12,7 @@ Genziano navigates his eyes away from his paintbrushes and to Alma's face, or wh
 "*Alana* Maimone. Use his first name when he comes over, dear," Alma says.
 "You invited over a hat maker? What could he possibly need from me?"
 "Don't be an airhead, Genziano. You dedicate three decades of your life to the civil service and people are bound to go to you with endorsements," Alma responds, as if it's the most obvious thing in the world.
-Genziano opens his mouth in preparation to stroke his political ego and then closes it when the doorbell reveals the milliner has arrived. Alma struts over to the door and opens it, revealing a stocky young Tuvayan with needy look on his face. 
+Genziano opens his mouth in preparation to stroke his political ego and then closes it when the doorbell decides the milliner has arrived. Alma shuffles over to the door and opens it, revealing a stocky young Tuvayan with needy look on his face. 
 Genziano runs his hands through what little hair he has left and joins Alma and, now, Alana Maimone, in the mudroom. Silence holds chloroform over their mouths until Alma, perpetually the diplomat, speaks up. Diplomatic re-introductions ensue until the three politicians find themselves in the living room once more.
 "Senator Noce, I'd once again like to mention how grateful I am for your time," Alana says, his high, reedy voice piercing the air.
 "Alma tends to allocate my time," Genziano mumbles, embarrassed and humiliated by his unplanned endorsement.
@@ -20,8 +20,7 @@ Alma shoots Genziano a dirty look, and then, with skillful dishonesty, smiles at
 "I'm sure you both have already discussed the endorsement, no?" Alana smiles back at Alma after he says this, and, with shaking hands, goes to pick up a soft drink that has appeared on the coffee table.
 Genziano and Alma look at each other once more, with Alma's eyes signaling that this is Genziano's conversation, not hers.
 "Well, first, I'm no longer a senator. As for your endorsement, we're certainly interested. However, you didn't quite make your policy points all that clear the last time we talked. If you could give us a run-down on that, I'm sure I could write up a speech," Genziano says, quickly adding, "provided, of course, that I find your policies agreeable."
-Alana, with the verbosity of a hat maker, responds in frenzied speech: "I think my policy is more or less common sense politics. Streamlining council politics and greater healthcare funding."
-Genziano, taken aback by his simplemindedness, devotes some time to consider the situation before him. *He's distilled his entire platform into two sentences and he wants **me** to endorse him?*, Genziano thinks, staring into Alana's sizable forehead. *Demei, no wonder he makes hats. I could land a helicopter up there.* He chuckles at his own shitty joke before regaining social consciousness and reacting to what Alana said, or didn't say.
+Alana, with the verbosity of a hat maker, responds in dry speech: "I think my policy is more or less common sense politics. Streamlining council politics and greater healthcare funding." Alana scratches his receding hairline and searches for an answer in Genziano's face. Genziano, taken aback by his simplemindedness, devotes some time to consider the situation before him. *He's distilled his entire platform into two sentences and he wants **me** to endorse him?*, Genziano thinks, staring into Alana's sizable forehead. *Demei, no wonder he makes hats. I could land a helicopter up there.* He chuckles at his own shitty joke before regaining social consciousness and reacting to what Alana said, or didn't say.
 "I see. Popular platform these days, and I've endorsed it before," Genziano says, an amiable look on his face.
 "Why me, Alana?" The amiability sprints away from Genziano's face.
 "Senator Noce, you're one of the most well-regarded senators there's ever been. You just have so much appeal, and such universal policy, and..." Alana trails off, going on about Genziano's reputation until he runs out of praise to give and speeches to cite.
@@ -37,4 +36,4 @@ Alma walks Alana to the door and banishes him from the home with a pat on the ba
 "Yes."
 "By the door."
 
-*Politics is immensely superficial,* Genziano thinks to himself.
+Genziano sits down. *Politics is immensely superficial,* he thinks to himself.
