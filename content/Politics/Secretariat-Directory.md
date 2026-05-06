@@ -28,7 +28,7 @@ While it may be tempting to believe that the Secretariat-Directory functions as 
 Members of the Directory, called Secretaries and colloquially known as "Heads" are imbued with significant political power and are considered the most powerful people in the Commonwealth. Overseeing departments and offices, each member sets individual priorities for their departments along the advice of their colleagues and the Secretary-General.
 Members are given access to private aircraft and priority railcars, and are permitted to reside in any residence of their choosing[^1].
 ## Meetings
-![[Deng Liang Secretariat Building.jpeg]]
+![[Deng Liang Secretariat Building.jpeg|336]]
 The Deng Liang Secretariat Building, São Cedillo. The Directory meets in the basement, but administrative offices and secondary meeting rooms are housed in the higher floors. 
 
 The Secretariat-Directory has no limit on how frequently it must meet, but it normally convenes for standard meetings on Tuesdays and Fridays. These meetings are held at the Deng Liang Secretariat Building in São Cedillo, where members of the Directory usually live. 
