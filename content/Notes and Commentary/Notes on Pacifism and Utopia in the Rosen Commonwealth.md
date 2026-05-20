@@ -3,7 +3,7 @@
 > Jacob Petersen, on the *Avaya Project*
 
 For a country as peaceful as the gracefully-aging [[Rosen Commonwealth]], it sees a lot of war. It can be considered obscene how a man in rural Tuvaya is given a home, light, and water for free while children in The Arawad sit on the street, in the dark, with parched lips and naught but a dream of electricity. In a world where nuclear fusion revolutionized the energy industry and provided infinite power for all, then why doesn't everyone have access to it?
-The inspiration behind this project (Vekllei by Hobart Phillips, Link: [MillMint](https://millmint.net/)) puts a strong emphasis on this idea of *utopia*. Phillips cites a lot of academic and intelligent-sounding authors and philosophers on the different kinds of utopia, the difference between utopia and dystopia, and the historical development of both concepts. It's complicated and not my cup of tea, but from what I can distill, Phillips' thesis is this: *utopia isn't perfect*. He has a particularly relevant essay to this idea (as well as worldbuilding as a whole) called [Utopie Concrète*](https://millmint.net/millmint/essays/utopie/), which essentially tackled the same idea of “concrete utopia” I'm addressing right now.
+The inspiration behind this project (Vekllei by Hobart Phillips, Link: [MillMint](https://millmint.net/)) puts a strong emphasis on this idea of *utopia*. Phillips cites a lot of academic and intelligent-sounding authors and philosophers on the different kinds of utopia, the difference between utopia and dystopia, and the historical development of both concepts. It's complicated and not my cup of tea, but from what I can distill, Phillips' thesis is this: *utopia isn't perfect*. He has a particularly relevant essay to this idea (as well as worldbuilding as a whole) called [Utopie Concrète*](https://millmint.net/commons/essays/utopie/), which essentially tackled the same idea of “concrete utopia” I'm addressing right now.
 This commentary serves to outline the nature of pacifism in the Commonwealth and the application of utopia to the Commonwealth in itself and as a worldbuilding methodology.
 
 So back to the Commonwealth. Pacifism is king in the Commonwealth. The state's foreign policy has been, for decades, "stay quiet, help out a bit, and hope nobody notices us," which is very much counterproductive to providing light and water to the children of The Arawad.
@@ -18,6 +18,19 @@ Let's talk about utopia. This is my take on it:
 >
 >Me, just now.
 
-This is different from *Utopie Concrète* because it does not outright allege *utopia*. How can the Commonwealth, or Avaya as a whole, be a utopia? It can't. There's too much inequality, too much political intrigue, too much tension, and so on. This is the point. In the vein of most of the worldbuilding I've done, ever, I don't really stray too far from realistic fiction. This project can be considered science fiction, or speculative fiction if you want to be a dick about it, but I've never gone too deep into completely unproven technology or outlandish political ideology. Increasingly, the ideology of Almeidaism is grounded in works like Aaron Bastani's *Fully Automated Luxury Communism*[^1] or *Envisioning Real Utopias* by Erik Olin Wright. 
+This is different from *Utopie Concrète* because it does not outright allege *utopia*. How can the Commonwealth, or Avaya as a whole, be a utopia? It can't. There's too much inequality, too much political intrigue, too much tension, and so on. This is the point. In the vein of most of the worldbuilding I've done, ever, I don't really stray too far from realistic fiction. This project can be considered science fiction, or speculative fiction if you want to be a dick about it, but I've never gone too deep into completely unproven technology or outlandish political ideology. Increasingly, the ideology of Almeidaism is grounded in works like Aaron Bastani's *Fully Automated Luxury Communism*[^1] or *Envisioning Real Utopias*[^2] by Erik Olin Wright. 
+So perhaps the utopia of the Commonwealth has quite a lot of Corbusier's *béton brut*. I like to imagine that the Commonwealth should be raw, real, and grounded in both my imagination and the tangible things in life today. So perhaps the utopia of the Commonwealth is not my worldbuilding ideology, so to speak.
+
+Regardless, I resonate with Phillips's Principles of Utopie Concrète, which I will quote at length to pad the word count and because it's all important.
+
+> *1. **All things have dignity**. You must take your “raw utopia” seriously — it has to be honest. In this sense, you must always aim to do your best for it. Consider your landscape and give your characters the respect you would anyone. If you dishonour them through sloppy work, you should feel embarrassed.* 
+> *2. **All things get dirty**. In order to ‘consider your landscape’ and ‘respect your characters,’ you must also recognise that these things need to live independently from your control. The activity of your utopia is what makes it alive, and also what makes it imperfect. Recognise the imperfections and celebrate them.* 
+> *3. **You must love it**. Utopias are very thoughtful and considered, but they can’t be intellectual. It must be intuitive — follow your heart.*
+> 
+> Hobart Phillips, *[Utopie Concrète*](https://millmint.net/commons/essays/utopie/)*
+
+Is imperfection something to be celebrated or eliminated, in my point of view or the Commonwealth's? This is not the point. The point is that imperfection is there, it's tangible, and that's the way it's supposed to be. *That* is the point.
 
 [^1]: FALC, for short.
+
+[^2]: ERU, I guess.
