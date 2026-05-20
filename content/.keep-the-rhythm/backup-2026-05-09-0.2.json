@@ -57,7 +57,8 @@
     "highestStreakEndDate": "",
     "daysWithCompletedGoal": [
       "2026-03-23",
-      "2026-04-21"
+      "2026-04-21",
+      "2026-05-05"
     ],
     "dailyActivity": [
       {
@@ -1225,7 +1226,18 @@
         "filePath": "Misc/Painting, Politics.md",
         "wordCountStart": 912,
         "charCountStart": 5299,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "18:25",
+            "w": 0,
+            "c": -5
+          },
+          {
+            "timeKey": "18:30",
+            "w": 18,
+            "c": 117
+          }
+        ],
         "id": 105
       },
       {
@@ -1249,6 +1261,641 @@
           }
         ],
         "id": 107
+      },
+      {
+        "date": "2026-04-29",
+        "filePath": "Misc/Characters.md",
+        "wordCountStart": 2134,
+        "charCountStart": 13206,
+        "changes": [],
+        "id": 108
+      },
+      {
+        "date": "2026-04-29",
+        "filePath": "Misc/Men Pray Once More.md",
+        "wordCountStart": 1865,
+        "charCountStart": 11139,
+        "changes": [],
+        "id": 109
+      },
+      {
+        "date": "2026-04-29",
+        "filePath": "Notes and Commentary/Notes on Labor, Work, and Economics in the Rosen Commonwealth.md",
+        "wordCountStart": 1615,
+        "charCountStart": 10673,
+        "changes": [],
+        "id": 110
+      },
+      {
+        "date": "2026-04-29",
+        "filePath": "Economics and Technology/Economics and Technology Index.md",
+        "wordCountStart": 286,
+        "charCountStart": 2051,
+        "changes": [],
+        "id": 111
+      },
+      {
+        "date": "2026-04-29",
+        "filePath": "Economics and Technology/Economy of the Rosen Commonwealth.md",
+        "wordCountStart": 791,
+        "charCountStart": 5361,
+        "changes": [
+          {
+            "timeKey": "18:50",
+            "w": 8,
+            "c": 61
+          }
+        ],
+        "id": 112
+      },
+      {
+        "date": "2026-04-29",
+        "filePath": "Politics/List of Secretary-Generals of the Rosen Commonwealth.md",
+        "wordCountStart": 620,
+        "charCountStart": 4516,
+        "changes": [],
+        "id": 113
+      },
+      {
+        "date": "2026-04-30",
+        "filePath": "Politics/List of Secretary-Generals of the Rosen Commonwealth.md",
+        "wordCountStart": 620,
+        "charCountStart": 4516,
+        "changes": [],
+        "id": 114
+      },
+      {
+        "date": "2026-04-30",
+        "filePath": "Politics/Constitution of the Second Rosen Commonwealth.md",
+        "wordCountStart": 2048,
+        "charCountStart": 14100,
+        "changes": [],
+        "id": 115
+      },
+      {
+        "date": "2026-05-01",
+        "filePath": "Politics/Constitution of the Second Rosen Commonwealth.md",
+        "wordCountStart": 2048,
+        "charCountStart": 14100,
+        "changes": [],
+        "id": 116
+      },
+      {
+        "date": "2026-05-01",
+        "filePath": "Economics and Technology/Ayan Electric.md",
+        "wordCountStart": 20,
+        "charCountStart": 145,
+        "changes": [],
+        "id": 117
+      },
+      {
+        "date": "2026-05-01",
+        "filePath": "Economics and Technology/BASIC.md",
+        "wordCountStart": 59,
+        "charCountStart": 434,
+        "changes": [],
+        "id": 118
+      },
+      {
+        "date": "2026-05-01",
+        "filePath": "Economics and Technology/Economy of the Rosen Commonwealth.md",
+        "wordCountStart": 799,
+        "charCountStart": 5422,
+        "changes": [],
+        "id": 119
+      },
+      {
+        "date": "2026-05-01",
+        "filePath": "History/History (2 - Rosen Republic)/Cold War.md",
+        "wordCountStart": 112,
+        "charCountStart": 711,
+        "changes": [],
+        "id": 120
+      },
+      {
+        "date": "2026-05-01",
+        "filePath": "History/History Index.md",
+        "wordCountStart": 507,
+        "charCountStart": 3566,
+        "changes": [],
+        "id": 121
+      },
+      {
+        "date": "2026-05-01",
+        "filePath": "History/History (4 - Second Commonwealth)/The Road From Here.md",
+        "wordCountStart": 492,
+        "charCountStart": 3278,
+        "changes": [],
+        "id": 122
+      },
+      {
+        "date": "2026-05-01",
+        "filePath": "History/History (4 - Second Commonwealth)/Second Rosen Commonwealth.md",
+        "wordCountStart": 36,
+        "charCountStart": 249,
+        "changes": [],
+        "id": 123
+      },
+      {
+        "date": "2026-05-01",
+        "filePath": "Politics/International Security Directory.md",
+        "wordCountStart": 83,
+        "charCountStart": 593,
+        "changes": [],
+        "id": 124
+      },
+      {
+        "date": "2026-05-01",
+        "filePath": "Politics/International Union.md",
+        "wordCountStart": 38,
+        "charCountStart": 261,
+        "changes": [],
+        "id": 125
+      },
+      {
+        "date": "2026-05-01",
+        "filePath": "Economics and Technology/Economics and Technology Index.md",
+        "wordCountStart": 286,
+        "charCountStart": 2051,
+        "changes": [],
+        "id": 126
+      },
+      {
+        "date": "2026-05-01",
+        "filePath": "Economics and Technology/Housing and Urban Development in the Rosen Commonwealth.md",
+        "wordCountStart": 749,
+        "charCountStart": 5114,
+        "changes": [
+          {
+            "timeKey": "20:30",
+            "w": 26,
+            "c": 199
+          }
+        ],
+        "id": 127
+      },
+      {
+        "date": "2026-05-01",
+        "filePath": "People/Cora Cavaleri.md",
+        "wordCountStart": 140,
+        "charCountStart": 967,
+        "changes": [],
+        "id": 128
+      },
+      {
+        "date": "2026-05-01",
+        "filePath": "Politics/Secretariat-Directory.md",
+        "wordCountStart": 1494,
+        "charCountStart": 11846,
+        "changes": [
+          {
+            "timeKey": "20:35",
+            "w": 2,
+            "c": 4
+          }
+        ],
+        "id": 129
+      },
+      {
+        "date": "2026-05-01",
+        "filePath": "Politics/Senate.md",
+        "wordCountStart": 615,
+        "charCountStart": 4120,
+        "changes": [],
+        "id": 130
+      },
+      {
+        "date": "2026-05-01",
+        "filePath": "XDevelopment/notes.md",
+        "wordCountStart": 1635,
+        "charCountStart": 11423,
+        "changes": [],
+        "id": 131
+      },
+      {
+        "date": "2026-05-01",
+        "filePath": "States/States (Present)/West Ayan Republic.md",
+        "wordCountStart": 32,
+        "charCountStart": 179,
+        "changes": [],
+        "id": 132
+      },
+      {
+        "date": "2026-05-01",
+        "filePath": "States/States (Present)/Saya.md",
+        "wordCountStart": 33,
+        "charCountStart": 199,
+        "changes": [],
+        "id": 133
+      },
+      {
+        "date": "2026-05-01",
+        "filePath": "States/States (Present)/Rosen Commonwealth.md",
+        "wordCountStart": 6413,
+        "charCountStart": 47590,
+        "changes": [],
+        "id": 134
+      },
+      {
+        "date": "2026-05-01",
+        "filePath": "States/States (Former)/Carcatoise People's Republic.md",
+        "wordCountStart": 66,
+        "charCountStart": 396,
+        "changes": [],
+        "id": 135
+      },
+      {
+        "date": "2026-05-01",
+        "filePath": "People/The Five Figures.md",
+        "wordCountStart": 38,
+        "charCountStart": 276,
+        "changes": [],
+        "id": 136
+      },
+      {
+        "date": "2026-05-01",
+        "filePath": "Places/Places (Other)/Libertas Lunar Base.md",
+        "wordCountStart": 84,
+        "charCountStart": 550,
+        "changes": [],
+        "id": 137
+      },
+      {
+        "date": "2026-05-01",
+        "filePath": "History/History (2 - Rosen Republic)/Montuon Pact.md",
+        "wordCountStart": 17,
+        "charCountStart": 97,
+        "changes": [],
+        "id": 138
+      },
+      {
+        "date": "2026-05-01",
+        "filePath": "History/History (2 - Rosen Republic)/Kuligites.md",
+        "wordCountStart": 173,
+        "charCountStart": 1090,
+        "changes": [],
+        "id": 139
+      },
+      {
+        "date": "2026-05-05",
+        "filePath": "History/History (2 - Rosen Republic)/Kuligites.md",
+        "wordCountStart": 173,
+        "charCountStart": 1090,
+        "changes": [],
+        "id": 140
+      },
+      {
+        "date": "2026-05-05",
+        "filePath": "Politics/Constitution of the Second Rosen Commonwealth.md",
+        "wordCountStart": 2048,
+        "charCountStart": 14100,
+        "changes": [],
+        "id": 141
+      },
+      {
+        "date": "2026-05-05",
+        "filePath": "Economics and Technology/HOSMAX.md",
+        "wordCountStart": 101,
+        "charCountStart": 700,
+        "changes": [],
+        "id": 142
+      },
+      {
+        "date": "2026-05-05",
+        "filePath": "History/History (2 - Rosen Republic)/Democratic-Nationalist Alliance.md",
+        "wordCountStart": 108,
+        "charCountStart": 774,
+        "changes": [],
+        "id": 143
+      },
+      {
+        "date": "2026-05-05",
+        "filePath": "People/Armando Ribeiro.md",
+        "wordCountStart": 20,
+        "charCountStart": 125,
+        "changes": [],
+        "id": 144
+      },
+      {
+        "date": "2026-05-05",
+        "filePath": "People/The Five Figures.md",
+        "wordCountStart": 38,
+        "charCountStart": 276,
+        "changes": [
+          {
+            "timeKey": "18:30",
+            "w": 0,
+            "c": 4
+          }
+        ],
+        "id": 145
+      },
+      {
+        "date": "2026-05-05",
+        "filePath": "XDevelopment/notes.md",
+        "wordCountStart": 1635,
+        "charCountStart": 11423,
+        "changes": [],
+        "id": 146
+      },
+      {
+        "date": "2026-05-05",
+        "filePath": "Economics and Technology/Economy of the Rosen Commonwealth.md",
+        "wordCountStart": 799,
+        "charCountStart": 5422,
+        "changes": [
+          {
+            "timeKey": "18:30",
+            "w": 0,
+            "c": 4
+          }
+        ],
+        "id": 147
+      },
+      {
+        "date": "2026-05-05",
+        "filePath": "People/Hatsue Yuhara.md",
+        "wordCountStart": 373,
+        "charCountStart": 2489,
+        "changes": [
+          {
+            "timeKey": "18:30",
+            "w": -36,
+            "c": -254
+          }
+        ],
+        "id": 148
+      },
+      {
+        "date": "2026-05-05",
+        "filePath": "Notes and Commentary/Notes on Labor, Work, and Economics in the Rosen Commonwealth.md",
+        "wordCountStart": 1615,
+        "charCountStart": 10673,
+        "changes": [
+          {
+            "timeKey": "18:30",
+            "w": 0,
+            "c": 4
+          }
+        ],
+        "id": 149
+      },
+      {
+        "date": "2026-05-05",
+        "filePath": "Misc/Characters.md",
+        "wordCountStart": 2134,
+        "charCountStart": 13206,
+        "changes": [],
+        "id": 150
+      },
+      {
+        "date": "2026-05-05",
+        "filePath": "Economics and Technology/Types of Enterprises in the Rosen Commonwealth.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:40",
+            "w": 62,
+            "c": 467
+          },
+          {
+            "timeKey": "19:45",
+            "w": 112,
+            "c": 711
+          },
+          {
+            "timeKey": "19:50",
+            "w": 109,
+            "c": 777
+          },
+          {
+            "timeKey": "19:55",
+            "w": 127,
+            "c": 882
+          },
+          {
+            "timeKey": "20:00",
+            "w": 128,
+            "c": 847
+          },
+          {
+            "timeKey": "20:05",
+            "w": 95,
+            "c": 682
+          },
+          {
+            "timeKey": "20:10",
+            "w": 51,
+            "c": 378
+          },
+          {
+            "timeKey": "20:15",
+            "w": 102,
+            "c": 702
+          },
+          {
+            "timeKey": "20:20",
+            "w": 130,
+            "c": 881
+          },
+          {
+            "timeKey": "20:25",
+            "w": 45,
+            "c": 346
+          },
+          {
+            "timeKey": "21:15",
+            "w": 0,
+            "c": -3
+          }
+        ],
+        "id": 151
+      },
+      {
+        "date": "2026-05-05",
+        "filePath": "People/Jorge Almeida.md",
+        "wordCountStart": 403,
+        "charCountStart": 2713,
+        "changes": [],
+        "id": 152
+      },
+      {
+        "date": "2026-05-05",
+        "filePath": "Politics/Almeidaism.md",
+        "wordCountStart": 1045,
+        "charCountStart": 7125,
+        "changes": [],
+        "id": 153
+      },
+      {
+        "date": "2026-05-05",
+        "filePath": "Politics/List of Departments, Offices, and Agencies In the Rosen Commonwealth.md",
+        "wordCountStart": 954,
+        "charCountStart": 7964,
+        "changes": [],
+        "id": 154
+      },
+      {
+        "date": "2026-05-05",
+        "filePath": "Economics and Technology/Housing and Urban Development in the Rosen Commonwealth.md",
+        "wordCountStart": 775,
+        "charCountStart": 5313,
+        "changes": [],
+        "id": 155
+      },
+      {
+        "date": "2026-05-05",
+        "filePath": "Economics and Technology/Standard Electronics.md",
+        "wordCountStart": 57,
+        "charCountStart": 415,
+        "changes": [],
+        "id": 156
+      },
+      {
+        "date": "2026-05-05",
+        "filePath": "Economics and Technology/Economics and Technology Index.md",
+        "wordCountStart": 286,
+        "charCountStart": 2051,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 6,
+            "c": 46
+          },
+          {
+            "timeKey": "21:20",
+            "w": 2,
+            "c": 18
+          }
+        ],
+        "id": 157
+      },
+      {
+        "date": "2026-05-05",
+        "filePath": "History/History Index.md",
+        "wordCountStart": 507,
+        "charCountStart": 3566,
+        "changes": [],
+        "id": 158
+      },
+      {
+        "date": "2026-05-05",
+        "filePath": "Wiki.md",
+        "wordCountStart": 68,
+        "charCountStart": 465,
+        "changes": [],
+        "id": 159
+      },
+      {
+        "date": "2026-05-05",
+        "filePath": "index.md",
+        "wordCountStart": 291,
+        "charCountStart": 1803,
+        "changes": [],
+        "id": 160
+      },
+      {
+        "date": "2026-05-06",
+        "filePath": "Wiki.md",
+        "wordCountStart": 68,
+        "charCountStart": 465,
+        "changes": [],
+        "id": 161
+      },
+      {
+        "date": "2026-05-08",
+        "filePath": "Wiki.md",
+        "wordCountStart": 68,
+        "charCountStart": 465,
+        "changes": [],
+        "id": 162
+      },
+      {
+        "date": "2026-05-08",
+        "filePath": "Economics and Technology/BASIC.md",
+        "wordCountStart": 59,
+        "charCountStart": 434,
+        "changes": [],
+        "id": 163
+      },
+      {
+        "date": "2026-05-08",
+        "filePath": "States/States (Present)/West Ayan Republic.md",
+        "wordCountStart": 32,
+        "charCountStart": 179,
+        "changes": [],
+        "id": 164
+      },
+      {
+        "date": "2026-05-08",
+        "filePath": "XDevelopment/notes.md",
+        "wordCountStart": 1635,
+        "charCountStart": 11423,
+        "changes": [],
+        "id": 165
+      },
+      {
+        "date": "2026-05-08",
+        "filePath": "index.md",
+        "wordCountStart": 291,
+        "charCountStart": 1803,
+        "changes": [],
+        "id": 166
+      },
+      {
+        "date": "2026-05-08",
+        "filePath": "Economics and Technology/Economics and Technology Index.md",
+        "wordCountStart": 294,
+        "charCountStart": 2115,
+        "changes": [],
+        "id": 167
+      },
+      {
+        "date": "2026-05-08",
+        "filePath": "Economics and Technology/Types of Enterprises in the Rosen Commonwealth.md",
+        "wordCountStart": 961,
+        "charCountStart": 6670,
+        "changes": [
+          {
+            "timeKey": "22:00",
+            "w": 3,
+            "c": 25
+          }
+        ],
+        "id": 168
+      },
+      {
+        "date": "2026-05-08",
+        "filePath": "History/History (2 - Rosen Republic)/Democratic-Nationalist Alliance.md",
+        "wordCountStart": 108,
+        "charCountStart": 774,
+        "changes": [],
+        "id": 169
+      },
+      {
+        "date": "2026-05-09",
+        "filePath": "Economics and Technology/Economy of the Rosen Commonwealth.md",
+        "wordCountStart": 799,
+        "charCountStart": 5426,
+        "changes": [],
+        "id": 170
+      },
+      {
+        "date": "2026-05-09",
+        "filePath": "Economics and Technology/HOSMAX.md",
+        "wordCountStart": 101,
+        "charCountStart": 700,
+        "changes": [],
+        "id": 171
+      },
+      {
+        "date": "2026-05-09",
+        "filePath": "Economics and Technology/Housing and Urban Development in the Rosen Commonwealth.md",
+        "wordCountStart": 775,
+        "charCountStart": 5313,
+        "changes": [],
+        "id": 172
       }
     ]
   }
