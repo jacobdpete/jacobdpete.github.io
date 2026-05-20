@@ -1,5 +1,8 @@
-@use "./base.scss";
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@use "./base.scss";
+
+/* --- 1. Custom Local Font (Swansea) --- */
+/* ... the rest of your file remains exactly the same ... */
 
 /* --- 1. Custom Local Font (Swansea) --- */
 @font-face { font-family: 'Swansea'; src: url('./static/swansea-regular.ttf') format('truetype'); font-weight: normal; font-style: normal; }
