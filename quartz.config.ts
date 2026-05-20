@@ -23,10 +23,10 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Inter",
-        body: "Inter",
-        code: "IBM Plex Mono",
-      },
+      header: "Playfair Display",
+      body: "Source Sans Pro", // Leave body and code alone!
+      code: "IBM Plex Mono",
+    },
       colors: {
         lightMode: {
           light: "#faf8f8",
