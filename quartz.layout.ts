@@ -1,6 +1,28 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+// --- CUSTOM CONDITIONAL COMPONENTS ---
+// 1. Setup the Recent Notes component
+const BaseRecent = Component.RecentNotes({
+  title: "Changelog Directory",
+  limit: 15,
+})
+// Wrap it to only render on the "Recent-Updates" page
+const RecentOnly = (props: any) => props.fileData.slug === "Recent-Updates" ? BaseRecent(props) : null
+RecentOnly.css = BaseRecent.css
+RecentOnly.afterDOMLoaded = BaseRecent.afterDOMLoaded
+
+// 2. Setup the Interactive Graph component
+const BaseGraph = Component.Graph({
+  localGraph: { drag: true, zoom: true, depth: 1, scale: 1.2, repulsion: 1000 },
+  globalGraph: { drag: true, zoom: true, depth: -1, scale: 0.9, repulsion: 1500 },
+})
+// Wrap it to only render on the "Graph" page
+const GraphOnly = (props: any) => props.fileData.slug === "Graph" ? BaseGraph(props) : null
+GraphOnly.css = BaseGraph.css
+GraphOnly.afterDOMLoaded = BaseGraph.afterDOMLoaded
+// -------------------------------------
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -21,35 +43,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
-    
-    // 1. Dynamic Recent Updates Generator
-    Component.Explorer({
-      title: "Changelog Directory",
-      folderDefaultState: "collapsed",
-      useSavedState: false,
-      sort(a, b) {
-        // Automatically sort pages by the date they were last modified
-        return (b.fileData.dates?.modified?.getTime() ?? 0) - (a.fileData.dates?.modified?.getTime() ?? 0)
-      },
-    }).filter((key, ctx) => ctx.fileData.slug === "Recent-Updates"),
-
-    // 2. Full-Page Interactive Knowledge Graph
-    Component.Graph({
-      localGraph: {
-        drag: true,
-        zoom: true,
-        depth: 1,
-        scale: 1.2,
-        repulsion: 1000,
-      },
-      globalGraph: {
-        drag: true,
-        zoom: true,
-        depth: -1,
-        scale: 0.9,
-        repulsion: 1500,
-      },
-    }).filter((key, ctx) => ctx.fileData.slug === "Graph"),
+    RecentOnly, // Safely injects the recent notes
+    GraphOnly,  // Safely injects the big graph
   ],
   left: [],
   right: [],
