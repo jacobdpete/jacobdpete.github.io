@@ -17,11 +17,39 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.MenuBar(),
+    Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
-    Component.TableOfContents(), /* <--- Drops the ToC right back into the center! */
+    
+    // 1. Dynamic Recent Updates Generator
+    Component.Explorer({
+      title: "Changelog Directory",
+      folderDefaultState: "collapsed",
+      useSavedState: false,
+      sort(a, b) {
+        // Automatically sort pages by the date they were last modified
+        return (b.fileData.dates?.modified?.getTime() ?? 0) - (a.fileData.dates?.modified?.getTime() ?? 0)
+      },
+    }).filter((key, ctx) => ctx.fileData.slug === "Recent-Updates"),
+
+    // 2. Full-Page Interactive Knowledge Graph
+    Component.Graph({
+      localGraph: {
+        drag: true,
+        zoom: true,
+        depth: 1,
+        scale: 1.2,
+        repulsion: 1000,
+      },
+      globalGraph: {
+        drag: true,
+        zoom: true,
+        depth: -1,
+        scale: 0.9,
+        repulsion: 1500,
+      },
+    }).filter((key, ctx) => ctx.fileData.slug === "Graph"),
   ],
   left: [],
   right: [],
