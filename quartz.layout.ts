@@ -2,12 +2,12 @@ import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
 // --- CUSTOM CONDITIONAL COMPONENTS ---
+
 // 1. Setup the Recent Notes component
 const BaseRecent = Component.RecentNotes({
   title: "Changelog Directory",
-  limit: 75,
+  limit: 50,
 })
-// Wrap it to only render on the "Recent-Updates" page
 const RecentOnly = (props: any) => props.fileData.slug === "Recent-Updates" ? BaseRecent(props) : null
 RecentOnly.css = BaseRecent.css
 RecentOnly.afterDOMLoaded = BaseRecent.afterDOMLoaded
@@ -17,10 +17,32 @@ const BaseGraph = Component.Graph({
   localGraph: { drag: true, zoom: true, depth: 1, scale: 1.2, repulsion: 1000 },
   globalGraph: { drag: true, zoom: true, depth: -1, scale: 0.9, repulsion: 1500 },
 })
-// Wrap it to only render on the "Graph" page
 const GraphOnly = (props: any) => props.fileData.slug === "Graph" ? BaseGraph(props) : null
 GraphOnly.css = BaseGraph.css
-GraphOnly.afterDOMLoaded = BaseGraph.afterDOMLoaded
+
+// Inject a script to fix the title, size, and auto-click the global graph
+GraphOnly.afterDOMLoaded = BaseGraph.afterDOMLoaded + `
+document.addEventListener("nav", () => {
+  if (window.location.pathname === "/Graph" || window.location.pathname === "/Graph/") {
+    setTimeout(() => {
+      // Auto-click the global expand button
+      const expandBtn = document.querySelector('.global-graph-icon');
+      if (expandBtn) expandBtn.click();
+      
+      // Hide the default "Graph View" heading
+      const title = document.querySelector('.graph > h3');
+      if (title) title.style.display = "none";
+      
+      // Make the graph massive
+      const outer = document.querySelector('.graph-outer');
+      if (outer) {
+        outer.style.height = "75vh";
+        outer.style.minHeight = "600px";
+      }
+    }, 50);
+  }
+});
+`
 // -------------------------------------
 
 // components shared across all pages
@@ -43,11 +65,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
-    RecentOnly, // Safely injects the recent notes
-    GraphOnly,  // Safely injects the big graph
+    RecentOnly, // Recent updates render ABOVE the content
   ],
   left: [],
   right: [],
+  afterBody: [
+    GraphOnly,  // Graph renders BELOW the content!
+  ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
