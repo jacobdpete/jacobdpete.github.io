@@ -76,7 +76,7 @@ const MenuBar: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
             </a>
           </li>
           <li>
-            <a href="/Politics" class={isPolitics ? "active" : ""}>
+            <a href="/Politics/Politics-Index" class={isPolitics ? "active" : ""}>
               <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 7 22 7"></polygon><rect x="4" y="9" width="4" height="9"></rect><rect x="16" y="9" width="4" height="9"></rect><rect x="10" y="9" width="4" height="9"></rect><line x1="2" y1="20" x2="22" y2="20"></line><line x1="2" y1="22" x2="22" y2="22"></line></svg>
               Politics
             </a>
