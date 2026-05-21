@@ -5,7 +5,7 @@ import * as Component from "./quartz/components"
 // 1. Setup the Recent Notes component
 const BaseRecent = Component.RecentNotes({
   title: "Changelog Directory",
-  limit: 15,
+  limit: 75,
 })
 // Wrap it to only render on the "Recent-Updates" page
 const RecentOnly = (props: any) => props.fileData.slug === "Recent-Updates" ? BaseRecent(props) : null
