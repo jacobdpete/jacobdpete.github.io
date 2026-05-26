@@ -1,5 +1,6 @@
 # Overview
 Almeidaism is a democratic socialist ideology developed by Jorge Almeida and several other colleagues from the 1960s to 80s as a response to the policy of the [[Rosen Republic]], other leftist movements, and the [[Second Rosen Civil War]]'s underlying economic, social, and political causes. Almeidaism emphasizes collective leadership; tolerance, diversity, and community-building; the abolition of currency; and universal housing, healthcare, and sustenance.
+Today, Almeidaism, in a somewhat altered form, is employed in the [[Rosen Commonwealth]] as a guiding ideology. It is most apparent in the structure of the Commonwealth's government, which prizes collective leadership, decentralization, and direct democracy.
 # Influences
 Almeidaism was not conceived in a vacuum. Jorge Almeida's earliest cited influence for his ideology was his mother, Elaine Soares, who was a prominent trade unionist in labor organizer. Later, colleagues at the University of São Lola like Renato Brito, a Rosen philosopher and political theorist; Lorenzo Castilho, a revolutionary communist who would be arrested during Almeida's study; and Bartłomiej Koppa, a civil rights activist and Almeida's future stepfather. Brito, Castilho, and Koppa all influenced aspects of Almeidaism that can be seen in the ideology today: Brito's emphasis on collective leadership and the directory system of the federal executive, Castilho's work in arguing for a mass movement and national general strikes to accelerate change, and Koppa's ideals on diversity and community-building.
 
@@ -8,12 +9,17 @@ Almeidaism was not conceived in a vacuum. Jorge Almeida's earliest cited influen
 # Theory
 ## Works
 Throughout his career, Almeida authored and published about a dozen books, gave about a hundred speeches, and wrote hundreds of letters that shape modern conceptions of Almeidaist ideology. Included here are the major works that represented significant shifts or assertions made by Almeida that came to become integral parts of Almeidaism.
+
+### *Socialism in Saya*
+
 ### *Mundo*
 *Mundo* was the first of Almeida's works to gain traction in the Rosen socialist sphere. It was critically acclaimed by many; critics of the Rosen far-left often believed *Mundo* was both pragmatic and utopian in its vision for a path from capitalism to communism.
 Despite this acclaim, *Mundo* is perhaps the "furthest-left" work Almeida wrote. It was Almeida's first iteration of applying democratic socialist ideology to Almeidaism: it appears unfamiliar to modern Almeidaism in its comprehensive critique of the bourgeois and industrial capitalism; modern Almeidaism typically avoids criticizing current ideologies and instead poses Almeidaism on its own.
 ### *Our*
 *Our* saw Almeida begin to develop his political ideology further, this being made apparent by Renato Brito's involvement in the work. It was the only major work Almeida explicitly co-authored.
 *Our* saw Almeida develop a long, primarily historical critique of Rosen democracy. Almeida essentially poses that Rosen society has never been democratic, exemplified by political repression under the [[Rosen Federal Union]] and economic repression seen through corruption in the Republic. *Our* 
+
+### *Battle of Brenito Manuscripts* 
 ### *Nova Sociedade*
 ### *April 1985 Letters*
 

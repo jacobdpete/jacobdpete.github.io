@@ -4,18 +4,18 @@
     "enabledLanguages": [
       "LATIN"
     ],
-    "dailyWritingGoal": "100",
+    "dailyWritingGoal": "200",
     "startOfTheWeek": "SUNDAY",
     "heatmapNavigation": false,
     "heatmapConfig": {
-      "roundCells": true,
+      "roundCells": false,
       "hideMonthLabels": false,
       "hideWeekdayLabels": false,
       "intensityMode": "gradual",
       "intensityStops": {
         "low": 100,
         "medium": 500,
-        "high": 1000
+        "high": 600
       },
       "colors": {
         "light": {
@@ -58,12 +58,16 @@
     "daysWithCompletedGoal": [
       "2026-03-23",
       "2026-04-21",
-      "2026-05-05"
+      "2026-05-05",
+      "2026-05-12",
+      "2026-05-19",
+      "2026-05-24",
+      "2026-05-25"
     ],
     "dailyActivity": [
       {
         "date": "2026-03-18",
-        "filePath": "Notes and Commentary/Notes on Pacifism and Utopia in the Rosen Commonwealth.md",
+        "filePath": "Commentary/Notes on Pacifism and Utopia in the Rosen Commonwealth.md",
         "wordCountStart": 581,
         "charCountStart": 3562,
         "changes": [],
@@ -71,7 +75,7 @@
       },
       {
         "date": "2026-03-18",
-        "filePath": "Notes and Commentary/Notes on Labor, Work, and Economics in the Rosen Commonwealth.md",
+        "filePath": "Commentary/Notes on Labor, Work, and Economics in the Rosen Commonwealth.md",
         "wordCountStart": 1615,
         "charCountStart": 10673,
         "changes": [],
@@ -306,7 +310,7 @@
       },
       {
         "date": "2026-03-23",
-        "filePath": "Notes and Commentary/Notes and References.md",
+        "filePath": "Commentary/Notes and References.md",
         "wordCountStart": 3477,
         "charCountStart": 23573,
         "changes": [],
@@ -556,7 +560,7 @@
       },
       {
         "date": "2026-04-13",
-        "filePath": "Notes and Commentary/Notes on Labor, Work, and Economics in the Rosen Commonwealth.md",
+        "filePath": "Commentary/Notes on Labor, Work, and Economics in the Rosen Commonwealth.md",
         "wordCountStart": 1615,
         "charCountStart": 10673,
         "changes": [],
@@ -564,7 +568,7 @@
       },
       {
         "date": "2026-04-13",
-        "filePath": "Notes and Commentary/Notes on Pacifism and Utopia in the Rosen Commonwealth.md",
+        "filePath": "Commentary/Notes on Pacifism and Utopia in the Rosen Commonwealth.md",
         "wordCountStart": 581,
         "charCountStart": 3562,
         "changes": [],
@@ -572,7 +576,7 @@
       },
       {
         "date": "2026-04-13",
-        "filePath": "Notes and Commentary/Notes and References.md",
+        "filePath": "Commentary/Notes and References.md",
         "wordCountStart": 3477,
         "charCountStart": 23573,
         "changes": [],
@@ -580,7 +584,7 @@
       },
       {
         "date": "2026-04-13",
-        "filePath": "Notes and Commentary/Additional Notes on the Nuclear Crisis.md",
+        "filePath": "Commentary/Additional Notes on the Nuclear Crisis.md",
         "wordCountStart": 634,
         "charCountStart": 4041,
         "changes": [],
@@ -588,7 +592,7 @@
       },
       {
         "date": "2026-04-13",
-        "filePath": "Notes and Commentary/Additional Notes on Government.md",
+        "filePath": "Commentary/Additional Notes on Government.md",
         "wordCountStart": 1037,
         "charCountStart": 6862,
         "changes": [],
@@ -992,7 +996,7 @@
       },
       {
         "date": "2026-04-21",
-        "filePath": "Notes and Commentary/Additional Notes on the Nuclear Crisis.md",
+        "filePath": "Commentary/Additional Notes on the Nuclear Crisis.md",
         "wordCountStart": 634,
         "charCountStart": 4041,
         "changes": [],
@@ -1183,7 +1187,7 @@
       },
       {
         "date": "2026-04-21",
-        "filePath": "Notes and Commentary/Notes and References.md",
+        "filePath": "Commentary/Notes and References.md",
         "wordCountStart": 3477,
         "charCountStart": 23573,
         "changes": [],
@@ -1191,7 +1195,7 @@
       },
       {
         "date": "2026-04-21",
-        "filePath": "Notes and Commentary/Additional Notes on Government.md",
+        "filePath": "Commentary/Additional Notes on Government.md",
         "wordCountStart": 1037,
         "charCountStart": 6862,
         "changes": [],
@@ -1280,7 +1284,7 @@
       },
       {
         "date": "2026-04-29",
-        "filePath": "Notes and Commentary/Notes on Labor, Work, and Economics in the Rosen Commonwealth.md",
+        "filePath": "Commentary/Notes on Labor, Work, and Economics in the Rosen Commonwealth.md",
         "wordCountStart": 1615,
         "charCountStart": 10673,
         "changes": [],
@@ -1628,7 +1632,7 @@
       },
       {
         "date": "2026-05-05",
-        "filePath": "Notes and Commentary/Notes on Labor, Work, and Economics in the Rosen Commonwealth.md",
+        "filePath": "Commentary/Notes on Labor, Work, and Economics in the Rosen Commonwealth.md",
         "wordCountStart": 1615,
         "charCountStart": 10673,
         "changes": [
@@ -1896,6 +1900,1010 @@
         "charCountStart": 5313,
         "changes": [],
         "id": 172
+      },
+      {
+        "date": "2026-05-09",
+        "filePath": "Economics and Technology/Economics and Technology Index.md",
+        "wordCountStart": 294,
+        "charCountStart": 2115,
+        "changes": [],
+        "id": 173
+      },
+      {
+        "date": "2026-05-12",
+        "filePath": "Economics and Technology/Economics and Technology Index.md",
+        "wordCountStart": 294,
+        "charCountStart": 2115,
+        "changes": [],
+        "id": 174
+      },
+      {
+        "date": "2026-05-12",
+        "filePath": "People/Cora Cavaleri.md",
+        "wordCountStart": 140,
+        "charCountStart": 967,
+        "changes": [],
+        "id": 175
+      },
+      {
+        "date": "2026-05-12",
+        "filePath": "Commentary/Additional Notes on the Nuclear Crisis.md",
+        "wordCountStart": 634,
+        "charCountStart": 4041,
+        "changes": [],
+        "id": 176
+      },
+      {
+        "date": "2026-05-12",
+        "filePath": "Commentary/Additional Notes on Government.md",
+        "wordCountStart": 1037,
+        "charCountStart": 6862,
+        "changes": [],
+        "id": 177
+      },
+      {
+        "date": "2026-05-12",
+        "filePath": "Commentary/Notes and References.md",
+        "wordCountStart": 3477,
+        "charCountStart": 23573,
+        "changes": [],
+        "id": 178
+      },
+      {
+        "date": "2026-05-12",
+        "filePath": "Commentary/Notes on Pacifism and Utopia in the Rosen Commonwealth.md",
+        "wordCountStart": 581,
+        "charCountStart": 3562,
+        "changes": [],
+        "id": 179
+      },
+      {
+        "date": "2026-05-12",
+        "filePath": "People/Armando Ribeiro.md",
+        "wordCountStart": 20,
+        "charCountStart": 125,
+        "changes": [],
+        "id": 180
+      },
+      {
+        "date": "2026-05-12",
+        "filePath": "People/Caio Morais.md",
+        "wordCountStart": 75,
+        "charCountStart": 497,
+        "changes": [],
+        "id": 181
+      },
+      {
+        "date": "2026-05-12",
+        "filePath": "People/Hatsue Yuhara.md",
+        "wordCountStart": 337,
+        "charCountStart": 2235,
+        "changes": [],
+        "id": 182
+      },
+      {
+        "date": "2026-05-12",
+        "filePath": "People/Jorge Almeida.md",
+        "wordCountStart": 403,
+        "charCountStart": 2713,
+        "changes": [],
+        "id": 183
+      },
+      {
+        "date": "2026-05-12",
+        "filePath": "Politics/List of Departments, Offices, and Agencies In the Rosen Commonwealth.md",
+        "wordCountStart": 954,
+        "charCountStart": 7964,
+        "changes": [],
+        "id": 184
+      },
+      {
+        "date": "2026-05-12",
+        "filePath": "States/States (Former)/Rosen Federal Union.md",
+        "wordCountStart": 50,
+        "charCountStart": 299,
+        "changes": [],
+        "id": 185
+      },
+      {
+        "date": "2026-05-12",
+        "filePath": "States/States (Former)/First Rosen Commonwealth.md",
+        "wordCountStart": 84,
+        "charCountStart": 589,
+        "changes": [],
+        "id": 186
+      },
+      {
+        "date": "2026-05-12",
+        "filePath": "States/States (Present)/Rosen Commonwealth.md",
+        "wordCountStart": 6413,
+        "charCountStart": 47590,
+        "changes": [],
+        "id": 187
+      },
+      {
+        "date": "2026-05-12",
+        "filePath": "Culture/Rosen Median Language.md",
+        "wordCountStart": 76,
+        "charCountStart": 511,
+        "changes": [],
+        "id": 188
+      },
+      {
+        "date": "2026-05-12",
+        "filePath": "Misc/Men Pray Once More.md",
+        "wordCountStart": 1865,
+        "charCountStart": 11139,
+        "changes": [
+          {
+            "timeKey": "18:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 189
+      },
+      {
+        "date": "2026-05-12",
+        "filePath": "Commentary/Notes on Original Sin in the Nuclear Crisis.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:55",
+            "w": 96,
+            "c": 531
+          },
+          {
+            "timeKey": "19:00",
+            "w": 87,
+            "c": 544
+          },
+          {
+            "timeKey": "19:05",
+            "w": 69,
+            "c": 412
+          },
+          {
+            "timeKey": "19:10",
+            "w": 29,
+            "c": 183
+          }
+        ],
+        "id": 190
+      },
+      {
+        "date": "2026-05-12",
+        "filePath": "History/Timeline of the Second Rosen Commonwealth.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:10",
+            "w": 24,
+            "c": 187
+          },
+          {
+            "timeKey": "19:15",
+            "w": 92,
+            "c": 618
+          },
+          {
+            "timeKey": "19:20",
+            "w": 77,
+            "c": 513
+          },
+          {
+            "timeKey": "19:25",
+            "w": 17,
+            "c": 125
+          }
+        ],
+        "id": 191
+      },
+      {
+        "date": "2026-05-12",
+        "filePath": "History/History (3 - First Commonwealth)/Transitory Commonwealth.md",
+        "wordCountStart": 169,
+        "charCountStart": 1181,
+        "changes": [
+          {
+            "timeKey": "19:10",
+            "w": 6,
+            "c": 50
+          }
+        ],
+        "id": 192
+      },
+      {
+        "date": "2026-05-12",
+        "filePath": "History/History (4 - Second Commonwealth)/Second Rosen Commonwealth.md",
+        "wordCountStart": 36,
+        "charCountStart": 249,
+        "changes": [],
+        "id": 193
+      },
+      {
+        "date": "2026-05-12",
+        "filePath": "Politics/Constitution of the Second Rosen Commonwealth.md",
+        "wordCountStart": 2048,
+        "charCountStart": 14100,
+        "changes": [],
+        "id": 194
+      },
+      {
+        "date": "2026-05-19",
+        "filePath": "History/Timeline of the Second Rosen Commonwealth.md",
+        "wordCountStart": 210,
+        "charCountStart": 1443,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": -1,
+            "c": -3
+          }
+        ],
+        "id": 195
+      },
+      {
+        "date": "2026-05-19",
+        "filePath": "Places/Places (Solar System)/Nora.md",
+        "wordCountStart": 143,
+        "charCountStart": 819,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 196
+      },
+      {
+        "date": "2026-05-19",
+        "filePath": "Places/Places (Solar System)/Luna.md",
+        "wordCountStart": 255,
+        "charCountStart": 1486,
+        "changes": [],
+        "id": 197
+      },
+      {
+        "date": "2026-05-19",
+        "filePath": "Economics and Technology/Internet in the Rosen Commonwealth.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 2,
+            "c": 6
+          },
+          {
+            "timeKey": "17:45",
+            "w": 57,
+            "c": 431
+          },
+          {
+            "timeKey": "17:50",
+            "w": 42,
+            "c": 314
+          },
+          {
+            "timeKey": "17:55",
+            "w": -2,
+            "c": -5
+          },
+          {
+            "timeKey": "18:00",
+            "w": 37,
+            "c": 305
+          },
+          {
+            "timeKey": "18:05",
+            "w": 45,
+            "c": 300
+          },
+          {
+            "timeKey": "18:10",
+            "w": 5,
+            "c": 25
+          },
+          {
+            "timeKey": "18:15",
+            "w": 75,
+            "c": 530
+          },
+          {
+            "timeKey": "18:20",
+            "w": 23,
+            "c": 149
+          },
+          {
+            "timeKey": "20:10",
+            "w": 29,
+            "c": 190
+          }
+        ],
+        "id": 198
+      },
+      {
+        "date": "2026-05-19",
+        "filePath": "Politics/Constitution of the Second Rosen Commonwealth.md",
+        "wordCountStart": 2048,
+        "charCountStart": 14100,
+        "changes": [],
+        "id": 199
+      },
+      {
+        "date": "2026-05-19",
+        "filePath": "States/States (Present)/Rosen Commonwealth.md",
+        "wordCountStart": 6413,
+        "charCountStart": 47590,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 200
+      },
+      {
+        "date": "2026-05-19",
+        "filePath": "Misc/Men Pray Once More.md",
+        "wordCountStart": 1865,
+        "charCountStart": 11139,
+        "changes": [],
+        "id": 201
+      },
+      {
+        "date": "2026-05-19",
+        "filePath": "Economics and Technology/Types of Enterprises in the Rosen Commonwealth.md",
+        "wordCountStart": 964,
+        "charCountStart": 6695,
+        "changes": [
+          {
+            "timeKey": "20:15",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 202
+      },
+      {
+        "date": "2026-05-19",
+        "filePath": "Economics and Technology/Standard Electronics.md",
+        "wordCountStart": 57,
+        "charCountStart": 415,
+        "changes": [
+          {
+            "timeKey": "20:15",
+            "w": -1,
+            "c": -11
+          }
+        ],
+        "id": 203
+      },
+      {
+        "date": "2026-05-19",
+        "filePath": "Economics and Technology/ROCARA.md",
+        "wordCountStart": 53,
+        "charCountStart": 391,
+        "changes": [],
+        "id": 204
+      },
+      {
+        "date": "2026-05-19",
+        "filePath": "Economics and Technology/Housing and Urban Development in the Rosen Commonwealth.md",
+        "wordCountStart": 775,
+        "charCountStart": 5313,
+        "changes": [
+          {
+            "timeKey": "20:20",
+            "w": 13,
+            "c": 90
+          },
+          {
+            "timeKey": "20:45",
+            "w": 14,
+            "c": 89
+          }
+        ],
+        "id": 205
+      },
+      {
+        "date": "2026-05-19",
+        "filePath": "Commentary/Notes on Original Sin in the Nuclear Crisis.md",
+        "wordCountStart": 281,
+        "charCountStart": 1670,
+        "changes": [],
+        "id": 206
+      },
+      {
+        "date": "2026-05-19",
+        "filePath": "Commentary/Notes on Pacifism and Utopia in the Rosen Commonwealth.md",
+        "wordCountStart": 581,
+        "charCountStart": 3562,
+        "changes": [
+          {
+            "timeKey": "20:20",
+            "w": 29,
+            "c": 164
+          },
+          {
+            "timeKey": "20:25",
+            "w": 104,
+            "c": 566
+          },
+          {
+            "timeKey": "20:30",
+            "w": 71,
+            "c": 466
+          },
+          {
+            "timeKey": "20:35",
+            "w": 57,
+            "c": 322
+          },
+          {
+            "timeKey": "20:40",
+            "w": 220,
+            "c": 1320
+          },
+          {
+            "timeKey": "20:45",
+            "w": -5,
+            "c": -37
+          }
+        ],
+        "id": 207
+      },
+      {
+        "date": "2026-05-19",
+        "filePath": "Commentary/Additional Notes on Government.md",
+        "wordCountStart": 1037,
+        "charCountStart": 6862,
+        "changes": [],
+        "id": 208
+      },
+      {
+        "date": "2026-05-19",
+        "filePath": "Commentary/Additional Notes on the Nuclear Crisis.md",
+        "wordCountStart": 634,
+        "charCountStart": 4041,
+        "changes": [],
+        "id": 209
+      },
+      {
+        "date": "2026-05-19",
+        "filePath": "Politics/List of Departments, Offices, and Agencies In the Rosen Commonwealth.md",
+        "wordCountStart": 954,
+        "charCountStart": 7964,
+        "changes": [],
+        "id": 210
+      },
+      {
+        "date": "2026-05-19",
+        "filePath": "Commentary/Commentary Index.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 211
+      },
+      {
+        "date": "2026-05-20",
+        "filePath": "Economics and Technology/Housing and Urban Development in the Rosen Commonwealth.md",
+        "wordCountStart": 802,
+        "charCountStart": 5492,
+        "changes": [],
+        "id": 212
+      },
+      {
+        "date": "2026-05-20",
+        "filePath": "Commentary/Notes on Original Sin in the Nuclear Crisis.md",
+        "wordCountStart": 281,
+        "charCountStart": 1670,
+        "changes": [
+          {
+            "timeKey": "16:10",
+            "w": -281,
+            "c": -1670
+          }
+        ],
+        "id": 213
+      },
+      {
+        "date": "2026-05-20",
+        "filePath": "Commentary/Notes on Pacifism and Utopia in the Rosen Commonwealth.md",
+        "wordCountStart": 1057,
+        "charCountStart": 6363,
+        "changes": [],
+        "id": 214
+      },
+      {
+        "date": "2026-05-20",
+        "filePath": "Economics and Technology/Types of Enterprises in the Rosen Commonwealth.md",
+        "wordCountStart": 964,
+        "charCountStart": 6694,
+        "changes": [],
+        "id": 215
+      },
+      {
+        "date": "2026-05-21",
+        "filePath": "Economics and Technology/Types of Enterprises in the Rosen Commonwealth.md",
+        "wordCountStart": 964,
+        "charCountStart": 6694,
+        "changes": [],
+        "id": 216
+      },
+      {
+        "date": "2026-05-21",
+        "filePath": "Recent Updates.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 217
+      },
+      {
+        "date": "2026-05-21",
+        "filePath": "index.md",
+        "wordCountStart": 291,
+        "charCountStart": 1803,
+        "changes": [],
+        "id": 218
+      },
+      {
+        "date": "2026-05-21",
+        "filePath": "Wiki.md",
+        "wordCountStart": 68,
+        "charCountStart": 465,
+        "changes": [],
+        "id": 219
+      },
+      {
+        "date": "2026-05-21",
+        "filePath": "Graph.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:45",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "17:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 220
+      },
+      {
+        "date": "2026-05-21",
+        "filePath": "Commentary/Notes on Pacifism and Utopia in the Rosen Commonwealth.md",
+        "wordCountStart": 1057,
+        "charCountStart": 6363,
+        "changes": [],
+        "id": 221
+      },
+      {
+        "date": "2026-05-21",
+        "filePath": "Economics and Technology/Economics and Technology Index.md",
+        "wordCountStart": 294,
+        "charCountStart": 2115,
+        "changes": [],
+        "id": 222
+      },
+      {
+        "date": "2026-05-21",
+        "filePath": "History/History Index.md",
+        "wordCountStart": 507,
+        "charCountStart": 3566,
+        "changes": [
+          {
+            "timeKey": "17:25",
+            "w": -1,
+            "c": -8
+          }
+        ],
+        "id": 223
+      },
+      {
+        "date": "2026-05-21",
+        "filePath": "Politics/Politics Index.md",
+        "wordCountStart": 95,
+        "charCountStart": 659,
+        "changes": [
+          {
+            "timeKey": "17:25",
+            "w": 15,
+            "c": 183
+          },
+          {
+            "timeKey": "17:30",
+            "w": 17,
+            "c": 169
+          }
+        ],
+        "id": 224
+      },
+      {
+        "date": "2026-05-22",
+        "filePath": "Politics/Politics Index.md",
+        "wordCountStart": 127,
+        "charCountStart": 1011,
+        "changes": [],
+        "id": 225
+      },
+      {
+        "date": "2026-05-22",
+        "filePath": "Politics/Almeidaism.md",
+        "wordCountStart": 1045,
+        "charCountStart": 7125,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": 7,
+            "c": 64
+          },
+          {
+            "timeKey": "21:50",
+            "w": 37,
+            "c": 259
+          }
+        ],
+        "id": 226
+      },
+      {
+        "date": "2026-05-23",
+        "filePath": "Politics/Almeidaism.md",
+        "wordCountStart": 1089,
+        "charCountStart": 7448,
+        "changes": [],
+        "id": 227
+      },
+      {
+        "date": "2026-05-23",
+        "filePath": "History/Timeline of the Second Rosen Commonwealth.md",
+        "wordCountStart": 209,
+        "charCountStart": 1440,
+        "changes": [],
+        "id": 228
+      },
+      {
+        "date": "2026-05-23",
+        "filePath": "States/States (Present)/Rosen Commonwealth.md",
+        "wordCountStart": 6413,
+        "charCountStart": 47591,
+        "changes": [],
+        "id": 229
+      },
+      {
+        "date": "2026-05-23",
+        "filePath": "Places/Places (Solar System)/Nora.md",
+        "wordCountStart": 145,
+        "charCountStart": 832,
+        "changes": [],
+        "id": 230
+      },
+      {
+        "date": "2026-05-23",
+        "filePath": "Places/Places (Solar System)/Dillaa.md",
+        "wordCountStart": 80,
+        "charCountStart": 516,
+        "changes": [
+          {
+            "timeKey": "22:35",
+            "w": 1,
+            "c": 13
+          }
+        ],
+        "id": 231
+      },
+      {
+        "date": "2026-05-23",
+        "filePath": "Places/Places (Solar System)/Iveka.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 232
+      },
+      {
+        "date": "2026-05-23",
+        "filePath": "Places/Places (Solar System)/Luna.md",
+        "wordCountStart": 255,
+        "charCountStart": 1486,
+        "changes": [],
+        "id": 233
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "Places/Places (Solar System)/Nora.md",
+        "wordCountStart": 145,
+        "charCountStart": 832,
+        "changes": [],
+        "id": 234
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "Economics and Technology/Mandated Service in the Rosen Commonwealth.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "21:50",
+            "w": 58,
+            "c": 394
+          },
+          {
+            "timeKey": "21:55",
+            "w": 106,
+            "c": 697
+          },
+          {
+            "timeKey": "22:00",
+            "w": 5,
+            "c": 38
+          }
+        ],
+        "id": 235
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "3rd November 1989.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 64,
+            "c": 335
+          },
+          {
+            "timeKey": "21:50",
+            "w": -64,
+            "c": -335
+          }
+        ],
+        "id": 236
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "Recent Updates.md",
+        "wordCountStart": 2,
+        "charCountStart": 19,
+        "changes": [],
+        "id": 237
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "History/History (3 - First Commonwealth)/Nuclear Crisis.md",
+        "wordCountStart": 985,
+        "charCountStart": 6362,
+        "changes": [],
+        "id": 238
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "Politics/Senate.md",
+        "wordCountStart": 615,
+        "charCountStart": 4120,
+        "changes": [],
+        "id": 239
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "Politics/List of Departments, Offices, and Agencies In the Rosen Commonwealth.md",
+        "wordCountStart": 954,
+        "charCountStart": 7964,
+        "changes": [],
+        "id": 240
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "Culture/Demei.md",
+        "wordCountStart": 71,
+        "charCountStart": 444,
+        "changes": [],
+        "id": 241
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "Commentary/Notes on Labor, Work, and Economics in the Rosen Commonwealth.md",
+        "wordCountStart": 1615,
+        "charCountStart": 10677,
+        "changes": [],
+        "id": 242
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "Economics and Technology/Economy of the Rosen Commonwealth.md",
+        "wordCountStart": 799,
+        "charCountStart": 5426,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 88,
+            "c": 548
+          },
+          {
+            "timeKey": "22:10",
+            "w": 89,
+            "c": 658
+          },
+          {
+            "timeKey": "22:15",
+            "w": 8,
+            "c": 71
+          }
+        ],
+        "id": 243
+      },
+      {
+        "date": "2026-05-24",
+        "filePath": "Economics and Technology/Types of Enterprises in the Rosen Commonwealth.md",
+        "wordCountStart": 964,
+        "charCountStart": 6694,
+        "changes": [],
+        "id": 244
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "Economics and Technology/Types of Enterprises in the Rosen Commonwealth.md",
+        "wordCountStart": 964,
+        "charCountStart": 6694,
+        "changes": [],
+        "id": 245
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "These Latter Days.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": 21,
+            "c": 108
+          },
+          {
+            "timeKey": "18:15",
+            "w": 82,
+            "c": 506
+          },
+          {
+            "timeKey": "18:20",
+            "w": 73,
+            "c": 443
+          },
+          {
+            "timeKey": "18:25",
+            "w": 76,
+            "c": 506
+          },
+          {
+            "timeKey": "18:30",
+            "w": 62,
+            "c": 390
+          },
+          {
+            "timeKey": "18:35",
+            "w": 139,
+            "c": 874
+          },
+          {
+            "timeKey": "18:40",
+            "w": 77,
+            "c": 495
+          },
+          {
+            "timeKey": "18:45",
+            "w": 92,
+            "c": 533
+          },
+          {
+            "timeKey": "18:50",
+            "w": 89,
+            "c": 491
+          },
+          {
+            "timeKey": "18:55",
+            "w": 33,
+            "c": 233
+          },
+          {
+            "timeKey": "19:10",
+            "w": 31,
+            "c": 196
+          },
+          {
+            "timeKey": "19:15",
+            "w": 111,
+            "c": 621
+          },
+          {
+            "timeKey": "19:20",
+            "w": 88,
+            "c": 468
+          },
+          {
+            "timeKey": "19:25",
+            "w": 6,
+            "c": 26
+          }
+        ],
+        "id": 246
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "Economics and Technology/Economy of the Rosen Commonwealth.md",
+        "wordCountStart": 984,
+        "charCountStart": 6703,
+        "changes": [],
+        "id": 247
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "History/History (3 - First Commonwealth)/Nuclear Crisis.md",
+        "wordCountStart": 985,
+        "charCountStart": 6362,
+        "changes": [],
+        "id": 248
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "Commentary/Notes on Labor, Work, and Economics in the Rosen Commonwealth.md",
+        "wordCountStart": 1615,
+        "charCountStart": 10677,
+        "changes": [],
+        "id": 249
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "Places/Places (Solar System)/Nora.md",
+        "wordCountStart": 145,
+        "charCountStart": 832,
+        "changes": [],
+        "id": 250
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "People/Jorge Almeida.md",
+        "wordCountStart": 403,
+        "charCountStart": 2713,
+        "changes": [],
+        "id": 251
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "States/States (Present)/Rosen Commonwealth.md",
+        "wordCountStart": 6413,
+        "charCountStart": 47591,
+        "changes": [],
+        "id": 252
       }
     ]
   }
