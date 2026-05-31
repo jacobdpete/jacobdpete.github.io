@@ -8,4 +8,4 @@
 > 
 > *Whatever You Say, Say Nothing*, Seamus Heaney
 
-The Second Rosen Civil War was a conflict from 2nd June 1976 to 10th August 1983 in the former [[Rosen Republic]] primarily between the [[Democratic-Nationalist Alliance]] and the [[Socialist Party|Worker's Socialist Party of the Rosen Commonwealth]]. 
+The Second Rosen Civil War was a conflict from 2nd June 1974 to 10th August 1983 in the former [[Rosen Republic]] primarily between the [[Democratic-Nationalist Alliance]] and the [[Socialist Party|Worker's Socialist Party of the Rosen Commonwealth]]. It was sparked by

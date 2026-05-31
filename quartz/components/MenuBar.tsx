@@ -34,6 +34,12 @@ const MenuBar: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
             Wiki
           </a>
         </li>
+        <li>
+          <a href="/Etcetera" class={isEtcetera ? "active" : ""}>
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"></path></svg>
+            Wiki
+          </a>
+        </li>
       </ul>
 
       {/* Bottom Row: The Pill Container with Categories */}

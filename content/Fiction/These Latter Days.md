@@ -28,7 +28,7 @@ Ricardo Kulig, like the men before him, does not acknowledge the violence. Inste
 
 '66. From the view I've got up here, it looks like about one in three Rosens are unemployed, give or take a few million, and so they begin to search beyond conspiracy, introspectively. The year Rosens make contact with reality. They're priced out! Kulig's economic plan, which consisted of desperately printing money, leads to inflation on a scale never seen before in the Republic. 
 The Kuligites, skilled economists as they are, pivot, and blame the political system for Rosen woes. 
-To distract the hundred and thirty two million jobless Rosens, they televise debates over the legislative system, election of supreme court justices, and mandatory retirement ages. It's white noise to the gutted Rosens. The federal government - at least as a conspiracy - was never very enticing.
+To distract the hundred and thirty two million jobless Rosens, they televise debates over the legislative system, election of supreme court justices, and mandatory retirement ages. It's white noise to the gutted Rosens. The federal government--at least as a conspiracy--was never very enticing.
 
 In 1967, the monopoly on violence is gone, because there is no more law to enforce. Once you leave the city, there's nothing but oblivion for miles, a sky red with the glow of a thousand fires, a million dead in the countryside because of famine, violence, and all that horrible jazz. 
 In Żole, vignettes from familial separation: a daughter, once a thriving, pretentious college student, is urged to flee her hometown for Navarro, where there's at least the promise of a degree of law and order. A phone rings. Her girlfriend is dead, shot in the chest by some anarchist sniper. She lived in Navarro. 
@@ -53,6 +53,6 @@ Regardless, they celebrate. Tapes-into-tape-decks, they burn effigies and dance 
 It is 1974. the revolution has at last come. There are no more Rosens, no more unemployed, no more rioters, no more conspirators, no more Weizmann, and for God's sake no more Kuligites. There is nothing to document anymore.
 Now, the weary traveller asks you "which side are you on?", and you have but two options: you are a nationalist or a communist. 
 
-The decline and fall of the Rosen Republic was a grotesque affair with the following thesis: In these latter days, are there still Rosens? The spiral, the devolution of men into creatures--and this through the vessel: the automobile industry, Marques--and do you Remember Leeward?--Klimowicz, the Kuligites, Weizmann, gas prices, rural oblivion, the mother, the daughter, the mother once more, the census, and, at long last, the revolution. 
+The decline and fall of the Rosen Republic was a grotesque affair with the following thesis: In these latter days, are there still Rosens? The spiral, the devolution of men into creatures, creatures into dirt, dirt into dust--and this through the vessel: the automobile industry, Marques--and do you Remember Leeward?--Klimowicz, the Kuligites, Weizmann, gas prices, rural oblivion, the mother, the daughter, the mother once more, the census, socialists, and, at long last, the revolution. 
 
 In these latter days, there are no Rosens. Just animals.
