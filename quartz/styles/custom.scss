@@ -146,13 +146,18 @@ header .page-title {
   transition: all 0.2s ease; white-space: nowrap; padding-bottom: 2px; border-bottom: 2px solid transparent; 
 }
 .sub-tier a:hover { color: var(--tertiary); }
-.sub-tier a.active { color: var(--dark); border-bottom: 2px solid var(--tertiary); }
+.sub-tier a.active { 
+  color: var(--dark) !important; 
+  border-bottom: 3px solid var(--tertiary) !important; 
+}
 
 /* Sub Tier Dark Mode Tweaks */
 [saved-theme="dark"] .sub-tier a { color: #b0b0b0 !important; }
 [saved-theme="dark"] .sub-tier a:hover { color: var(--tertiary) !important; }
-[saved-theme="dark"] .sub-tier a.active { color: #ffffff !important; }
-
+[saved-theme="dark"] .sub-tier a.active { 
+  color: #ffffff !important; 
+  border-bottom: 3px solid var(--tertiary) !important;
+}
 /* 3-State Darkmode Toggle */
 .darkmode-toggle { background: none; border: none; cursor: pointer; padding: 0; color: var(--darkgray); display: flex; align-items: center; transition: color 0.2s ease; }
 .darkmode-toggle:hover { color: var(--tertiary); }
