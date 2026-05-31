@@ -1,9 +1,6 @@
 @use "./base.scss";
 
 /* --- 1. Custom Local Font (Swansea) --- */
-/* ... the rest of your file remains exactly the same ... */
-
-/* --- 1. Custom Local Font (Swansea) --- */
 @font-face { font-family: 'Swansea'; src: url('./static/swansea-regular.ttf') format('truetype'); font-weight: normal; font-style: normal; }
 @font-face { font-family: 'Swansea'; src: url('./static/swansea-bold.ttf') format('truetype'); font-weight: bold; font-style: normal; }
 @font-face { font-family: 'Swansea'; src: url('./static/swansea-italic.ttf') format('truetype'); font-weight: normal; font-style: italic; }
@@ -129,18 +126,23 @@ header .page-title {
 /* Sub Tier Pillbox */
 .sub-tier-container {
   background-color: rgba(0, 0, 0, 0.03); 
-  padding: 0.5rem 0.8rem; /* Restored the wider padding inside the box */
+  padding: 0.5rem 1rem; /* Slightly wider horizontal padding to compress the inner items */
   border-radius: 8px; border: 1px solid var(--lightgray);
 }
 [saved-theme="dark"] .sub-tier-container { background-color: #1e1e20; border: 1px solid #333; }
 
 .sub-tier {
-  display: flex; flex-wrap: nowrap; justify-content: space-between; gap: 0.5rem;       
-  list-style: none !important; padding: 0; margin: 0; font-size: 0.8rem; font-weight: 500;
+  display: flex; flex-wrap: nowrap; 
+  justify-content: space-around; /* This pulls the items away from the extreme edges and distributes them nicely */
+  gap: 0.5rem;       
+  list-style: none !important; padding: 0; margin: 0; 
+  font-size: 0.9rem; /* BUMPED UP: Larger text, but still smaller than the 1.1rem top tabs */
+  font-weight: 500;
   overflow-x: auto; scrollbar-width: none; 
 }
 .sub-tier a {
-  color: var(--darkgray); text-decoration: none; display: flex; align-items: center; gap: 0.3rem;
+  color: var(--darkgray); text-decoration: none; display: flex; align-items: center; 
+  gap: 0.4rem; /* Added a tiny bit more breathing room between the icon and the text */
   transition: all 0.2s ease; white-space: nowrap; padding-bottom: 2px; border-bottom: 2px solid transparent; 
 }
 .sub-tier a:hover { color: var(--tertiary); }
