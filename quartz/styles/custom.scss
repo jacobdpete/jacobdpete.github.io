@@ -106,19 +106,18 @@ header .page-title {
 }
 
 /* --- 5. MillMint Custom Menu Bar --- */
-/* --- 5. MillMint Custom Menu Bar --- */
-.menu-bar { margin: 1rem 0 1.5rem 0; width: 100%; } /* Reduced bottom margin */
+.menu-bar { margin: 1rem 0 2rem 0; width: 100%; } /* Restored bottom spacing */
 
 /* Top Tier Tabs */
 .top-tier {
-  display: flex; gap: 0.5rem; /* Pulled the tabs closer together */
+  display: flex; gap: 1rem; /* Restored the wider gap between Home, Wiki, Etcetera */
   list-style: none !important;
-  padding: 0; margin: 0 0 0.5rem 0; /* Pulled the pillbox closer to the tabs */
+  padding: 0; margin: 0 0 1rem 0; /* Restored the gap between the tabs and the pillbox */
   font-size: 1.1rem; font-weight: 600;
 }
 .top-tier a {
   color: var(--darkgray); text-decoration: none; 
-  padding: 0.4rem 0.6rem; /* Tighter padding around the text */
+  padding: 0.5rem 0.8rem; /* Restored the larger, more comfortable click area */
   border-radius: 6px 6px 0 0; border-bottom: 3px solid transparent; 
   transition: all 0.2s ease; display: flex; align-items: center; gap: 0.4rem;
 }
@@ -130,7 +129,7 @@ header .page-title {
 /* Sub Tier Pillbox */
 .sub-tier-container {
   background-color: rgba(0, 0, 0, 0.03); 
-  padding: 0.4rem 0.6rem; /* Tighter padding inside the box */
+  padding: 0.5rem 0.8rem; /* Restored the wider padding inside the box */
   border-radius: 8px; border: 1px solid var(--lightgray);
 }
 [saved-theme="dark"] .sub-tier-container { background-color: #1e1e20; border: 1px solid #333; }
