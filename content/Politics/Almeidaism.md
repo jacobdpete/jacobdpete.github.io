@@ -10,6 +10,7 @@ Almeidaism's most distinct features, namely its advocacy on the abolition of cur
 ### The Five Figures
 The term "[[The Five Figures|Five Figures]]" refers to the five largest contributors to Almeidaism that Almeida personally knew in his later career: Almeida himself, Hatsue Yuhara, Deng Liang, [[Cora Cavaleri]], and Bartosz Rybicki. Each contributor influenced Almeida in a different way and to different extents, with Yuhara influencing the direction of Almeidaism and explicitly working on *Nova Sociedade* with Almeida. Deng Liang had significant contacts within the democratic socialist movement, and functioned as an organizer within the Almeidaist faction of the [[Socialist Party|WSPRC]]. Cora Cavaleri was also a democratic socialist, but was considerably more moderate in her views, with her ideology more akin to social democracy. Finally, Bartosz Rybicki was a philosopher and often contributed to Almeidaism's sociological components.
 # Theory
+Almeidaism was developed through several written and transcribed works by Jorge Almeida. 
 ## Works
 Throughout his career, Almeida authored and published about a dozen books, gave about a hundred speeches, and wrote hundreds of letters that shape modern conceptions of Almeidaist ideology. Included here are the major works that represented significant shifts or assertions made by Almeida that came to become integral parts of Almeidaism.
 ### *Socialism in Saya*
