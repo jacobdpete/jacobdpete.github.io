@@ -6,6 +6,7 @@ Almeidaism was not conceived in a vacuum. Jorge Almeida's earliest cited influen
 In a broader, more impersonal sense, Almeidaism was built upon existing conceptions of democratic socialism, which can be seen in Almeidaism's absence of a vanguard party, emphasis on workplace democracy and the welfare state, and emphasis on democratic participation. Guild Socialism influenced Almeida's council-assembly structure, creating systems in which industries were self-managed and directed by their constituents. Syndicalism, similarly, posits that unions and councils should be the building blocks of a socialist society, which was also a core component of Almeidaism. Council Communism is sometimes noted as an influence on Almeidaism, although, unlike democratic socialism, guild socialism, and syndicalism, was never directly referenced by Almeida. As an influence on government, council communism is held responsible for the directorial nature of the federal government and its desire for nonpartisanship and a rotating, weak executive.
 Almeidaism's most distinct features, namely its advocacy on the abolition of currency and automation, often draw contrasts to Genesis Socialism (GS), a technocratic and utopian variant of socialism espoused by some Sayan politicians during the expansion of factory automation in the [[Sayan Union|Union]]. Though GS advocated for the complete abolition of work through automation, Almeidaism, in contrast, advocated for the complete abolition of the *wage relationship* in work. Almeida believed maintaining work as a social and civic obligation would serve as upkeep for the weight of the social structure of an Almeidaist society.
 ## Contemporary contributors
+Contemporary contribution to Almeidaism refers to those who developed it alongside Almeida during the late stage of his career and those who developed the ideology after the [[Nuclear Crisis]].
 ### Hatsue Yuhara
 ### The Five Figures
 The term "[[The Five Figures|Five Figures]]" refers to the five largest contributors to Almeidaism that Almeida personally knew in his later career: Almeida himself, Hatsue Yuhara, Deng Liang, [[Cora Cavaleri]], and Bartosz Rybicki. Each contributor influenced Almeida in a different way and to different extents, with Yuhara influencing the direction of Almeidaism and explicitly working on *Nova Sociedade* with Almeida. Deng Liang had significant contacts within the democratic socialist movement, and functioned as an organizer within the Almeidaist faction of the [[Socialist Party|WSPRC]]. Cora Cavaleri was also a democratic socialist, but was considerably more moderate in her views, with her ideology more akin to social democracy. Finally, Bartosz Rybicki was a philosopher and often contributed to Almeidaism's sociological components.
@@ -30,10 +31,26 @@ Almeidaist economics envisions an anarchistic, locally-maintained market relying
 Almeidaism strongly encourages a bottom-up economy and is vehemently opposed to top-down economic planning. Citing the failure of "five-year plans" in the [[Sayan Union]], Almeida believed bottom-up economic planning combined the value of the "invisible hand" and supply and demand influences with community and human-centered priorities.
 Bottom-up economic planning is fostered by workplace democracy. Almeidaism envisions tiered labor unions, comprising worker councils and worker assemblies. Worker councils are small groups of workers that determine their immediate priorities and collectively advocate for their interests by electing a representative to their constituent worker assembly. Worker assemblies, in turn, determine company-scale directives like benefits and wider priorities. Almeida proposed that worker assemblies elect an executive or council of executives to represent the company and ensure it followed the directives of the worker assembly.
 Almeidaism is most known for its advocacy for the elimination of currency. This practice is often removed from context; Almeida did not advocate for a barter system or a new kind of currency, rather the total elimination of an exchange in the context of labor. Elimination of currency came to rely on an idea of post-scarcity, which Almeida believed could be achieved to a certain extent through a large-scale labor automation program.
-Automation was another core component of Almeidaism. Interestingly, it wasn't part of Almeidaism to begin with; however, after *Nova Sociedade*, it became a key tenet of an Almeidaist future. Almeidaism didn't advocate for the abolition of labor, either. Almeida saw labor as a core part of human interaction and social ability; as such, he believed labor could serve a social or civic function to prevent, in his words, "fatness and satisfaction." In other words, labor in interesting, stimulating jobs, with menial aspects reduced or done away with via automation, created a valuable sense of intrinsic value that would allow the Rosen economy to function without wages.
-## Sociology
-Diversity is a core concept in Almeidaist ideology. Applying Almeidaism to Rosens required tolerance for a variety of identity groups due to the Commonwealth's diversity.
-#### Feminism
+Automation was another core component of Almeidaism. Interestingly, it wasn't part of Almeidaism to begin with; however, after *Nova Sociedade*, it became a key tenet of an Almeidaist future. Almeidaism didn't advocate for the abolition of labor, either. Almeida saw labor as a core part of human interaction and social ability; as such, he believed labor could serve a social or civic function to prevent, in his words, "fatness and satisfaction." In other words, labor in interesting, stimulating jobs, with menial aspects reduced or done away with via automation, creates a valuable sense of intrinsic value that would allow the Rosen economy to function without wages.
+## Philosophy
+Almeidaism prizes relations--
+### Principles
+In *Our*, Almeida extrapolates five needs that all humans require.
+- Humans need conditions that create and protect dignity,
+- humans need to work meaningfully,
+- humans need to belong to, and have roots in, a community,
+- humans need relationships to one another,
+- and humans need to participate in decisions that affect their lives.
+These are broken down as follows:
+#### Dignity
+This principle was developed beyond its infantile state in *Our* by Hatsue Yuhara, and in the context of Almeidaism is described as the *dignity principle*. The dignity principle posits that the highest virtue any organization, whether that be economic, political, or social, is the protection of human dignity. All aspects of society, directly or tangentially, should thus create grounds for universal dignity, and protect by any means necessary. One can note that the other four needs Almeida describes all serve the dignity principle: dignity is meaningful work, community, relationships, and democracy.
+#### Meaningful Work
+Meaningful work, sometimes shortened to the *work principle*, is reasonably unique, and was thus developed in response to unique (at the time) events: factory automation.
+#### Roots
+#### Relationships
+#### Democracy
+
+### Feminism
 ### Ecology
 ## Political architecture
 # Practice
