@@ -18,7 +18,7 @@ Marques chose not to condemn the rioters and instead dissolved congress by decre
 
 "Here is 1963," Florian Klimowicz says. Eric Marques is dead of a heart attack, a result of a lifetime of eating ultraprocessed food from an industry he deregulated. "Victory in the Cold War is at our fingertips," Klimowicz yells. There is considerably less applause at his inauguration. And speaking of victory - it was, actually, very far away. Saya, with its parallel global economic system, had no stake in the Republic's lost years. It boomed.
 
-"Here is 1964," I say, and there is no more applause. Unemployment is at twenty percent. Leeward is in fact Remembered and the events of 1961 reoccur, this time across the entire Commonwealth. Navarro is set aflame, and with no firefighters, no water, and little policing, the city is left to burn. In São Lola, communists briefly control the city until they are shoved from their pedestal by ultranationalists. 
+"Here is 1964," I say, and there is no more applause. At this point, the concept of a federal government has begun to unravel. Unemployment is at twenty percent. Leeward is in fact Remembered and the events of 1961 reoccur, this time across the entire Commonwealth. Navarro is set aflame, and with no firefighters, no water, and little policing, the city is left to burn. In São Lola, communists briefly control the city until they are shoved from their pedestal by ultranationalists. 
 People stop counting unemployment statistics, because there is no longer a bureaucratic institution to count. A census was planned for 1965, but it was called off in 1962. 
 Klimowicz breaks out in tears during a national address. He speaks to an empty stage, because his aides couldn't find anyone who wouldn't relentlessly heckle him while he spoke.
 
@@ -55,4 +55,4 @@ Now, the weary traveller asks you "which side are you on?", and you have but two
 
 The decline and fall of the Rosen Republic was a grotesque affair with the following thesis: In these latter days, are there still Rosens? The spiral, the devolution of men into creatures, creatures into dirt, dirt into dust--and this through the vessel: the automobile industry, Marques--and do you Remember Leeward?--Klimowicz, the Kuligites, Weizmann, gas prices, rural oblivion, the mother, the daughter, the mother once more, the census, socialists, and, at long last, the revolution. 
 
-In these latter days, there are no Rosens. Just animals.
+And so, in these latter days, there are no Rosens. Just animals.

@@ -1,4 +1,3 @@
-# Overview
 Almeidaism[^1] is a democratic socialist ideology developed by Jorge Almeida and several other colleagues from the 1960s to 80s as a response to the policy of the [[Rosen Republic]], other leftist movements, and the [[Second Rosen Civil War]]'s underlying economic, social, and political causes. Almeidaism emphasizes collective leadership; tolerance, diversity, and community-building; the abolition of currency; and universal housing, healthcare, and sustenance.
 Today, Almeidaism, in a somewhat altered form, is employed in the [[Rosen Commonwealth]] as a guiding ideology. It is most apparent in the structure of the Commonwealth's government, which prizes collective leadership, decentralization, and direct democracy.
 # Influences
@@ -25,15 +24,9 @@ Despite this acclaim, *Mundo* is perhaps the "furthest-left" work Almeida wrote.
 ### *Battle of Brenito Manuscripts* 
 ### *Nova Sociedade*
 ### *April 1985 Letters*
-
-## Economics
-Almeidaist economics envisions an anarchistic, locally-maintained market relying on contributory labor and civic obligation, creating a society where "consumers do not interact with prices and workers do not interact with wages."
-Almeidaism strongly encourages a bottom-up economy and is vehemently opposed to top-down economic planning. Citing the failure of "five-year plans" in the [[Sayan Union]], Almeida believed bottom-up economic planning combined the value of the "invisible hand" and supply and demand influences with community and human-centered priorities.
-Bottom-up economic planning is fostered by workplace democracy. Almeidaism envisions tiered labor unions, comprising worker councils and worker assemblies. Worker councils are small groups of workers that determine their immediate priorities and collectively advocate for their interests by electing a representative to their constituent worker assembly. Worker assemblies, in turn, determine company-scale directives like benefits and wider priorities. Almeida proposed that worker assemblies elect an executive or council of executives to represent the company and ensure it followed the directives of the worker assembly.
-Almeidaism is most known for its advocacy for the elimination of currency. This practice is often removed from context; Almeida did not advocate for a barter system or a new kind of currency, rather the total elimination of an exchange in the context of labor. Elimination of currency came to rely on an idea of post-scarcity, which Almeida believed could be achieved to a certain extent through a large-scale labor automation program.
-Automation was another core component of Almeidaism. Interestingly, it wasn't part of Almeidaism to begin with; however, after *Nova Sociedade*, it became a key tenet of an Almeidaist future. Almeidaism didn't advocate for the abolition of labor, either. Almeida saw labor as a core part of human interaction and social ability; as such, he believed labor could serve a social or civic function to prevent, in his words, "fatness and satisfaction." In other words, labor in interesting, stimulating jobs, with menial aspects reduced or done away with via automation, creates a valuable sense of intrinsic value that would allow the Rosen economy to function without wages.
 ## Philosophy
-Almeidaism prizes relations--
+Almeidaism prizes relation—the connections between humans that shape interactions. It believes labor, with the wage relation removed, develops humans and forms connections that cannot be replaced by leisure. A degree of healthy inconvenience is necessary to building empathy, avoiding boredom, and stimulating the brain. 
+Humans have basic needs that must be met by a successful, developed society. These are outlined in the principles of Almeidaism. 
 ### Principles
 In *Our*, Almeida extrapolates five needs that all humans require.
 - Humans need conditions that create and protect dignity,
@@ -45,14 +38,26 @@ These are broken down as follows:
 #### Dignity
 This principle was developed beyond its infantile state in *Our* by Hatsue Yuhara, and in the context of Almeidaism is described as the *dignity principle*. The dignity principle posits that the highest virtue any organization, whether that be economic, political, or social, is the protection of human dignity. All aspects of society, directly or tangentially, should thus create grounds for universal dignity, and protect by any means necessary. One can note that the other four needs Almeida describes all serve the dignity principle: dignity is meaningful work, community, relationships, and democracy.
 #### Meaningful Work
-Meaningful work, sometimes shortened to the *work principle*, is reasonably unique, and was thus developed in response to unique (at the time) events: factory automation.
+Meaningful work, sometimes shortened to the *work principle*, is reasonably unique, and was thus developed in response to unique (at the time) sequence of events: factory automation. In Almeida’s view, industrial capitalism in the 1800s initially alienated workers from their work. Factory automation was both relief and dangerous with regards to alienation; automation removed menial, dangerous jobs but alienated workers from their production further. 
+Almeidaism attempts to synthesize the best of both worlds by eliminating the wage relationship and embracing automation of *menial labor*, coupled with a worker-council system that ensures workers have both power and responsibility in their work. The work principle is critical to the economics of Almeidaism at the most basic level, ensuring work has meaning and is non-transactional. 
 #### Roots
+The Commonwealth’s diversity in ethnicity and unique ethnic republic devolution necessitated emphasis on diversity and community. Almeidaism posits that humans require a community. However, this community cannot be manufactured like the commune system seen in some third-world socialist states. 
+This need for *roots*, specifically, is protected by the preconditions ensured in the dignity principle. Universal housing and sustenance allow community to develop through a stable, physical, and shared region. At the higher level, the republic system allows rootedness at its core. 
 #### Relationships
+Humans need each other, and the other principles allow the relationships principle to flourish. Almeidaism emphasizes community, and through this it emphasizes genuine connections to one another. The work principle, for instance, allows relationships to one another by creating shared notions of meaningful work. The roots principle insures communities, meaning relationships with those around you are more or less inescapable. 
+Elements of capitalism hinder relationships at the level and scale Almeidaism desires: consumerism, for instances, commodifies objects and individuals to the point that their social value is twisted or diminished. Consumerism builds groups of people with common preferences but no actual relationships to one another. Again, the worker-council system permits greater community because people have vested interests in such communities. 
 #### Democracy
-
+Humans need to engage in their communities both formally—through democratic elections and referendums—and informally, administratively—through council meetings and broader ongoing engagement in their communities. This creates more effective administration because those who carry out a job are responsible for governing it; no one is more informed than them on that job. Moreover, people administrating themselves through collective leadership creates greater freedom. Their community is maintained and administered by *all* constituents of said community. 
 ### Feminism
+The feminist aspects of Almeidaist philosophy were mostly devised by Hatsue Yuhara, 
 ### Ecology
 ## Political architecture
+## Economic architecture
+Almeidaist economics envisions an anarchistic, locally-maintained market relying on contributory labor and civic obligation, creating a society where "consumers do not interact with prices and workers do not interact with wages."
+Almeidaism strongly encourages a bottom-up economy and is vehemently opposed to top-down economic planning. Citing the failure of "five-year plans" in the [[Sayan Union]], Almeida believed bottom-up economic planning combined the value of the "invisible hand" and supply and demand influences with community and human-centered priorities.
+Bottom-up economic planning is fostered by workplace democracy. Almeidaism envisions tiered labor unions, comprising worker councils and worker assemblies. Worker councils are small groups of workers that determine their immediate priorities and collectively advocate for their interests by electing a representative to their constituent worker assembly. Worker assemblies, in turn, determine company-scale directives like benefits and wider priorities. Almeida proposed that worker assemblies elect an executive or council of executives to represent the company and ensure it followed the directives of the worker assembly.
+Almeidaism is most known for its advocacy for the elimination of currency. This practice is often removed from context; Almeida did not advocate for a barter system or a new kind of currency, rather the total elimination of an exchange in the context of labor. Elimination of currency came to rely on an idea of post-scarcity, which Almeida believed could be achieved to a certain extent through a large-scale labor automation program.
+Automation was another core component of Almeidaism. Interestingly, it wasn't part of Almeidaism to begin with; however, after *Nova Sociedade*, it became a key tenet of an Almeidaist future. Almeidaism didn't advocate for the abolition of labor, either. Almeida saw labor as a core part of human interaction and social ability; as such, he believed labor could serve a social or civic function to prevent, in his words, "fatness and satisfaction." In other words, labor in interesting, stimulating jobs, with menial aspects reduced or done away with via automation, creates a valuable sense of intrinsic value that would allow the Rosen economy to function without wages.
 # Practice
 ## Application in the Rosen Commonwealth
 ## Application abroad
