@@ -21,8 +21,9 @@ html { scrollbar-width: none !important; -ms-overflow-style: none !important; }
 /* Obsidian-Style Headings (Playfair) */
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--headerFont);
-  font-weight: 600 !important; 
-  letter-spacing: 0.01em;
+  font-weight: 600 !important;
+  font-kerning: normal;
+  letter-spacing: -0.02em;
 }
 
 /* Body Text Sizing */
