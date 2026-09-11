@@ -79,7 +79,7 @@ Responsible for administering the Commonwealth's financial relations and providi
 **OTUR**
 **Administrator:** Linda Sperduto
 Responsible for administering relations and integrity between the federal government and the Commonwealth's many trade unions.
-### Office of Socialist Policy
+### [[Office of Socialist Policy]]
 **OSP**
 **Administrator:** Manuel Huang
 Responsible for administering the Commonwealth's socialist doctrine per the directives of the Directory, sharing responsibilities with the OIIP.
@@ -88,7 +88,7 @@ Responsible for administering the Commonwealth's socialist doctrine per the dire
 ### Office of Outer Space Policy
 **OOSC**
 **Administrator:** Damien Holt
-Responsible for administering the Commonwealth's policy and directives with regards to exploration and industry in space, especially on [[Luna]]. It is the intermediary authority over [[ROCARA]].
+Responsible for administering the Commonwealth's policy and directives with regards to exploration and industry in space, especially on [[Luna]]. It is the intermediary authority over ROCARA.
 ### Office of Internet Regulation and Safety
 **OIRS**
 **Administrator:** Walentyna Banasik
@@ -148,7 +148,7 @@ Responsible for administering the Commonwealth's maritime infrastructure and tra
 ### Rosen Intelligence Agency
 **RIA**
 **Director:**
-### Rosen Commonwealth Aerospace Research Agency
+### [[ROCARA|Rosen Commonwealth Aerospace Research Agency]]
 **ROCARA**
 **Director:**
 ### Federal Property Agency

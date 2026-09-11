@@ -1,0 +1,1 @@
+The Office of Socialist Policy is an office in the federal government tasked with archiving and codifying works of leftist ideology in the [[Rosen Commonwealth]]. In addition to 

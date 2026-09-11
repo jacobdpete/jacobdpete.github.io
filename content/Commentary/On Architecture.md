@@ -3,4 +3,4 @@ Architecture and urban design shapes behavior. Besides my enthusiasm for interes
 # Foundations
 Oh god, he's beginning a note with "foundations." This means it'll never get done.
 
-[[Jorge Almeida]] actually had a lot to say about urban design, mostly because he knew that urban design shapes behavior. If he wanted to keep the society he envisioned in [[Almeidaism]] 
+[[Jorge Almeida]] actually had a lot to say about urban design, mostly because he knew that urban design shapes behavior. If he wanted to keep the society he envisioned in [[Almeidaism]], he knew he’d have to restructure society from its social and cultural core. He did this in a variety of ways: ethnic sovereignty, devolution, diversity and tolerance, and so on. There was real infrastructure that had to accompany
