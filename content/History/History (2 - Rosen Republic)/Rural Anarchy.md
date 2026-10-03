@@ -1,1 +1,1 @@
-Rural Anarchy refers to the period between 1966 and 1974 where the federal government ceased enforcing law in the rural [[Rosen Republic]]. 
+Rural Anarchy, or Rural Oblivion, refers to the period between 1966 and 1974 where the federal government ceased enforcing law in the rural [[Rosen Republic]]. 

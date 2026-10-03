@@ -195,3 +195,57 @@ html[data-theme-preference="auto"] .auto-icon { display: block; }
 #toc-content {
   margin-top: 0.5rem;
 }
+
+/* --- 7. Wiki Card Grid --- */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem 0;
+}
+
+.wiki-card {
+  display: block;
+  padding: 1.25rem 1.1rem;
+  border-radius: 8px;
+  background-color: rgba(0, 0, 0, 0.03);
+  border: 1px solid var(--lightgray);
+  text-decoration: none !important;
+  transition: border-color 0.2s ease, background-color 0.2s ease;
+}
+
+[saved-theme="dark"] .wiki-card {
+  background-color: #1e1e20;
+  border: 1px solid #333;
+}
+
+.wiki-card:hover {
+  border-color: var(--tertiary);
+  background-color: rgba(82, 144, 242, 0.08);
+}
+
+.card-icon {
+  font-size: 1.6rem;
+  margin-bottom: 0.4rem;
+  line-height: 1;
+}
+
+.card-title {
+  font-family: var(--headerFont);
+  font-weight: 600 !important;
+  margin: 0;
+  color: var(--dark);
+  font-size: 1.1rem;
+}
+
+.card-subtitle {
+  margin: 0.25rem 0 0;
+  color: var(--darkgray);
+  font-size: 0.85rem;
+}
+
+@media all and (max-width: 500px) {
+  .card-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

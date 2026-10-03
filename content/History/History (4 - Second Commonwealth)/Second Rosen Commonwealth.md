@@ -1,4 +1,4 @@
-> *We will not take your land. We will not take your homes. We will not take your jewels. This is a two-way street, and all the Rosens live on it. So again, **we will not take your jewels**.*
+> *This is a new society, and so we will not take your land. We will not take your homes. We will not take your jewels. This is a two-way street, and all the Rosens live on it. So again, **we will not take your jewels**.*
 > 
 > Anni Mouritsen, *1998 Inaugural Address*
 

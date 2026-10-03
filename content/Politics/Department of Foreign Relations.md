@@ -1,0 +1,1 @@
+The Department of Foreign Relations, or DEPFOR, is a federal department responsible for the [[Rosen Commonwealth]]'s foreign policy and relations. Its primary duties include advising the Secretariat-Directory on international relations, administering diplomatic missions, initiating and negotiating treaties, and protecting Rosen citizens abroad.
