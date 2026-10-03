@@ -242,3 +242,59 @@ html[data-theme-preference="auto"] .auto-icon { display: block; }
   text-decoration: none;
   margin-bottom: 0.25rem;
 }
+
+/* =========================================
+   CATEGORY TINTING (MILLMINT STYLE)
+========================================= */
+
+/* Use :has() to detect the category class inside the article, 
+   but apply the colors globally to the HTML root. 
+   Scoped ONLY to light mode to prevent unreadable dark-mode clashes. */
+
+[saved-theme="light"]:has(.theme-culture) {
+  --light: #fdf5f6;      
+  --secondary: #d64045;  
+  --tertiary: #f4a261;   
+}
+
+[saved-theme="light"]:has(.theme-industry) {
+  --light: #fcf0f2;      
+  --secondary: #8b0000;  
+  --tertiary: #c53030;   
+}
+
+[saved-theme="light"]:has(.theme-history) {
+  --light: #fef4eb;      
+  --secondary: #c2410c;  
+  --tertiary: #ea580c;   
+}
+
+[saved-theme="light"]:has(.theme-people) {
+  --light: #fffce8;      
+  --secondary: #b45309;  
+  --tertiary: #d97706;   
+}
+
+[saved-theme="light"]:has(.theme-places) {
+  --light: #f0fbf4;      
+  --secondary: #15803d;  
+  --tertiary: #22c55e;   
+}
+
+[saved-theme="light"]:has(.theme-politics) {
+  --light: #f0f7fb;      
+  --secondary: #2563eb;  
+  --tertiary: #60a5fa;   
+}
+
+[saved-theme="light"]:has(.theme-states) {
+  --light: #ebf0f6;      
+  --secondary: #1e3a8a;  
+  --tertiary: #3b82f6;   
+}
+
+/* Force the page wrapper to stretch and use the newly defined tinted background */
+.page {
+  background-color: var(--light);
+  min-height: 100vh;
+}
