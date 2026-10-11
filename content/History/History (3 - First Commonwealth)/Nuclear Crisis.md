@@ -2,7 +2,7 @@
 > 
 > Revelation 9:6
 # Overview
-The Nuclear Crisis, sometimes called the Second World War, the Second Great War, or the Bernard Sea Incident, was a worldwide conflict[^1] from 2nd November to 30th December 1989. It saw the widespread exchange of nuclear and conventional ordnance between the [[Rosen Commonwealth]] and its allies and [[ICOSGEA]] (International COalition for Stable Governance in East Aya), composed primarily of the West Ayan countries and the [[Sayan Union]]. The 58-day conflict was the single greatest loss of human life in history, killing an estimated 1.3 billion people.
+The Nuclear Crisis, sometimes called the Second World War, the Second Great War, or the Bernard Sea Incident, was a worldwide conflict[^1] from 2nd November to 30th December 1989. It saw the widespread exchange of nuclear and conventional ordnance between the [[Rosen Commonwealth]] and its allies and [[ICOSGEA]] (International COalition for Stable Governance in East Aya), composed primarily of the West Ayan countries and the [[Sayan Union]]. The 58-day conflict was the single greatest loss of human life in history, killing an estimated 1.4 billion people.
 The Nuclear Crisis originated from the convergence of several factors. Prolonged international discontent stemming from the collapse of the [[Rosen Republic]], ongoing territorial disputes concerning the Bernard Sea, and persistent ideological tensions between the newly established Rosen Commonwealth and the rapidly deteriorating Sayan Union culminated in an incident involving a command miscommunication that resulted in Sayan destroyers engaging Rosen privateers and fishing vessels in the Bernard Sea. Miscommunications and malfunctions between military forces operated by ICOSGEA led many ICBMs to launch prematurely, catching both sides of the conflict by surprise.
 The Sayan Union launched the first nuclear weapons. Retaliatory strikes were authorized quickly in the Rosen Commonwealth. The Rosen Commonwealth possessed better Ballistic Missile Defense (BMD) systems, losing "only" 102 million people in the conflict.
 Conventional warfare took place after the initial nuclear exchange; confused, poorly coordinated, and sporadic fighting took place in less affected parts of East and West Aya; and in the Sayan Union, where the Sayan Civil War took place. 
@@ -35,7 +35,7 @@ The 2021 IU Nuclear Crisis Commission attributed deaths during and following the
 - Short and long-term radiation casualties, which refers to those who died as a direct result of the atomic bombs within the first month of the conflict. 
 - Indirect casualties, which refers to those who died as a result of starvation, debris, infrastructural, governmental, and social failure, or other sicknesses within ten years of the conflict.
 - Armed casualties, which refers to those who died as a result of military conflict and anarchy following the Crisis (e.g. the Sayan Civil War).
-The vast majority of deaths are attributed as indirect casualties. Roughly 1.2 billion people died as a result of the aforementioned infrastructural failure.
+The vast majority of deaths are attributed as indirect casualties. Roughly 1.1 billion people died as a result of the aforementioned infrastructural failure.
 
 [^1]: The Nuclear Crisis is often considered a limited nuclear exchange, as it involved a relatively small amount of warheads and was recoverable.
 
