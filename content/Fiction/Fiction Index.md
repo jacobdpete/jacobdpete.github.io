@@ -1,0 +1,5 @@
+This is a collection of prose I've written that accompanies the project. The goal, more or less, is to accompany the encyclopedic nature of the rest of this project with something more creative and human-scale. Most of my fiction has turned out rather abstract, angsty, and, quite frankly, leans on a bit of gratuitous violence to be effective. However, I'd say this is an aspect of the project I really do enjoy developing.
+
+- [[Men Pray Once More]]: The first bit of fiction I wrote about this project during its infancy. Covers the events of the [[Nuclear Crisis]] from several perspectives.
+- [[Painting, Politics]]: A brief vignette, of sorts, between a retired politician and his wife. Gives a very brief look into interpersonal politics in the Commonwealth.
+- [[These Latter Days]]: An abstract covering the terminal years of the Rosen Republic, tracing the beginning of its decline to the eventual Second Rosen Civil War. 

@@ -1,0 +1,1 @@
+In the [[Rosen Commonwealth]], a high percentage of the workforce works for government or government-owned entities. [[List of Departments, Offices, and Agencies In the Rosen Commonwealth#Department of Finance and Economics|DEPFIN]] estimates that between 55 to 60% of the population works for government-related employers, with most employees working in the education, public hea
