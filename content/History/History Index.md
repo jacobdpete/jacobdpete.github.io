@@ -33,4 +33,6 @@ In the very iterative pattern of Rosen history, the Second Commonwealth tried an
 The post-Crisis world has seen the [[Second Rosen Commonwealth]] again become a global power. Consistent tension between constitutionally-mandated socialist policy and looser *realpolitik* policy has characterized post-Crisis history. Despite this challenge, the Second Commonwealth has more or less successfully implemented what the First Commonwealth couldn't, namely universal housing, sustenance, and employment.
 It's not quite utopia, but it very much could be.
 - [[Second Rosen Commonwealth]]
+- [[Incorporation]]
 - [[Transitory Commonwealth]]
+- [[The Great Consensus]]
