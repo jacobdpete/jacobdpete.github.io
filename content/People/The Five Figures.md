@@ -1,1 +1,0 @@
-The "Five Figures" is a colloquial term referring to five major socialist historical figures in the [[Rosen Republic]] and the [[First Rosen Commonwealth|First Commonwealth]]. They comprise [[Jorge Almeida]], [[Hatsue Yuhara]], Deng Liang, [[Cora Cavaleri]], and Bartosz Rybicki. 
