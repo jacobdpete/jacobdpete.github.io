@@ -3,3 +3,4 @@ This is a collection of prose I've written that accompanies the project. The goa
 - [[Men Pray Once More]]: The first bit of fiction I wrote about this project during its infancy. Covers the events of the [[Nuclear Crisis]] from several perspectives.
 - [[Painting, Politics]]: A brief vignette, of sorts, between a retired politician and his wife. Gives a very brief look into interpersonal politics in the Commonwealth.
 - [[These Latter Days]]: An abstract covering the terminal years of the Rosen Republic, tracing the beginning of its decline to the eventual Second Rosen Civil War. 
+- [[The Plains]]: A relatively short look into the devolution of a boy wandering the post-Nuclear Crisis interior plains.
