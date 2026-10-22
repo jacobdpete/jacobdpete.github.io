@@ -304,8 +304,13 @@ html[saved-theme="light"]:has(.theme-states) {
   --tertiary: #3b82f6;   
 }
 
-/* Ensure both the outer wrapper and the central Millmint box inherit the tint */
-.page,
-html[saved-theme="light"] .center {
+/* Tint ONLY the outer background, keep the center box pure white */
+html[saved-theme="light"] body,
+html[saved-theme="light"] .page {
   background-color: var(--light) !important;
+}
+
+html[saved-theme="light"] .center {
+  background-color: #ffffff !important;
+  border-color: color-mix(in srgb, var(--secondary) 25%, #dcdcdc) !important;
 }
