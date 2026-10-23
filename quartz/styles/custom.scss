@@ -48,8 +48,33 @@ article p, article li {
   line-height: 1.7;   
 }
 
+/* Top-Left Site Title Pill ("avaya project") */
+.page-title {
+  font-family: 'Swansea', sans-serif !important;
+}
+
 .page-title a {
-  font-size: 1.25rem !important; 
+  font-family: 'Swansea', sans-serif !important;
+  font-size: 1.15rem !important;
+  font-weight: 600 !important;
+  letter-spacing: -0.05em !important;
+  display: inline-flex;
+  align-items: center;
+  padding: 0.35rem 0.85rem;
+  border-radius: 999px;
+  background-color: color-mix(in srgb, var(--secondary) 10%, transparent);
+  border: 1px solid color-mix(in srgb, var(--secondary) 28%, transparent);
+  color: var(--secondary) !important;
+  text-decoration: none !important;
+  transition: all 0.2s ease;
+}
+
+.page-title a:hover {
+  background-color: var(--secondary);
+  color: #ffffff !important;
+  border-color: var(--secondary);
+  transform: translateY(-1px);
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.08);
 }
 
 /* Fix Table Text Wrapping */
@@ -329,4 +354,32 @@ html[saved-theme="light"] .page {
 html[saved-theme="light"] .center {
   background-color: #ffffff !important;
   border-color: color-mix(in srgb, var(--secondary) 25%, #dcdcdc) !important;
+}
+/* Top-Left Site Title Pill ("avaya project") */
+.page-title {
+  font-family: 'Swansea', sans-serif !important;
+}
+
+.page-title a {
+  font-family: 'Swansea', sans-serif !important;
+  font-size: 1.15rem !important;
+  font-weight: 600 !important;
+  letter-spacing: -0.05em !important;
+  display: inline-flex;
+  align-items: center;
+  padding: 0.35rem 0.85rem;
+  border-radius: 999px;
+  background-color: color-mix(in srgb, var(--secondary) 10%, transparent);
+  border: 1px solid color-mix(in srgb, var(--secondary) 28%, transparent);
+  color: var(--secondary) !important;
+  text-decoration: none !important;
+  transition: all 0.2s ease;
+}
+
+.page-title a:hover {
+  background-color: var(--secondary);
+  color: #ffffff !important;
+  border-color: var(--secondary);
+  transform: translateY(-1px);
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.08);
 }
