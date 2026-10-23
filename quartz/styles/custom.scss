@@ -388,7 +388,7 @@ html[saved-theme="light"] .center {
    STANDARD ARTICLE TEMPLATE UPGRADES
 ========================================= */
 
-/* 1. Millmint-Style Summary Callout (Hides "Summary" header/icon & matches category tint) */
+/* 1. Category-Tinted Summary Callout with Compact Header */
 .callout[data-callout="summary"],
 .callout[data-callout="abstract"],
 .callout[data-callout="tldr"] {
@@ -397,7 +397,7 @@ html[saved-theme="light"] .center {
   background-color: var(--bg) !important;
   border: 1px solid color-mix(in srgb, var(--secondary) 28%, transparent) !important;
   border-radius: 8px !important;
-  padding: 1.15rem 1.4rem !important;
+  padding: 0.9rem 1.25rem !important;
   margin: 1.25rem 0 2rem 0 !important;
 }
 
@@ -411,7 +411,24 @@ html[saved-theme="light"] .center {
 .callout[data-callout="summary"] .callout-title,
 .callout[data-callout="abstract"] .callout-title,
 .callout[data-callout="tldr"] .callout-title {
-  display: none !important;
+  padding-bottom: 0.25rem !important;
+  align-items: center !important;
+}
+
+.callout[data-callout="summary"] .callout-title .callout-title-inner p,
+.callout[data-callout="abstract"] .callout-title .callout-title-inner p,
+.callout[data-callout="tldr"] .callout-title .callout-title-inner p {
+  font-size: 0.92rem !important;
+  font-weight: 700 !important;
+  letter-spacing: -0.02em;
+  margin-bottom: 0 !important;
+}
+
+.callout[data-callout="summary"] .callout-icon,
+.callout[data-callout="abstract"] .callout-icon,
+.callout[data-callout="tldr"] .callout-icon {
+  width: 15px !important;
+  height: 15px !important;
 }
 
 .callout[data-callout="summary"] .callout-content p:last-child,
@@ -454,23 +471,6 @@ body[data-slug*="People"] .popover-hint > article::before { content: "☻  Part 
 body[data-slug*="Places"] .popover-hint > article::before { content: "◉  Part of the Places & Geography series of articles."; }
 body[data-slug*="Politics"] .popover-hint > article::before { content: "⚖  Part of the Politics & Law series of articles."; }
 body[data-slug*="States"] .popover-hint > article::before { content: "⚑  Part of the States of Avaya series of articles."; }
-
-/* 3. Refined Inline Wikilink Pills */
-article a.internal {
-  background-color: color-mix(in srgb, var(--secondary) 11%, transparent) !important;
-  color: var(--secondary) !important;
-  padding: 0.1rem 0.42rem !important;
-  border-radius: 5px !important;
-  font-weight: 600 !important;
-  text-decoration: none !important;
-  border: 1px solid color-mix(in srgb, var(--secondary) 20%, transparent);
-  transition: all 0.15s ease;
-}
-
-article a.internal:hover {
-  background-color: var(--secondary) !important;
-  color: #ffffff !important;
-}
 
 /* 4. Paragraph Breathing Room & Section Header Dividers */
 article p {
