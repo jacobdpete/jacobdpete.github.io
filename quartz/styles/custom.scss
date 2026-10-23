@@ -383,3 +383,103 @@ html[saved-theme="light"] .center {
   transform: translateY(-1px);
   box-shadow: 0 3px 8px rgba(0, 0, 0, 0.08);
 }
+
+/* =========================================
+   STANDARD ARTICLE TEMPLATE UPGRADES
+========================================= */
+
+/* 1. Millmint-Style Summary Callout (Hides "Summary" header/icon & matches category tint) */
+.callout[data-callout="summary"],
+.callout[data-callout="abstract"],
+.callout[data-callout="tldr"] {
+  --color: var(--secondary) !important;
+  --bg: color-mix(in srgb, var(--secondary) 6%, #ffffff) !important;
+  background-color: var(--bg) !important;
+  border: 1px solid color-mix(in srgb, var(--secondary) 28%, transparent) !important;
+  border-radius: 8px !important;
+  padding: 1.15rem 1.4rem !important;
+  margin: 1.25rem 0 2rem 0 !important;
+}
+
+[saved-theme="dark"] .callout[data-callout="summary"],
+[saved-theme="dark"] .callout[data-callout="abstract"],
+[saved-theme="dark"] .callout[data-callout="tldr"] {
+  background-color: color-mix(in srgb, var(--secondary) 12%, #1e1e20) !important;
+  border-color: color-mix(in srgb, var(--secondary) 40%, transparent) !important;
+}
+
+.callout[data-callout="summary"] .callout-title,
+.callout[data-callout="abstract"] .callout-title,
+.callout[data-callout="tldr"] .callout-title {
+  display: none !important;
+}
+
+.callout[data-callout="summary"] .callout-content p:last-child,
+.callout[data-callout="abstract"] .callout-content p:last-child,
+.callout[data-callout="tldr"] .callout-content p:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* 2. Automatic Millmint Striped "Part of the Series" Banner */
+body[data-slug*="Culture"] .popover-hint > article::before,
+body[data-slug*="Economics-and-Technology"] .popover-hint > article::before,
+body[data-slug*="Industry"] .popover-hint > article::before,
+body[data-slug*="History"] .popover-hint > article::before,
+body[data-slug*="People"] .popover-hint > article::before,
+body[data-slug*="Places"] .popover-hint > article::before,
+body[data-slug*="Politics"] .popover-hint > article::before,
+body[data-slug*="States"] .popover-hint > article::before {
+  display: block;
+  padding: 0.55rem 1rem;
+  margin: 0.5rem 0 1.25rem 0;
+  border-radius: 6px;
+  border: 1px solid color-mix(in srgb, var(--secondary) 25%, transparent);
+  background: repeating-linear-gradient(
+    -45deg,
+    color-mix(in srgb, var(--secondary) 4%, transparent),
+    color-mix(in srgb, var(--secondary) 4%, transparent) 6px,
+    color-mix(in srgb, var(--secondary) 9%, transparent) 6px,
+    color-mix(in srgb, var(--secondary) 9%, transparent) 12px
+  );
+  font-size: 0.92rem;
+  font-weight: 500;
+  color: var(--darkgray);
+}
+
+body[data-slug*="Culture"] .popover-hint > article::before { content: "✦  Part of the Culture series of articles."; }
+body[data-slug*="Economics-and-Technology"] .popover-hint > article::before,
+body[data-slug*="Industry"] .popover-hint > article::before { content: "⚙  Part of the Industry & Economy series of articles."; }
+body[data-slug*="History"] .popover-hint > article::before { content: "◷  Part of the History series of articles."; }
+body[data-slug*="People"] .popover-hint > article::before { content: "☻  Part of the People & Biographies series of articles."; }
+body[data-slug*="Places"] .popover-hint > article::before { content: "◉  Part of the Places & Geography series of articles."; }
+body[data-slug*="Politics"] .popover-hint > article::before { content: "⚖  Part of the Politics & Law series of articles."; }
+body[data-slug*="States"] .popover-hint > article::before { content: "⚑  Part of the States of Avaya series of articles."; }
+
+/* 3. Refined Inline Wikilink Pills */
+article a.internal {
+  background-color: color-mix(in srgb, var(--secondary) 11%, transparent) !important;
+  color: var(--secondary) !important;
+  padding: 0.1rem 0.42rem !important;
+  border-radius: 5px !important;
+  font-weight: 600 !important;
+  text-decoration: none !important;
+  border: 1px solid color-mix(in srgb, var(--secondary) 20%, transparent);
+  transition: all 0.15s ease;
+}
+
+article a.internal:hover {
+  background-color: var(--secondary) !important;
+  color: #ffffff !important;
+}
+
+/* 4. Paragraph Breathing Room & Section Header Dividers */
+article p {
+  margin-top: 0 !important;
+  margin-bottom: 1.25rem !important;
+}
+
+article h2 {
+  padding-bottom: 0.35rem;
+  border-bottom: 2px solid color-mix(in srgb, var(--secondary) 20%, var(--lightgray));
+  margin-bottom: 1rem !important;
+}
