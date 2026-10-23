@@ -8,7 +8,7 @@
 
 /* --- 2. Master Typography Variables --- */
 :root {
-  --headerFont: 'Playfair Display', serif !important;
+  --headerFont: 'Swansea', sans-serif !important;
   --bodyFont: 'Swansea', sans-serif !important;
 }
 
@@ -18,13 +18,29 @@
 html::-webkit-scrollbar { display: none !important; }
 html { scrollbar-width: none !important; -ms-overflow-style: none !important; }
 
-/* Obsidian-Style Headings (Playfair) */
+/* Bauhaus / MillMint Headings (Swansea Bold & Tightly-Kerned) */
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--headerFont);
-  font-weight: 600 !important;
+  font-weight: 700 !important;
   font-kerning: normal;
-  letter-spacing: -0.04em;
+  letter-spacing: -0.055em;
+  line-height: 1.08;
 }
+
+/* Main Article Title (Big, Bold, Italicized) */
+.article-title {
+  font-size: 3.2rem !important;
+  font-weight: 700 !important;
+  font-style: italic !important;
+  letter-spacing: -0.06em !important;
+  line-height: 1.05 !important;
+  margin-bottom: 0.4rem !important;
+}
+
+/* Scaled-up Section Headers */
+article h1 { font-size: 2.5rem !important; }
+article h2 { font-size: 2rem !important; margin-top: 2.2rem; }
+article h3 { font-size: 1.5rem !important; }
 
 /* Body Text Sizing */
 article p, article li {
