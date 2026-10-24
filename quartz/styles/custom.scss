@@ -645,52 +645,89 @@ article h2 {
   text-decoration: none !important;
 }
 
+
 /* =========================================
-   MILLMINT SPINE + PILLBOX TIMELINE (AUTOMATIC)
+   MILLMINT SPINE + PILLBOX TIMELINE (TIMELINE OF ROSEN HISTORY)
 ========================================= */
-/* Hide the automatic "Part of the History series" banner on the Timeline itself if desired, or keep it clean */
-body[data-slug*="Timeline"] article h1,
-.bauhaus-timeline h1 {
-  font-size: 2.15rem !important;
+body[data-slug*="Timeline" i] article {
+  position: relative;
+}
+
+/* Continuous Vertical Spine Running Down the Timeline */
+body[data-slug*="Timeline" i] article::after {
+  content: "";
+  position: absolute;
+  left: 0.75rem;
+  top: 4.5rem;
+  bottom: 1.5rem;
+  width: 2px;
+  background-color: color-mix(in srgb, var(--secondary) 45%, var(--lightgray));
+  z-index: 0;
+  pointer-events: none;
+}
+
+/* H1: No underline, interrupts the vertical spine cleanly */
+body[data-slug*="Timeline" i] article h1 {
+  position: relative;
+  z-index: 2;
+  display: table;
+  background-color: #ffffff !important;
+  font-size: 2.2rem !important;
   letter-spacing: -0.055em !important;
-  margin: 2.75rem 0 1rem 0 !important;
-  padding-bottom: 0.35rem !important;
-  border-bottom: 3px solid var(--secondary) !important;
+  margin: 2.25rem 0 1rem 0 !important;
+  padding: 0.35rem 0.75rem 0.35rem 0 !important;
+  border-bottom: none !important;
   color: var(--dark) !important;
 }
 
-body[data-slug*="Timeline"] article h1 a,
-.bauhaus-timeline h1 a {
+[saved-theme="dark"] body[data-slug*="Timeline" i] article h1 {
+  background-color: #161618 !important;
+}
+
+body[data-slug*="Timeline" i] article h1 a {
   color: inherit !important;
   text-decoration: none !important;
+  background: none !important;
 }
 
-body[data-slug*="Timeline"] article h2,
-.bauhaus-timeline h2 {
-  display: inline-block;
-  background-color: var(--secondary);
-  color: #ffffff !important;
-  padding: 0.3rem 0.95rem !important;
-  border-radius: 999px;
-  border-bottom: none !important;
-  font-size: 1.15rem !important;
-  letter-spacing: -0.04em !important;
-  margin: 1.5rem 0 1rem 0 !important;
-}
-
-/* The Vertical Line Spine (Millmint Style) */
-body[data-slug*="Timeline"] article ul,
-.bauhaus-timeline ul {
+/* H2: Smaller text inside a pill, sitting directly on and interrupting the spine */
+body[data-slug*="Timeline" i] article h2 {
   position: relative;
+  z-index: 2;
+  display: table;
+  background-color: var(--secondary) !important;
+  color: #ffffff !important;
+  padding: 0.28rem 0.95rem !important;
+  border-radius: 999px !important;
+  border-bottom: none !important;
+  font-size: 1.1rem !important;
+  letter-spacing: -0.04em !important;
+  margin: 1.25rem 0 1rem 0 !important;
+  box-shadow: 0 0 0 6px #ffffff;
+}
+
+[saved-theme="dark"] body[data-slug*="Timeline" i] article h2 {
+  box-shadow: 0 0 0 6px #161618;
+}
+
+body[data-slug*="Timeline" i] article h2 a {
+  color: #ffffff !important;
+  text-decoration: none !important;
+  background: none !important;
+}
+
+/* Bullet List Container (Aligned to the continuous spine) */
+body[data-slug*="Timeline" i] article ul {
+  position: relative;
+  z-index: 1;
   list-style: none !important;
-  margin: 0.75rem 0 2.25rem 0.75rem !important;
+  margin: 0.5rem 0 1.25rem 0.75rem !important;
   padding: 0.25rem 0 0.25rem 2.25rem !important;
-  border-left: 2px solid color-mix(in srgb, var(--secondary) 45%, var(--lightgray)) !important;
+  border-left: none !important;
 }
 
 /* Each Bullet Event as a Pillbox Card */
-body[data-slug*="Timeline"] article ul > li,
-.bauhaus-timeline ul > li {
+body[data-slug*="Timeline" i] article ul > li {
   position: relative;
   list-style: none !important;
   margin: 0 0 1rem 0 !important;
@@ -705,56 +742,47 @@ body[data-slug*="Timeline"] article ul > li,
   transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
 }
 
-[saved-theme="dark"] body[data-slug*="Timeline"] article ul > li,
-[saved-theme="dark"] .bauhaus-timeline ul > li {
+[saved-theme="dark"] body[data-slug*="Timeline" i] article ul > li {
   background-color: color-mix(in srgb, var(--secondary) 10%, #1e1e20) !important;
   border-color: color-mix(in srgb, var(--secondary) 35%, #333333) !important;
 }
 
-/* Remove default bullet marker */
-body[data-slug*="Timeline"] article ul > li::before,
-.bauhaus-timeline ul > li::before {
+body[data-slug*="Timeline" i] article ul > li::before {
   display: none !important;
 }
 
-/* The Millmint Dot on the Vertical Line */
-body[data-slug*="Timeline"] article ul > li::after,
-.bauhaus-timeline ul > li::after {
+/* The Dot on the Vertical Spine */
+body[data-slug*="Timeline" i] article ul > li::after {
   content: "" !important;
   position: absolute !important;
-  left: -2.66rem !important;
+  left: -2.25rem !important;
   top: 50% !important;
-  transform: translateY(-50%) !important;
+  transform: translate(-50%, -50%) !important;
   width: 10px !important;
   height: 10px !important;
   border-radius: 50% !important;
   background-color: var(--secondary) !important;
   box-shadow: 0 0 0 4px #ffffff !important;
-  transition: transform 0.15s ease, background-color 0.15s ease;
+  transition: transform 0.15s ease;
 }
 
-[saved-theme="dark"] body[data-slug*="Timeline"] article ul > li::after,
-[saved-theme="dark"] .bauhaus-timeline ul > li::after {
+[saved-theme="dark"] body[data-slug*="Timeline" i] article ul > li::after {
   box-shadow: 0 0 0 4px #161618 !important;
 }
 
-body[data-slug*="Timeline"] article ul > li:hover,
-.bauhaus-timeline ul > li:hover {
+body[data-slug*="Timeline" i] article ul > li:hover {
   transform: translateX(3px);
   border-color: var(--secondary) !important;
   box-shadow: 0 5px 14px rgba(0, 0, 0, 0.06);
 }
 
-body[data-slug*="Timeline"] article ul > li:hover::after,
-.bauhaus-timeline ul > li:hover::after {
-  transform: translateY(-50%) scale(1.3) !important;
+body[data-slug*="Timeline" i] article ul > li:hover::after {
+  transform: translate(-50%, -50%) scale(1.3) !important;
 }
 
-/* Position the Bold Year in the Left Column of the Pillbox (Millmint Layout) */
-body[data-slug*="Timeline"] article ul > li > strong:first-child,
-body[data-slug*="Timeline"] article ul > li > p:first-child > strong:first-child,
-.bauhaus-timeline ul > li > strong:first-child,
-.bauhaus-timeline ul > li > p:first-child > strong:first-child {
+/* Bold Year in Left Column of Pillbox */
+body[data-slug*="Timeline" i] article ul > li > strong:first-child,
+body[data-slug*="Timeline" i] article ul > li > p:first-child > strong:first-child {
   position: absolute;
   left: 1.25rem;
   top: 0.85rem;
