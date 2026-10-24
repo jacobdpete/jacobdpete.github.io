@@ -1,5 +1,3 @@
-<div class="bauhaus-timeline" markdown="1">
-
 # Colonialism
 
 - **1603** Admiral Amand Lussier makes landfall in East Aya, becoming the first Sayan to step foot on the continent. He establishes the colony of New Avetoix, beginning the record of foreign settlement in East Aya.
@@ -47,5 +45,3 @@
 - **1871** **[[Concordance of São Lola]]:** Confederalists and Socialists meet in São Lola, on the Leeward Coast, to reform the **[[Rosen Federal Union]]**; Confederalists push for a new state, the **[[Rosen Republic]]**, with a weaker presidency and a bicameral legislature. Confederalists lead the conference and Socialist forces are pushed to disarm and dissolve.
 
 # [[Rosen Republic]]
-
-</div>
