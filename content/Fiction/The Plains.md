@@ -28,12 +28,12 @@ This was when the boy began to collect pictures. Outside Fort Lenox was a homest
 
 The photos could open worlds to the boy he couldn't imagine. Splayed out on the floor of a post office, a gas station, a truck bed, he'd hold the photos up to block the sun and fall into a reality of affluent young women or blue-collar men. Being alone was easy, but loneliness was a whole different thing.
 
-The boy pockets the pistol, tissues, and hot sauce and mounts the motorbike. The sun is beginning to go down as he motors through a neglected wheat field, seeing nothing but yellow until the blocky shape of his home - for now - moves into view. With the sun gone, he fumbles in a pocket for the garage remote. He briefly thanks Demei it hasn't died yet, because there'd be no way to get batteries for it without going back to Dominion or trading with someone else out in the plains. 
+The boy pockets the pistol, tissues, and hot sauce and mounts the motorbike. The sun is beginning to go down as he motors through a neglected wheat field, seeing nothing but yellow until the blocky shape of his house - for now - moves into view. With the sun gone, he fumbles in a pocket for the garage remote. He briefly thanks Demei it hasn't died yet, because there'd be no way to get batteries for it without going back to Dominion or trading with someone else out in the plains. 
 
 His house, not yet a home, is a small farmhouse, probably owned by Helsayan sharecroppers. With little already there, he can, crow-like, fill it with whatever he takes home on the motorbike. Parking, he enters the home, scarfs down an MRE, and goes to sleep.
 
 He dreams of the plains burning under Roqus. He dreams of Rouzet massacring the tribes. He dreams of a factory on a hill of dry grass, building bombs. He dreams of the lights of December 1989, the world's worst fireworks show, and he wonders how many are left? How many wander the plains like him? How many have taken the life of another wanderer, and fled like a coward? How many wanderers will no longer go to Dominion? 
 
-Like clockwork, he wakes up, pushes an MRE down his throat, scavenges. On and on and on until the polyester has worn through and he is no longer a mail man. He is an animal prowling the plains, a vulture circling a corpse, a vampire suckling the blood of the plains.
+Like clockwork, he wakes up, pushes an MRE down his throat, scavenges. On and on and on until the polyester has worn through and he is no longer a mail man. He is an animal prowling the plains, a vulture circling a corpse, a vampire suckling on the blood of the plains.
 
 Searching for his last meal, the boy goes back to Dominion.
