@@ -7,3 +7,5 @@ This is where the Avaya Project sheds its encyclopedia shell and becomes a beaut
 [[Graph|Graph view]] lets you see links between articles in an interactive manner. 
 
 [[Recent Updates]] displays exactly what it sounds like it does. 
+
+[[About The Site]] details the workflow and mechanics of the site.
