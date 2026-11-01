@@ -1,7 +1,7 @@
 >[!Summary]
 >The original Constitution was drafted toward the end of the [[Second Rosen Civil War]] in 1982. It was based upon the previous [[Socialist Party]] manifesto and new works from notable socialists and communists such as [[Jorge Almeida]] and [[Hatsue Yuhara]].
 >The Second Constitution was drafted by the Executive Committee of the [[Transitory Commonwealth]] in order to rectify issues that plagued the [[First Rosen Commonwealth|First Commonwealth]], like autocracy, bureaucracy, and the failure of state-acquired corporations.
->The constitution defines the overall structure of the [[Rosen Commonwealth|Rosen Commonwealth's]] government, and guarantees fundamental human rights and protections to the Commonwealth's citizens. While the Second Constitution does not overtly claim an ideology it identifies with, it leans toward democratic socialist ideas, particularly the [[Almeidaism|Almeidaist]] line of thought. 
+>The constitution defines the overall structure of the [[Rosen Commonwealth|Rosen Commonwealth's]] government and guarantees fundamental human rights and protections to the Commonwealth's citizens.
 # Background
 From 4 January 1990 to 3 November 1993, the Transitory Government of the Rosen Commonwealth (the Transitory Commonwealth), functioned as the provisional government succeeding the First Rosen Commonwealth. It convened in Alismos for most of its existence. Delegates were reform-minded members of the WSPRC, often with Almeidaist[^1] views.
 The Transitory Commonwealth, despite its ideological homogeneousness, was divided heavily and bitter due to the aftermath of the [[Nuclear Crisis]] and the failures of the First Commonwealth. With the provisional assembly comprising over three hundred delegates, the Transitory Commonwealth chose to resolve its chronic disagreement by electing a higher authority.
@@ -33,13 +33,13 @@ No citizen shall be subjected to state religion, nor shall the government impede
 ### Article 1.6
 No citizen shall be deprived of the right to possess property.
 ### Article 1.7
-Citizens of the Rosen Commonwealth shall have the inalienable, unobstructable right to free press, free speech, and free assembly, save there is no disturbance of local order or law.
+No citizen shall be deprived of the right to free press, association, protest, and unionization, provided there is no violation of the law.
 ### Article 1.8
 Citizens have the right to due process under the law, and they shall be considered innocent until proven guilty. Citizens have the right to a legal defense, an impartial jury, and an impartial judge in an ordered court of law.
 ### Article 1.9
 Citizens shall not be subjected to unreasonable, unconsented search and seizure of their property.
 ### Article 1.10
-The Constitution, when necessary, may only be amended by fair referendum of the people under the observance of the federal government.
+The Constitution may be amended by the Senate with the approval of the people through a fair and orderly national referendum. Two-thirds of voters must approve of the amendment for it to enter effect.
 ### Article 1.11
 All citizens, men and women alike, are created equal.
 ### Article 1.12
@@ -48,6 +48,8 @@ Citizens are obligated to defend the Rosen Commonwealth against enemies of liber
 Citizens are obligated to ensure the safety, vitality, and general well-being of their fellow citizens.
 ### Article 1.14
 Citizens are obligated to participate in the election of their representatives in government.
+### Article 1.15
+Any person born in the Rosen Commonwealth or naturalized through a specific process is a citizen and shall hold all associated rights and obligations. A citizen cannot hold any non-Commonwealth citizenships as a Rosen citizen.
 
 ## Title 2: Economics and Public and Private Industry
 ### Article 2.1
@@ -97,15 +99,16 @@ The Secretariat-Directory negotiates, ratifies, and promulgates treaties signed 
 ### Article 3.14
 In the case of war, the Secretariat-Directory must remain in session until the conflict is resolved or dampened to the point where it no longer threatens the state's security.
 ### Article 3.15
-In the case of an extreme state of emergency affecting the Rosen Commonwealth in its entirety, the Secretary-General may assume the powers of the Secretariat-Directory for a temporary period.
+In the case of an extreme state of emergency affecting the Rosen Commonwealth in its entirety, the Secretary-General may assume the powers of the Secretariat-Directory for a temporary period not exceeding six months.
 ### Article 3.16
 The Secretariat-Directory must convene at least twenty-four times a year. The Secretariat-Directory may not officially convene if a member is absent and their place is not filled by a designated acting secretary.
-
+### Article 3.17
+Citizens of the Rosen Commonwealth may recall the Secretariat-Directory if such a proposal is part of a biannual referendum.
 ## Title 4: The Senate
 ### Article 4.1
 The Senate is the supreme legislative authority of the Rosen Commonwealth. It is the only body that may independently create legislation that applies to the entire Commonwealth.
 ### Article 4.2
-The Senate is composed of 138 delegations from the republic.
+The Senate is composed of a delegations from each republic, with each delegation comprising three constituency.
 ### Article 4.3
 Every republic comprises three electoral constituencies of equal population. Every constituency is entitled to one pair of two senators; every pair must comprise a male and female senator. Three pairs from a republic constitute a delegation. 
 ### Article 4.4
@@ -117,13 +120,13 @@ The Senate forms committees on areas of competence and issue. Committees advise 
 ### Article 4.7
 Senators may not form political groups, parties, factions, alliances, or organizations of any kind. The Senate is a non-partisan legislature. 
 ### Article 4.8
-A bill requires at least seventy votes, the approval of the Secretariat-Directory, and (if necessary) the approval of the Supreme Judiciary to become federal law.
+A bill requires at least seventy votes, the approval of the Secretariat-Directory, and, if the constitutionality of the bill is called into question by half of the members of the Senate, the approval of the Supreme Judiciary to become federal law.
 ### Article 4.9
 Every senator has the right to initiate legislation within the Senate.
 ### Article 4.10
 If a senator is endorsed by, a member of, or associated in any way with an interest group, they must make their associations publicly known and easily viewable.
 ### Article 4.11
-The Senate is empowered to declare war on foreign states.
+The Senate is empowered to declare war on foreign states. The Secretariat-Directory cannot utilize military force domestically or overseas without a majority of agreement in the Senate.
 ### Article 4.12
 The Senate is empowered to levy and collect taxes, duties, and tariffs on goods and services.
 ### Article 4.13
@@ -133,17 +136,18 @@ The Senate may impeach and remove officers of the Secretariat if they are found 
 ### Article 4.15
 The Senate investigates and oversees the Secretariat through committees and other bodies deemed necessary to accomplish this matter.
 ### Article 4.16
-At least six times per year, selected legislation concerning the Commonwealth wholly must be reviewed in a fair and orderly national referendum.
+At least two times per year, selected legislation concerning the Commonwealth wholly must be reviewed in a fair and orderly national referendum.
 ### Article 4.17
 Senators serve four-year terms for a maximum of six terms.
-
+### Article 4.18
+The Senate may overrule a veto from the Directory with a two-thirds majority.
 ## Title 5: The Judiciary
 ### Article 5.1
 The Supreme Judiciary and the Supreme Court of Appeals are supreme judicial authorities in the Rosen Commonwealth.
 ### Article 5.2
 The Supreme Judiciary and the Supreme Court of Appeals are parallel courts with equal authority. No decision made by either court may override the authority of the other.
 ### Article 5.3
-The Supreme Judiciary interprets law by the Constitution in order to determine its validity and fairness.
+The Supreme Judiciary, a court of seven members, interprets law by the Constitution in order to determine its validity and fairness.
 ### Article 5.4
 Bills may be sent by senators or members of the Secretariat-Directory to be considered by the Supreme Judiciary. The Supreme Judiciary must investigate all bills submitted to it.
 ### Article 5.5
@@ -154,10 +158,14 @@ The Supreme Court of Appeals shall also oversee all cases concerning serious vio
 Justices of the Supreme Judiciary are elected by the people of the Rosen Commonwealth.
 ### Article 5.8
 Justices of the Supreme Court of Appeals are elected by the Senate and approved by the Secretariat-Directory.
+### Article 5.9 
+Justices of the Supreme Judiciary serve non-renewable twenty year terms.
+### Article 5.10
+Justices of the Supreme Court serve eight year terms for a maximum of four terms.
 
 ## Title 6: Composition of the Rosen Commonwealth
 ### Article 6.1
-The Rosen Commonwealth is composed of twenty-three sovereign and autonomous Republics.
+The Rosen Commonwealth is composed of sovereign and autonomous Republics.
 ### Article 6.2
 Republics are large subdivisions with inviolable cultures, customs, and peoples.
 ### Article 6.3
@@ -167,13 +175,17 @@ Provinces shall be divided into counties and municipalities shall be divided int
 ### Article 6.5
 Provinces are governed by a Governor and municipalities are governed by a Director.
 ### Article 6.6
-Republics are governed by a Chief Executive, have individual assemblies, and courts delegated responsibilities by the judicial authorities of the federal government. 
+Republics are governed by a Premier, have individual assemblies, and courts delegated responsibilities by the judicial authorities of the federal government. 
 ### Article 6.7
-Chief Executives shall serve a maximum of three six-year terms.
+Premiers shall serve a maximum of three six-year terms.
 ### Article 6.8
-The duties of the Chief Executive shall, within the bounds of what is constitutionally acceptable, be defined by Republican governments.
+The duties of the Premier shall, within the bounds of what is constitutionally acceptable, be defined by Republican governments.
 ### Article 6.9
-The federal government shall select a municipality to serve as seat of government for the Commonwealth.
+Republics shall be responsible for conducting fair and orderly elections in their jurisdiction when the federal government requests.
+### Article 6.10
+The federal government shall select a municipality to serve as seat of government for the Rosen Commonwealth.
+### Article 6.11
+Republics may leave the Rosen Commonwealth if two-thirds of their citizens vote for it. Republics may only hold a secession referendum once per year.
 
 Signed 3 November 1990
 
@@ -194,5 +206,3 @@ Jalil Sadiki-Georgen
 Mayoko Sugita
 Chernomyrdin Ilyich
 Elva Collier
-
-[^1]: Jorge Almeida was a prominent reformer and representative in the Socialist Party who was eventually purged in 1988 by Julian Rybicki due to his connections to the anti-Rybickist movement. His death greatly accelerated the internal collapse of the First Rosen Commonwealth and his views spawned a new iteration of democratic socialist thought.

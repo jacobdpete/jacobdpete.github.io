@@ -4,4 +4,4 @@ Inspired by the MillMint website, I discovered Quartz, a static-site generator t
 Icons are from W3.css.
 "Swansea" is the font used for the website, created by Roger White.
 Uncredited images on the Rosen Commonwealth article are from Wikimedia Commons.
-Gemini is used to edit the website, because I'm 
+Gemini is used to edit the website, because I'm illiterate in web development.
