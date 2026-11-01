@@ -33,7 +33,7 @@ No citizen shall be subjected to state religion, nor shall the government impede
 ### Article 1.6
 No citizen shall be deprived of the right to possess property.
 ### Article 1.7
-No citizen shall be deprived of the right to free press, association, protest, and unionization, provided there is no violation of the law.
+No citizen shall be deprived of the right to free speech, free press, free association, free assembly, and unionization, provided there is no violation of order.
 ### Article 1.8
 Citizens have the right to due process under the law, and they shall be considered innocent until proven guilty. Citizens have the right to a legal defense, an impartial jury, and an impartial judge in an ordered court of law.
 ### Article 1.9

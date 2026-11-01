@@ -8,4 +8,4 @@ This is where the Avaya Project sheds its encyclopedia shell and becomes a beaut
 
 [[Recent Updates]] displays exactly what it sounds like it does. 
 
-[[About The Site]] details the workflow and mechanics of the site.
+[[About the Site]] details the workflow and mechanics of the site.
