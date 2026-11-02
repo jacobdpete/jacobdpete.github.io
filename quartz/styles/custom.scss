@@ -343,10 +343,21 @@ body[data-slug="index"] .content-meta {
   transition: all 0.15s ease;
 }
 
-[saved-theme="dark"] .wiki-actions a {
-  background-color: #1e1e20 !important;
-  border-color: #333 !important;
-  color: var(--light) !important;
+html[saved-theme="dark"] .wiki-actions a {
+  background-color: #202024 !important;
+  border-color: #3a3a40 !important;
+  color: #f2f2f7 !important;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+html[saved-theme="dark"] .wiki-actions a svg {
+  stroke: #f2f2f7 !important;
+}
+
+html[saved-theme="dark"] .wiki-actions a:hover {
+  background-color: color-mix(in srgb, var(--secondary) 22%, #202024) !important;
+  border-color: var(--secondary) !important;
+  color: #ffffff !important;
 }
 
 .wiki-actions a:hover {
@@ -791,4 +802,71 @@ body[data-slug*="Timeline" i] article ul > li > p:first-child > strong:first-chi
   font-weight: 700 !important;
   letter-spacing: -0.04em !important;
   color: var(--secondary) !important;
+}
+
+
+/* =========================================
+   DARK MODE CATEGORY TINTING (OUTER BACKGROUND & ACCENTS)
+========================================= */
+/* Culture Theme (Dark Mode: Deep Rose / Crimson) */
+html[saved-theme="dark"] body[data-slug*="Culture" i] {
+  --light: #1f1114;
+  --secondary: #f26469;
+  --tertiary: #ff8589;
+}
+
+/* Industry / Economics Theme (Dark Mode: Deep Burgundy / Wine) */
+html[saved-theme="dark"] body[data-slug*="Economics" i],
+html[saved-theme="dark"] body[data-slug*="Industry" i] {
+  --light: #1c0f12;
+  --secondary: #e05260;
+  --tertiary: #f0717e;
+}
+
+/* History Theme (Dark Mode: Deep Burnt Amber / Terracotta) */
+html[saved-theme="dark"] body[data-slug*="History" i],
+html[saved-theme="dark"] body[data-slug*="Timeline" i] {
+  --light: #1f140e;
+  --secondary: #f97316;
+  --tertiary: #fb923c;
+}
+
+/* People Theme (Dark Mode: Deep Ochre / Warm Gold) */
+html[saved-theme="dark"] body[data-slug*="People" i] {
+  --light: #1e190d;
+  --secondary: #eab308;
+  --tertiary: #facc15;
+}
+
+/* Places Theme (Dark Mode: Deep Forest / Pine) */
+html[saved-theme="dark"] body[data-slug*="Places" i] {
+  --light: #0e1c14;
+  --secondary: #4ade80;
+  --tertiary: #86efac;
+}
+
+/* Politics Theme (Dark Mode: Deep Cobalt / Slate Blue) */
+html[saved-theme="dark"] body[data-slug*="Politics" i] {
+  --light: #0f1726;
+  --secondary: #60a5fa;
+  --tertiary: #93c5fd;
+}
+
+/* States / World Theme (Dark Mode: Deep Midnight Navy) */
+html[saved-theme="dark"] body[data-slug*="States" i],
+html[saved-theme="dark"] body[data-slug*="World" i] {
+  --light: #0c1220;
+  --secondary: #818cf8;
+  --tertiary: #a5b4fc;
+}
+
+/* Apply Dark Mode Tint to Outer Background while keeping Center Box dark charcoal */
+html[saved-theme="dark"] body,
+html[saved-theme="dark"] .page {
+  background-color: var(--light) !important;
+}
+
+html[saved-theme="dark"] .center {
+  background-color: #161618 !important;
+  border-color: color-mix(in srgb, var(--secondary) 32%, #2c2c30) !important;
 }
