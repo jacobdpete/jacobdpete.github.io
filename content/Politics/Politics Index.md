@@ -10,6 +10,7 @@ The [[Rosen Commonwealth]]'s political system is both reasonably unique and comp
 - [[International Security Directory]]
 - [[CADO]]
 - [[Ayan People's Action Party]]
+- [[Rosen Intelligence Agency]]
 # Governance
 - [[List of Secretary-Generals of the Rosen Commonwealth]]
 - [[Republic]]
