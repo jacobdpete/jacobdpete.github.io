@@ -1,0 +1,34 @@
+> [!Summary]
+> The economy of the Rosen Commonwealth is complex and relies on hard capitalistic principles and civic values more similar to leftist ideals simultaneously. The Commonwealth hosts a massive economy with a GDP of AC28 trillion, comprising about 36% of the global economy. Through significant automation made possible by unlimited cheap energy and advanced technology, the Commonwealth leverages its massive economic power to furnish a high standard of living for its citizens.
+# Overview
+The [[Rosen Commonwealth]] has a highly developed diversified mixed economy and is the world's largest economy by nominal GDP. While the Rosen [[Constitution of the Second Rosen Commonwealth#Article 2.1|constitution]], under Article 2.1, is intended to be moneyless, socialist, and utopian, the rapid expansion of the Rosen economy in the 2000s and 2010s resulted in a more capitalistic approach to economic, albeit with welfare provisions at a socialistic scale. The economy consists of a mix of state-owned enterprises (often called Government Corporations) with varying degrees of private and public involvement, and private enterprises.
+The Commonwealth's economic growth has been nearly uninterrupted since the nation's founding in 1990. Between 2000 and 2050, the economy of the Rosen Commonwealth grew 209%, demonstrating absurd economic growth even in the context of the post-[[Nuclear Crisis]] world. With the highest scores worldwide in Individual Income Distribution (IID) and on the Human Development Index (HDI), the Commonwealth features significant welfare provisions, including guaranteed food and housing. As a result of the aforementioned standard of living and provisions for workplace democracy, Rosens are some of the most productive workers in the world in the context of a diversified economy.
+Rosen economic theory is based upon [[Almeidaism]] and [[Hatsue Yuhara]] Thought, in which the highest value a producing organization can hold is dignity. The *dignity principle* is upheld through high corporate taxes and comprehensive systems of workplace democracy; most workers are able to elect their administrators and determine their own wages, hours, and benefits through voting.
+# Ideology
+[[Almeidaism]], effectively the Bible of the [[Rosen Commonwealth|Commonwealth]]'s political, economic, and social structure, dictates that workplace democracy is among the highest virtues of the *[[Nova Sociedade]]*. It also dictates that wages are a form of oppression, as they inseparably connect the worker to the manager, creating an innately unfair and unnatural relationship. These two ideas had gained a lot of traction in Rybicki's [[First Rosen Commonwealth|First Commonwealth]], but weren't deemed plausible because the average Rosen after the [[Second Rosen Civil War|Civil War]] wasn't really that interested in socialist dogma, no less working for free.
+Still, one cannot separate Almeidaism from the concept of work as a social obligation. Jorge Almeida believed work could be both a social activity and a civic duty, where automation would remove most boring, unrewarding, or menial jobs. In turn, people could work interesting or desirable jobs out of ambition, desire for a title, or influence. Looking to schools, social clubs, and fraternal organizations, Almeidaism asserts that work must be separated from wages, with the latter evolving into a long-term goal of moneylessness.
+
+After the Nuclear Crisis, the [[Transitory Commonwealth]]'s Executive Committee debated the idea of implementing moneylessness immediately or further down the road. Some, including [[Cora Cavaleri]] and Chernomyrdin Ilyich, argued that moneylessness was impractical in a globalized society, and that it was impossible to implement successfully. Cavaleri and Ilyich prevented moneylessness from being implemented fully (as Deng Liang, Estelle Keilberth, and Florinda Carvalho wanted), instead adding the compromise seen today in articles 2.1 through 2.4 in the Second Constitution:
+
+> ***Article 2.1***
+> *The activities of commerce in the Rosen Commonwealth shall be split into two levels, the upper level being moneyed and the lower level being moneyless.*
+> 
+> ***Article 2.2***
+> *Within the lower level of economics, citizens shall join in participatory labor, free from industrial, wage-driven servitude.*
+> 
+> ***Article 2.3***
+> *The upper level of economics shall be moneyed for the sole purpose of ensuring diplomacy and participation in the global economy continues.*
+> 
+> ***Article 2.4***
+> *The economy of the Rosen Commonwealth will use the Ayan Credit as its currency.*
+> 
+> *Constitution of the Second Rosen Commonwealth*, Executive Committee of the Transitory Government of the Rosen Commonwealth, 1990
+
+In other words, the economy is split into levels, with one more capitalistic and the other more socialistic, with the lower level being more Almeidaist in nature. In reality, the lower level ended up fusing with the upper level, and wages were never fully eliminated except for brief trial periods in niche industries. Thus, today, labor is still compensated monetarily, but within the context of a highly redistributive welfare state. In short, there are plenty of millionaires but no billionaires.
+Despite this cheeky little inconsistency, Almeidaism wasn't left behind. Title 1 of the Constitution still puts the government in charge of providing housing and basic sustenance, meaning the aim of Almeidaism, at least according to any federal apparatchik you ask, is still being met. Homelessness or starvation aren't really leverage a company can use against their workers anymore. Instead, credits earned during labor usually go to "luxury goods," like nice clothes, non-synthetic meat, or furniture. In order to maintain labor as a civic duty and to prevent the saturation of consumerism in Rosen society, wages are deliberately kept low in exchange for companies (especially government jobs) providing significant amenities for workers.
+# Forms of Enterprise
+More: [[Types of Enterprises in the Rosen Commonwealth]]
+
+The complex Rosen economy, with Almeidaist ambitions, necessitated a new set of enterprise structures. These are broadly divided into state enterprise, private enterprise, and cooperative enterprise.
+State enterprise tends to dominate the Rosen economy, generating much of its GDP through state dominance in the energy, construction, and agriculture industries. Though state enterprise maintains monopolies, it competes or works alongside private enterprise in some sectors. 
+Private enterprise is, surprisingly, almost as common as state enterprise in the Commonwealth, with several multinational corporations calling the Commonwealth home. 
