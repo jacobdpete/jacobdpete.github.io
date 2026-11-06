@@ -53,7 +53,7 @@ She is neat and clean to the point of compulsiveness and believes she represents
 
 ## Life
 Alma Braga Sposato was born in Trapacca, Tuvaya on September 7th, 1981. She was the youngest of three children and the only daughter in her family. When she was four, her family moved to Szczezębie, near the Tuvayan-Sennan border to be closer to her mother's family. While her family was able to avoid the Civil War, she lost her childhood home as a result of the Burning of Trapacca. 
-In 1987, shortly after the assassination if Julian Rybicki, the Sposato family sought refugee status in Gor, which had begun to accept immigrants fleeing the Commonwealth. Their application was accepted, but the WSPRC's Politburo Executive Committee, which was ruling after Rybicki’s death, banned international travel, trapping the Sposatos by the Rosen-Gor border, homeless.
+In 1987, shortly after the death of Julian Rybicki, the Sposato family sought refugee status in Gor, which had begun to accept immigrants fleeing the Commonwealth. Their application was accepted, but the WSPRC's Executive Committee, which was ruling after Rybicki’s death, banned international travel, trapping the Sposatos by the Rosen-Gor border, homeless.
 Alma’s family bounced from family friend to family friend’s houses throughout the next two years. During this time, Alma’s father’s health began to rapidly deteriorate due to constant stress and hunger resulting in his death in April 1989. 
 
 # Roberto Araújo-Thomasson
