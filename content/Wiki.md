@@ -16,9 +16,9 @@ Glad you're curious. Here you can find links to specific sections with informati
 
 - **[[Culture Index|Culture]]** <br> Language & Arts
 - **[[Economics and Technology Index|Industry]]** <br> Economy & Technology
-- **[[People]]** <br> Figures & Biographies
-- **[[Places]]** <br> Geography & Cities
-- **[[States]]** <br> Nations of Avaya
+- **[[People Index|People]]** <br> Figures & Biographies
+- **[[Places Index|Places]]** <br> Geography & Cities
+- **[[World Index|World]]** <br> Nations of Avaya
 - **[[Politics Index|Politics]]** <br> Government & Law
 
 </div>
