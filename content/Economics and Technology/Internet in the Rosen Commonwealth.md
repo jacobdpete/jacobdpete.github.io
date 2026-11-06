@@ -1,0 +1,11 @@
+The internet enjoys reasonably widespread access in the [[Rosen Commonwealth]], facilitated primarily by libraries, community centers, and other government institutions. Private ownership of computers is uncommon, with about one in fifteen households owning a personal computer. Private computers rely on dial-up internet, especially to access non-domestic traffic[^1]. Thus, internet access is enabled by terminals in public institutions, primarily for online discussion and educational access.
+PeEAS[^2], a precursor to the internet established in 2012, connected educational institutions in the [[West Ayan Republic]]. Cables connecting PeEAS to [[Saya]] and later the Rosen Commonwealth enabled international traffic between universities, with the first packet sent between Mariteaux Technical Institute and São Cedillo University in 2015. The Commonwealth created AFINFONET[^3], a military file-sharing system, which grew into the CPN[^4] in 2023, the first true consumer-oriented internet, complete with an associated web browser, CPN Browser. The CPN and CPN Browser, coupled with the establishment of the Office of Internet Policy in 2025 to facilitate the inclusion of non-educational traffic, became major successes in the Commonwealth and internationally. Upgrades to CPN Browser introduced the point-and-click interface and allowed text and images to be displayed on the same page, making usage more intuitive.
+Consumer interest in the internet, though huge internationally, began to dampen in the Commonwealth, with backlash toward its commercialization becoming a major proponent of its lack of proliferation in homes. As such, the internet, at least in the Commonwealth, became a luxury only really accessible through community centers like libraries, clinics, and banks. 
+
+[^1]: The internet in most countries outside of the Commonwealth is not designed for compatibility with 56 kbps speeds, limiting international internet access to countries with less developed communications infrastructure.
+
+[^2]: Which stands for "Packet enabled Educational Access System."
+
+[^3]: Which stands for "Armed Forces INFOrmation NETwork." There's going to be a lot of acronyms. Buckle up.
+
+[^4]: Which stands for "Commonwealth Packet Network."

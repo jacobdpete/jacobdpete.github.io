@@ -1,0 +1,2 @@
+The National University (NU) is a council of institutions of higher education in the [[Rosen Commonwealth]] responsible for coordinating and advocating for education policy in the federal government. It is an organ of the Department of Education, Culture, and Science. 
+As a federated system of 
