@@ -40,7 +40,7 @@ const MenuBar: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
         <div class="sub-tier-container">
           <ul class="sub-tier">
             <li>
-              <a data-router-ignore href={`${BASE}/Culture/Culture-Index`} class={slug.includes("Culture") ? "active" : ""}>
+              <a data-router-ignore href={`${BASE}/Culture/Culture/Culture-Index`} class={slug.includes("Culture") ? "active" : ""}>
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></svg>
                 Culture
               </a>
@@ -58,13 +58,13 @@ const MenuBar: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
               </a>
             </li>
             <li>
-              <a data-router-ignore href={`${BASE}/People`} class={slug.includes("People") ? "active" : ""}>
+              <a data-router-ignore href={`${BASE}/People/People-Index`} class={slug.includes("People") ? "active" : ""}>
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
                 People
               </a>
             </li>
             <li>
-              <a data-router-ignore href={`${BASE}/Places`} class={slug.includes("Places") ? "active" : ""}>
+              <a data-router-ignore href={`${BASE}/Places/Places-Index`} class={slug.includes("Places") ? "active" : ""}>
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
                 Places
               </a>
@@ -76,7 +76,7 @@ const MenuBar: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
               </a>
             </li>
             <li>
-              <a data-router-ignore href={`${BASE}/States`} class={slug.includes("World") || slug.includes("States") ? "active" : ""}>
+              <a data-router-ignore href={`${BASE}/World/World-Index`} class={slug.includes("World") || slug.includes("States") ? "active" : ""}>
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10z"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/><path d="M2 12h20"/></svg>
                 World
               </a>
