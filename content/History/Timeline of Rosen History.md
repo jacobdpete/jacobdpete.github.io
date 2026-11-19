@@ -45,3 +45,16 @@
 - **1871** **[[Concordance of São Lola]]:** Confederalists and Socialists meet in São Lola, on the Leeward Coast, to reform the **[[Rosen Federal Union]]**; Confederalists push for a new state, the **[[Rosen Republic]]**, with a weaker presidency and a bicameral legislature. Confederalists lead the conference and Socialist forces are pushed to disarm and dissolve.
 
 # [[Rosen Republic]]
+- **1871** The Rosen Republic is founded, with Vincenzo Salera, a relatively unknown democrat, as provisional president; Ribeiro angles for a military-backed provisional government, faces opposition from industrial delegates who back Maurycy Basara. Ribeiro becomes commander-in-chief.
+- **1872** Salera remains president, and puts Basara and Ribeiro in charge of drafting a constitution; they come up with the [[New Articles of Association for the Rosen Republic|New Articles]], a temporary bill of rights finally establishing freedom of speech, press, and assembly.
+- **1875** The constitution, after three years of bickering and deadlock, is finally promulgated, with national presidential elections scheduled for January 1876.
+- **1876** Salera wins reelection, but resigns at the end of the year due to to a bribery scandal. His vice president, popular industrialist Joaquim Neves-Coelho, becomes president at the end of the year.
+- **1879** Sasei River Railway merges with Northeast Lines, becoming Northeast Passenger Railways (NPR), the first major rail company in the Republic.
+- **1881** Coelho passes the Deregulation Acts, a package of laws deregulating rapidly-growing industries such as railways, real estate, steelmaking, oil extraction, and banking.
+- **1884** Rosen National Bank acquires First Vian Bank becoming the largest bank in the Republic; CEO Lúcio Queiroz becomes the first multi-millionaire.
+- **1885** **The Great Strike**: A general strike is declared by the Industrial Labor Union (ILU), resulting in a week of riots and counter-strikes; Coelho's response is deemed weak and he resigns; He is replaced by Leon Podolak, president of the São Cedillo Chamber of Commerce.
+- **1889** Veli territory is divided into the Veli, Selya, and Fevei Republics; The entire Rosen mainland is "organized."
+- **1893** Leon Podolak fails to win a third term; Vítor Maldonado de Assis, known as VMA, a prominent trade unionist and reformer, narrowly becomes president.
+- **1895** National Petrochemical becomes the largest company in the world by market capitalization; The same year, strike breakers attack Velese conservationists, resulting in the Assis administration investigating the company.
+- **1896** **National Petrochemical v. Rosen Republic:** National Petrochemical is ordered by the Department of Commerce to split up, it refuses; the courts rule in National's favor; inadvertently establishes corporate personhood.
+- **1897** Assis, in the last year of his term, creates a first-of-its-kind social security system for the Republic.
