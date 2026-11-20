@@ -4,7 +4,6 @@
 - **1605** The Sayan Empire, in the midst of a brutal war of attrition with the Kingdom of Andolina, purchases New Avetoix and grants charters for resource extraction in East Aya.
 - **1792** **The Winter Revolution:** Colonists and indigenous East Ayans, calling themselves Rosens, ally to expel the Sayans from East Aya.
 - **1793** **Congress of Wallaceburg:** Prominent Sennans organize to form a federal "republic of republics," with a strong collective presidency.
-
 # [[Rosen Federal Union]]
 
 ## First System
@@ -14,7 +13,6 @@
 - **1821** **The Philanthropic Resolution:** Wealthy Sennans, worried about revolting workers, urge the Red Council to institute democratic reforms, including universal male suffrage.
 - **1824** **Battle of Navarro:** Pro-democracy farm workers, including minority sharecroppers, storm and burn the Sennan legislature building, facing resistance from local militias organized by wealthy farmers.
 - **1829** Ruiz resigns, backing a proposed charter to overhaul the federal government, which passes.
-
 ## Second System
 
 - **1829** The Second Charter replaces the First Charter, instituting universal male suffrage for elections, abolishing poll taxes and literacy tests, and banning slavery in unorganized territories.
@@ -29,7 +27,6 @@
 - **1856** Gold is discovered in the central plains, resulting in a massive migration west, causing an economic crisis in emptied-out Seaboard cities and further ethnic cleansing in the plains.
 - **1857** Fidalgo uses the military to conquer the rest of the plains, "organizing" the territory from ocean to ocean; the campaign is unsuccessful due to a lack of equipment and a massive alliance of indigenous tribes.
 - **1857** Fidalgo steps down and puts his brother, Joao Fidalgo, in his place; Joao is seen as untrustworthy, incapable, and corrupt, and so Seaboard republics, excluding Sasei, secede from the republic.
-
 # [[First Rosen Civil War]]
 
 - **1858** Socialists in the northern Seaboard cities secede, with leftist power centered in **[[São Cedillo]]**; the rest of Sasei is held by pro-Council "Reds," while other factions call themselves "Confederalists"—a three-sided civil war is at play.
@@ -43,8 +40,8 @@
 - **1870** **Battle of Nova Ponte:** Disgruntled Confederalists attack Socialists in the plains; Ribeiro goes along with it and dissolves the PA.
 - **1871** Confederalists, now in control of agriculture, starve the Socialists and Reds into submission, resulting in the surrender of the Reds in March and an armistice with the Socialists in October.
 - **1871** **[[Concordance of São Lola]]:** Confederalists and Socialists meet in São Lola, on the Leeward Coast, to reform the **[[Rosen Federal Union]]**; Confederalists push for a new state, the **[[Rosen Republic]]**, with a weaker presidency and a bicameral legislature. Confederalists lead the conference and Socialist forces are pushed to disarm and dissolve.
-
 # [[Rosen Republic]]
+## First Republic
 - **1871** The Rosen Republic is founded, with Vincenzo Salera, a relatively unknown democrat, as provisional president; Ribeiro angles for a military-backed provisional government, faces opposition from industrial delegates who back Maurycy Basara. Ribeiro becomes commander-in-chief.
 - **1872** Salera remains president, and puts Basara and Ribeiro in charge of drafting a constitution; they come up with the [[New Articles of Association for the Rosen Republic|New Articles]], a temporary bill of rights finally establishing freedom of speech, press, and assembly.
 - **1875** The constitution, after three years of bickering and deadlock, is finally promulgated, with national presidential elections scheduled for January 1876.
@@ -58,3 +55,4 @@
 - **1895** National Petrochemical becomes the largest company in the world by market capitalization; The same year, strike breakers attack Velese conservationists, resulting in the Assis administration investigating the company.
 - **1896** **National Petrochemical v. Rosen Republic:** National Petrochemical is ordered by the Department of Commerce to split up, it refuses; the courts rule in National's favor; inadvertently establishes corporate personhood.
 - **1897** Assis, in the last year of his term, creates a first-of-its-kind social security system for the Republic.
+- **1900** Over 
