@@ -13,6 +13,7 @@ The RFU had autocratic tendencies and increasing repression and discontent over 
 The [[Rosen Republic]] was the first Rosen attempt at true democracy, at last introducing universal suffrage and a more conventional presidential system of government. It saw ethnic tension increase and climax in the riots of the 1950s and 60s.
 While the RFU enforced autocracy politically, the Rosen Republic and the rapid development of industrial capitalism led to economic repression. Pervasive inequality in all areas of life characterized the Rosen Republic's lifespan, which, like the RFU, resulted in another [[Second Rosen Civil War|Civil War]].
 - [[Rosen Republic]]
+- [[List of Presidents of the Rosen Republic]]
 - [[New Articles of Association for the Rosen Republic|The New Articles]]
 - [[Cold War]]
 - [[SLTO]]
